@@ -19,6 +19,7 @@ BRAND_NAME = "UNTUCKit"
 
 SIZE_OPTION_HINTS = ("size",)
 COLOR_OPTION_HINTS = ("color", "colour")
+FIT_OPTION_HINTS = ("fit",)  # UNTUCKit stores Tall/Slim/Regular as a separate "Fit" dropdown
 
 
 def _find_option_index(option_names: list, hints: tuple) -> int:
@@ -36,6 +37,7 @@ def _parse_product(product: dict) -> list:
     option_names = [o.get("name", "") for o in product.get("options", [])]
     size_idx = _find_option_index(option_names, SIZE_OPTION_HINTS)
     color_idx = _find_option_index(option_names, COLOR_OPTION_HINTS)
+    fit_idx = _find_option_index(option_names, FIT_OPTION_HINTS)
 
     def option_value(variant, idx):
         if idx < 0:
@@ -47,7 +49,20 @@ def _parse_product(product: dict) -> list:
     if not available_variants:
         return []
 
-    sizes = sorted({option_value(v, size_idx) for v in available_variants if option_value(v, size_idx)})
+    def combined_size(variant):
+        raw_size = option_value(variant, size_idx)
+        fit = option_value(variant, fit_idx).lower()
+        if not raw_size:
+            return ""
+        base = raw_size.strip().upper()
+        base_map = {"SMALL": "S", "MEDIUM": "M", "LARGE": "L", "X-LARGE": "XL",
+                    "XX-LARGE": "XXL", "XXX-LARGE": "XXXL"}
+        base = base_map.get(base, base)
+        if "tall" in fit:
+            return f"{base}T"
+        return base
+
+    sizes = sorted({combined_size(v) for v in available_variants if combined_size(v)})
     color = option_value(available_variants[0], color_idx)
 
     def to_float(x):

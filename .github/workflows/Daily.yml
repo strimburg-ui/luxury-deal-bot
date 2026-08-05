@@ -29,7 +29,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
 
-           - name: Commit updated dedup database
+      - name: Commit updated dedup database
         run: |
           git config --global user.name "deal-bot"
           git config --global user.email "deal-bot@users.noreply.github.com"
@@ -37,4 +37,3 @@ jobs:
           git diff --staged --quiet || git commit -m "Update seen deals [skip ci]"
           git pull --rebase --autostash
           git push
-

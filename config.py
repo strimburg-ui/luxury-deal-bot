@@ -12,6 +12,7 @@ BRAND_TIERS = {
     "A": [
         "Brooks Brothers", "J.Crew", "Billy Reid", "Faherty", "Rodd & Gunn",
         "Onward Reserve", "Drake's", "Rhoback", "Johnnie-O", "Buck Mason",
+        "UNTUCKit", "Ledbury", "Alex Mill",
     ],
     "B": [
         "Zegna", "Canali", "Loro Piana", "Brunello Cucinelli", "Paul Stuart",
@@ -62,6 +63,7 @@ SOURCES = [
     "billy_reid",
     "ledbury",
     "alex_mill",
+    "untuckit",
     "ebay",
     # The following are confirmed blocked by enterprise bot-protection
     # (Incapsula, Akamai, Salesforce Commerce Cloud) — left here so they're

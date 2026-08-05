@@ -60,6 +60,8 @@ SOURCES = [
     "todd_snyder",
     "faherty",
     "billy_reid",
+    "ledbury",
+    "alex_mill",
     "ebay",
     # The following are confirmed blocked by enterprise bot-protection
     # (Incapsula, Akamai, Salesforce Commerce Cloud) — left here so they're

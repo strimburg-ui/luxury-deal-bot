@@ -50,6 +50,7 @@ TARGET_COLORS = [
 TARGET_CATEGORIES = [
     "sweater", "quarter-zip", "quarter zip", "1/4 zip", "overshirt",
     "knit", "trouser", "chino", "cardigan", "half-zip", "half zip",
+    "shirt", "button-down", "button down", "oxford",
 ]
 
 # ---- Discount threshold ----

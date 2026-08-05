@@ -59,6 +59,7 @@ MIN_DISCOUNT_PERCENT = 30
 SOURCES = [
     "todd_snyder",
     "faherty",
+    "billy_reid",
     "ebay",
     # The following are confirmed blocked by enterprise bot-protection
     # (Incapsula, Akamai, Salesforce Commerce Cloud) — left here so they're

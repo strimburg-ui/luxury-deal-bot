@@ -29,8 +29,6 @@ def _find_option_index(option_names: list, hints: tuple) -> int:
 
 
 def _parse_product(product: dict) -> list:
-    """A Shopify 'product' can have many variants (size/color combos).
-    We return one deal dict per product, aggregating available sizes."""
     variants = product.get("variants", [])
     if not variants:
         return []
@@ -74,6 +72,9 @@ def _parse_product(product: dict) -> list:
     product_type = product.get("product_type", "")
     tags = ", ".join(product.get("tags", []))
 
+    images = product.get("images", [])
+    image_url = images[0].get("src", "") if images else ""
+
     return [{
         "deal_id": url,
         "source": SOURCE_NAME,
@@ -85,13 +86,14 @@ def _parse_product(product: dict) -> list:
         "available_sizes": sizes,
         "color": color,
         "category_text": f"{product_type} {tags} {title}",
+        "image_url": image_url,
     }]
 
 
 def fetch_deals() -> list:
     deals = []
     page = 1
-    max_pages = 10  # safety cap — sale collections are usually a few hundred items
+    max_pages = 10
 
     while page <= max_pages:
         url = f"{BASE_URL}/collections/{COLLECTION_HANDLE}/products.json?limit=250&page={page}"
@@ -107,7 +109,7 @@ def fetch_deals() -> list:
 
         products = data.get("products", [])
         if not products:
-            break  # no more pages
+            break
 
         for product in products:
             deals.extend(_parse_product(product))

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T21:14:16.942700+00:00",
-  "count": 50,
+  "updated_at": "2026-08-05T21:22:51.335184+00:00",
+  "count": 63,
   "deals": [
     {
       "title": "Italian Tuxedo Trouser",
@@ -40,6 +40,26 @@
         "38R",
         "40L",
         "42R"
+      ]
+    },
+    {
+      "title": "Short Sleeve Hemp Cotton Knit Shirt",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 70.5,
+      "original_price": 178.0,
+      "discount_percent": 60.4,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/short-sleeve-hemp-cotton-knit-shirt-navy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s25_104-674_short-sleeve-hemp-cotton-knit-shirt_navy_1.jpg?v=1762200609",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -202,6 +222,117 @@
         "44R",
         "46L",
         "46R"
+      ]
+    },
+    {
+      "title": "Short Sleeve Hemp Cotton Knit Shirt",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 88.5,
+      "original_price": 178.0,
+      "discount_percent": 50.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/short-sleeve-hemp-cotton-knit-shirt-sky-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_104-674_short-sleeve-hemp-cotton_sky-blue_1.jpg?v=1774557928",
+      "color": "Sky Blue",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Cotton Linen Sweater Polo",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 98.5,
+      "original_price": 198.0,
+      "discount_percent": 50.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/cotton-linen-sweater-polo-sky-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_103-338_cotton-linen-sweater-polo_sky-blue_1.jpg?v=1774547918",
+      "color": "Sky Blue",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Mini Waffle Crew",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 113.5,
+      "original_price": 228.0,
+      "discount_percent": 50.2,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/mini-waffle-crew",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/products/s23_103-112_mini-waffle-crew_grey_0010.jpg?v=1762198104",
+      "color": "Grey",
+      "available_sizes": [
+        "L",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Diamond Quilt Shawl",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 113.5,
+      "original_price": 228.0,
+      "discount_percent": 50.2,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/diamond-quilt-shawl-dark-navy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f23_104-151_diamond-quilt-shawl_dark-navy_0010.jpg?v=1762199450",
+      "color": "Dark Navy",
+      "available_sizes": [
+        "S",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Giles Knit Sport Coat",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 348.5,
+      "original_price": 698.0,
+      "discount_percent": 50.1,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/giles-knit-sportcoat-navy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_104-824_giles-knit-sportcoat_navy_1.jpg?v=1770745534",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Linen Sweater Track Jacket",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 198.5,
+      "original_price": 398.0,
+      "discount_percent": 50.1,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/linen-sweater-track-jacket-navy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_103-335_linen-sweater-track-jacket_navy_1.jpg?v=1769636096",
+      "color": "Navy",
+      "available_sizes": [
+        "XL",
+        "XXL"
       ]
     },
     {
@@ -1047,6 +1178,112 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FAH3586_SP25_MENS_MKU2417-RAH_SSMOVEMENTTSHIRT_RainierGreyHeather_OM_FRONT_CROP_1.jpg?v=1752810341",
       "color": "Rainier Grey Heather",
       "available_sizes": [
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Short Sleeve Slub Tuck Crew",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 82.0,
+      "original_price": 118.0,
+      "discount_percent": 30.5,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/short-sleeve-slub-tuck-crew-sky-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_104-820_short-sleeve-slub-tuck-crew_sky-blue_1_5171de4c-1937-48e7-8de5-5ea6bb45e751.jpg?v=1778254193",
+      "color": "Sky Blue",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Long Sleeve Pensacola Polo",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 89.0,
+      "original_price": 128.0,
+      "discount_percent": 30.5,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/l-s-pensacola-polo-washed-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/products/s23_104-578_ls-pensacola-polo_washed-grey_001.jpg?v=1762198938",
+      "color": "Washed Grey",
+      "available_sizes": [
+        "XXL"
+      ]
+    },
+    {
+      "title": "French Terry Hoodie Pullover",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 159.0,
+      "original_price": 228.0,
+      "discount_percent": 30.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/french-terry-hoodie-pullover-washed-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_104-808_french-terry-hoodie-pullover_washed-grey_1.jpg?v=1770069610",
+      "color": "Washed Grey",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
+      "title": "Short Sleeve Textured Treme Knit Shirt",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 138.0,
+      "original_price": 198.0,
+      "discount_percent": 30.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/short-sleeve-textured-treme-knit-shirt-grey-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_104-783_short-sleeve-textured-treme-knit-shirt_grey-heather_1copy.jpg?v=1772216955",
+      "color": "Grey Heather",
+      "available_sizes": [
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Diamond Quilt Half Zip",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 138.0,
+      "original_price": 198.0,
+      "discount_percent": 30.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/diamond-quilt-half-zip-medium-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f25_104-644_diamond-quilt-half-zip_medium-grey_1.jpg?v=1758905217",
+      "color": "Medium Grey",
+      "available_sizes": [
+        "S",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Luxury Dover Sweater",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 278.0,
+      "original_price": 398.0,
+      "discount_percent": 30.2,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/luxury-dover-sweater-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f25_103-286_luxury-dover-sweater_grey_1.jpg?v=1758816491",
+      "color": "Grey",
+      "available_sizes": [
+        "M",
+        "S",
         "XS",
         "XXL"
       ]

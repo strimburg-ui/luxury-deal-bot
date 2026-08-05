@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T21:44:53.434444+00:00",
-  "count": 63,
+  "updated_at": "2026-08-05T21:54:08.071109+00:00",
+  "count": 102,
   "deals": [
     {
       "title": "Italian Tuxedo Trouser",
@@ -63,6 +63,59 @@
       ]
     },
     {
+      "title": "Bradley Gordon x Billy Reid Pelican Melange Wilson Shirt",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 98.5,
+      "original_price": 248.0,
+      "discount_percent": 60.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/bradley-gordon-x-billy-reid-pelican-melange-wilson-khaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/F25_102-2043_BradleyGordonBillyReidPelicanMelangeWilson_Khaki_001.jpg?v=1754491268",
+      "color": "Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Short-Sleeve Breeze Shirt - Navy Perro Tropical",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 69.0,
+      "original_price": 158.0,
+      "discount_percent": 56.3,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ss-breeze-shirt-navy-perro-tropical",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU25-FAHERTY-MENS-MWS2516-NPT-SsBreezeShirt-NavyPerroTropical_FRONT_OM_WS_1.jpg?v=1752808223",
+      "color": "Navy Perro Tropical",
+      "available_sizes": [
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Movement\u2122 Hoodie - Rock Grey Feeder",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 74.0,
+      "original_price": 168.0,
+      "discount_percent": 56.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/movement-hoodie-rock-grey-feeder",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/2_SP25-FAHERTY-MENS-MQS2505-RYF-MovementHoodie-RockGreyFeeder_OM_FRONT_CROP_1.jpg?v=1753301588",
+      "color": "Rock Grey Feeder",
+      "available_sizes": [
+        "S",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Coastline Knit Shirt - Fox Grey Gingham",
       "brand": "Faherty",
       "tier": "A",
@@ -96,6 +149,132 @@
         "S",
         "XL",
         "XS"
+      ]
+    },
+    {
+      "title": "Short-Sleeve Movement\u2122 Shirt - Ivory Endless Peaks",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 69.0,
+      "original_price": 148.0,
+      "discount_percent": 53.4,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ss-movement-shirt-ivory-endless-peaks-1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FAH1020_SU24-faherty-MWS2330-IEP-ss-movement-shirt-ivory-endless-peaks_OM_FRONT_CROP_1.jpg?v=1753274368",
+      "color": "Ivory Endless Peaks",
+      "available_sizes": [
+        "L",
+        "M"
+      ]
+    },
+    {
+      "title": "Cotton Twill Long Point Collar Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 74.0,
+      "original_price": 158.0,
+      "discount_percent": 53.2,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/cotton-twill-long-point-sport-shirtivory",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FW25_SEPT_SH22810468_IVORY_FL1_R.jpg?v=1755023328",
+      "color": "Ivory",
+      "available_sizes": [
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "The Movement\u2122 Shirt - Grey Falls Plaid",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 79.0,
+      "original_price": 168.0,
+      "discount_percent": 53.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-grey-falls-plaid",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FA25-FAHERTY-Mens-MWC0082-GYF-TheMovementShirt-GreyFallsPlaid_OM_EDITORIAL_1_Web.jpg?v=1758586573",
+      "color": "Grey Falls Plaid",
+      "available_sizes": [
+        "S",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Palmetto Shirt - Stone Palm Check",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 84.0,
+      "original_price": 178.0,
+      "discount_percent": 52.8,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/palmetto-shirt-stone-palm-check",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2616-PMC-HuntingIslandShirt-StonePalmCheck_OM_EDITORIAL_1_Web.jpg?v=1769445580",
+      "color": "Stone Palm Check",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Rayon Big Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 94.0,
+      "original_price": 198.0,
+      "discount_percent": 52.5,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/rayon-big-shirt-stripeivory",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FW25_SH23810163_IVORY_AUG_FL1_R.jpg?v=1752068837",
+      "color": "Ivory",
+      "available_sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Cotton-Silk Big Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 94.0,
+      "original_price": 198.0,
+      "discount_percent": 52.5,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/silk-sport-shirtkhaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/SH25810226_KHAKI_MAY_0175_R.jpg?v=1744302196",
+      "color": "Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
+      "title": "Angler Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 94.0,
+      "original_price": 198.0,
+      "discount_percent": 52.5,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/fishing-shirtivory",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH373148_IVORY_FL1_R.jpg?v=1771973149",
+      "color": "Ivory",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -225,6 +404,25 @@
       ]
     },
     {
+      "title": "Tuscumbia Linen Shirt Button Down",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 98.5,
+      "original_price": 198.0,
+      "discount_percent": 50.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/tuscumbia-linen-shirt-button-down-british-khaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_102-1508C_tuscumbia-linen-shirt-button-down_british-khaki_1.jpg?v=1770828842",
+      "color": "British Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Short Sleeve Hemp Cotton Knit Shirt",
       "brand": "Billy Reid",
       "tier": "A",
@@ -281,6 +479,43 @@
         "XL",
         "XS",
         "XXL"
+      ]
+    },
+    {
+      "title": "Melange Heron Swarm Tuscumbia Shirt Button Down",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 123.5,
+      "original_price": 248.0,
+      "discount_percent": 50.2,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/melange-heron-swarm-tuscumbia-shirt-button-down-khaki-multi",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_102-2126_melange-heron-swarm-tuscumbia-shirt-button_khaki-multi_1_aa9caa06-a2f7-4fa1-a17b-418a9a4fe7ac.jpg?v=1773866950",
+      "color": "Khaki Multi",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Dobby Stripe Tuscumbia Shirt Button Down",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 113.5,
+      "original_price": 228.0,
+      "discount_percent": 50.2,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/dobby-stripe-tuscumbia-shirt-button-down-british-khaki-multi",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f25_102-2039_dobby-stripe-tuscumbia-shirt_british-khakhi-multi_1.jpg?v=1762200736",
+      "color": "British Khaki Multi",
+      "available_sizes": [
+        "M",
+        "S",
+        "XS"
       ]
     },
     {
@@ -355,6 +590,24 @@
       ]
     },
     {
+      "title": "Merino Hollywood Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 114.0,
+      "original_price": 228.0,
+      "discount_percent": 50.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/ls-merino-hollywood-shirtkhaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FW25_SEPT_SH1040589_KHAKI_0402_R_3597ca6f-9376-42c2-a47a-13d177c94d37.jpg?v=1758564931",
+      "color": "Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XS"
+      ]
+    },
+    {
       "title": "Linen Jersey Tee",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -369,6 +622,46 @@
         "M",
         "S",
         "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Sueded Tencel Hollywood Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 124.0,
+      "original_price": 248.0,
+      "discount_percent": 50.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/sueded-tencel-hollywood-shirtcream",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/JAN26_SH10410438_CREAM_FL1_R.jpg?v=1764082671",
+      "color": "Cream",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Easy Cut Summerweight Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 74.0,
+      "original_price": 148.0,
+      "discount_percent": 50.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/ss-solid-slub-summerweight-shirtsky-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH3810255_RAPIDS_F1_R.jpg?v=1771973115",
+      "color": "Sky Blue",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
         "XXL"
       ]
     },
@@ -406,6 +699,26 @@
       "available_sizes": [
         "XL",
         "XS"
+      ]
+    },
+    {
+      "title": "Sueded Tencel Hollywood Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 124.0,
+      "original_price": 248.0,
+      "discount_percent": 50.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/sueded-tencel-hollywood-shirtlight-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/JAN26_SH10410438_LIGHTBLUE_FL1_R.jpg?v=1764082725",
+      "color": "Light Blue",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -463,6 +776,24 @@
       ]
     },
     {
+      "title": "Long-Sleeve Breeze Shirt - Redstone Valley Plaid",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 84.0,
+      "original_price": 168.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ls-breeze-shirt-redstone-valley-plaid",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP25-FAHERTY-MENS-MWS2543-RVE-LsBreezeShirt-RedstoneValleyPlaid_OM_FRONT_CROP_1.jpg?v=1752808508",
+      "color": "Redstone Valley Plaid",
+      "available_sizes": [
+        "M",
+        "S",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Short-Sleeve Linen Sweater Polo - Ivory Steel Feeder",
       "brand": "Faherty",
       "tier": "A",
@@ -476,6 +807,94 @@
       "available_sizes": [
         "XL",
         "XXL"
+      ]
+    },
+    {
+      "title": "Whitewater Hoodie - Ivory Shell",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 94.0,
+      "original_price": 188.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/whitewater-hoodie-ivory-shell",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU25-FAHERTY-MENS-MQS2519-IYS-WhitewaterHoodie-IvoryShell_FRONT_OM_WS_1.jpg?v=1752809010",
+      "color": "Ivory Shell",
+      "available_sizes": [
+        "XXL"
+      ]
+    },
+    {
+      "title": "Whitewater Full Zip Hoodie - Grey Shell Loop",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 99.0,
+      "original_price": 198.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/whitewater-full-zip-hoodie-grey-shell-loop",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP25_MENS_MQS2413-GSL_WHITEWATER_FULL_ZIP_HOODIE_Grey_Shell_Loop_OM_DETAIL2_1.jpg?v=1752810640",
+      "color": "Grey Shell Loop",
+      "available_sizes": [
+        "L",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Cropped Embroidered Eyelet Camp Collar Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 124.0,
+      "original_price": 228.0,
+      "discount_percent": 45.6,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/ls-check-eyelet-shirtcream",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/SH7310290_CREAM_FEB_1640_R.jpg?v=1744731597",
+      "color": "Cream",
+      "available_sizes": [
+        "L",
+        "M",
+        "XL"
+      ]
+    },
+    {
+      "title": "Belmar Workshirt - Sienna Cream Stripe",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 109.0,
+      "original_price": 198.0,
+      "discount_percent": 44.9,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/belmar-workshirt-sienna-cream-stripe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2615-IMR-BelmarWorkshirt-SiennaCreamStripe_OM_FRONT_CROP_1_Web.jpg?v=1771430073",
+      "color": "Sienna Cream Stripe",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Easy Cut Poplin Sport Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 99.0,
+      "original_price": 178.0,
+      "discount_percent": 44.4,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-stripe-big-shirtlight-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/DEC25_SH23810342_LIGHT_BLUE_FL1_R.jpg?v=1763993477",
+      "color": "Light Blue",
+      "available_sizes": [
+        "L",
+        "XL",
+        "XS"
       ]
     },
     {
@@ -591,6 +1010,25 @@
       ]
     },
     {
+      "title": "Whitewater Hoodie - Navy Point Stripe",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 109.0,
+      "original_price": 188.0,
+      "discount_percent": 42.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/whitewater-hoodie-navy-point-stripe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FA25-FAHERTY-Mens-MQF2504-NPI-Whitewater_Hoodie-Navy_Point_Stripe_OM_EDITORIAL_1_Web.jpg?v=1759937140",
+      "color": "Navy Point Stripe",
+      "available_sizes": [
+        "L",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "High Standard Fleece Quarter Zip - Antique Ivory Heather",
       "brand": "Faherty",
       "tier": "A",
@@ -603,6 +1041,58 @@
       "color": "Antique Ivory Heather",
       "available_sizes": [
         "L"
+      ]
+    },
+    {
+      "title": "Doug Good Feather Movement\u2122 Hoodie - Grey Night Stars",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 99.0,
+      "original_price": 168.0,
+      "discount_percent": 41.1,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/doug-good-feather-movement-hoodie-grey-night-stars",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MQH2509-GYN-DougGoodFeatherMovementHoodie-GreyNightStars_WS_FRONT_CROP_1_High_Web.jpg?v=1768510470",
+      "color": "Grey Night Stars",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Italian Satin Big Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 294.0,
+      "original_price": 498.0,
+      "discount_percent": 41.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/stripe-point-collar-shirtlight-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/OCT25_SH23810440_LIGHTBLUE_FL1_R.jpg?v=1760457108",
+      "color": "Light Blue",
+      "available_sizes": [
+        "L",
+        "M",
+        "XL",
+        "XS"
+      ]
+    },
+    {
+      "title": "The Movement\u2122 Shirt (Tall) - Light Blue Gingham",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 94.0,
+      "original_price": 158.0,
+      "discount_percent": 40.5,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/the-movement-sport-shirt-tall-light-blue-gingham",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP25_MENS_MWC0082-LBI_THE_MOVEMENT_SHIRT_Light_Blue_Gingham_OM_FRONT_CROP_1_64ad1285-4891-4626-ad4d-21dd2849521f.jpg?v=1752810668",
+      "color": "Light Blue Gingham",
+      "available_sizes": [
+        "XXLT"
       ]
     },
     {
@@ -687,6 +1177,25 @@
         "35/32",
         "36/32",
         "38/32"
+      ]
+    },
+    {
+      "title": "Linen Western Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 149.0,
+      "original_price": 248.0,
+      "discount_percent": 39.9,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/western-shirt-faint-stripebeige",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH29310692_BEIGE_FL1_R.jpg?v=1772052667",
+      "color": "Beige",
+      "available_sizes": [
+        "L",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -854,6 +1363,61 @@
         "L",
         "M",
         "XL"
+      ]
+    },
+    {
+      "title": "Surf Shop High Standard Fleece Hoodie - Antique Ivory Heather",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 109.0,
+      "original_price": 178.0,
+      "discount_percent": 38.8,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/surf-shop-high-standard-fleece-hoodie-antique-ivory-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MQS2619-AQV-SurfShopHighStandardFleeceHoodie-AntiqueIvoryHeather_OM_FULL_BODY_1_Web.jpg?v=1771367793",
+      "color": "Antique Ivory Heather",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "The Movement\u2122 Shirt - Faded Khaki Gingham",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 104.0,
+      "original_price": 168.0,
+      "discount_percent": 38.1,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-faded-khaki-gingham",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWC0082-AFK-TheMovementShirt-FadedKhakiGingham_OM_FRONT_CROP_2_Web.jpg?v=1771379910",
+      "color": "Faded Khaki Gingham",
+      "available_sizes": [
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "The Movement\u2122 Shirt - Grey Cloud Plaid",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 104.0,
+      "original_price": 168.0,
+      "discount_percent": 38.1,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-grey-cloud-plaid",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWC0082-GYL-TheMovementShirt-GreyCloudPlaid_OM_FRONT_CROP_1_Web.jpg?v=1771380366",
+      "color": "Grey Cloud Plaid",
+      "available_sizes": [
+        "S",
+        "XL",
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -1167,6 +1731,136 @@
       ]
     },
     {
+      "title": "Easy Cut Summerweight Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 99.0,
+      "original_price": 148.0,
+      "discount_percent": 33.1,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/summerweight-ss-big-shirt-window-panekhaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH3810497_KHAKI_FL1_R.jpg?v=1771962871",
+      "color": "Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Poplin Utility Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 119.0,
+      "original_price": 178.0,
+      "discount_percent": 33.1,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-welt-pocket-big-shirt-pinstripeivory",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH24810511_IVORY_FL1_R.jpg?v=1771866174",
+      "color": "Ivory",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "The Movement\u2122 Shirt - Ivory Sea Plaid",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 114.0,
+      "original_price": 168.0,
+      "discount_percent": 32.1,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/the-movement-shirt-ivory-sea-plaid",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MWC0082-IAD-TheMovementShirt-IvorySeaPlaid_WS_FRONT_CROP_1_High_Web.jpg?v=1768513027",
+      "color": "Ivory Sea Plaid",
+      "available_sizes": [
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Capri Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 129.0,
+      "original_price": 188.0,
+      "discount_percent": 31.4,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/capri-shirt-solidnavy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH810915_NAVY_FL1_R.jpg?v=1771962836",
+      "color": "Navy",
+      "available_sizes": [
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
+      "title": "Poplin Sport Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 109.0,
+      "original_price": 158.0,
+      "discount_percent": 31.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-sport-shirt-double-stripenavy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_SH22810507_NAVY_FL1_R.jpg?v=1768248710",
+      "color": "Navy",
+      "available_sizes": [
+        "M",
+        "S",
+        "XS"
+      ]
+    },
+    {
+      "title": "Poplin Sport Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 109.0,
+      "original_price": 158.0,
+      "discount_percent": 31.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-sport-shirt-double-stripeivory",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_SH22810509_IVORY_FL1_R.jpg?v=1768248838",
+      "color": "Ivory",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Poplin Sport Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 109.0,
+      "original_price": 158.0,
+      "discount_percent": 31.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-sport-shirt-ombrenavy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_SH22810498_NAVY_FL1_R.jpg?v=1769106012",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
       "title": "Short-Sleeve Movement\u2122 T-shirt - Rainier Grey Heather",
       "brand": "Faherty",
       "tier": "A",
@@ -1234,6 +1928,26 @@
         "S",
         "XL",
         "XS"
+      ]
+    },
+    {
+      "title": "Short Sleeve Textured Dobby Stripe Contrast Treme",
+      "brand": "Billy Reid",
+      "tier": "A",
+      "price": 124.0,
+      "original_price": 178.0,
+      "discount_percent": 30.3,
+      "source": "Billy Reid",
+      "url": "https://www.billyreid.com/products/short-sleeve-textured-dobby-stripe-contrast-treme-tinted-white-khaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/s26_102-2139_short-sleeve-textured-dobby-stripe-contrast-treme_tinted-white-khaki_1.jpg?v=1777484566",
+      "color": "Tinted White/Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
       ]
     },
     {

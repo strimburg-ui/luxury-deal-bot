@@ -57,9 +57,15 @@ MIN_DISCOUNT_PERCENT = 30
 # ---- Sources to check ----
 # Each entry maps to an adapter module in adapters/ with a matching function `fetch_deals()`
 SOURCES = [
+    "todd_snyder",
+    "faherty",
+    "ebay",
+    # The following are confirmed blocked by enterprise bot-protection
+    # (Incapsula, Akamai, Salesforce Commerce Cloud) — left here so they're
+    # easy to re-enable if that ever changes, but they currently return 0
+    # results no matter what the adapter code does.
     "polo_ralph_lauren",
     "peter_millar",
-    "todd_snyder",
     "barbour",
     "vineyard_vines",
     "brooks_brothers",

@@ -1,66 +1,118 @@
 """
 Adapter for Todd Snyder's sale section.
 
-TEMPLATE — selectors are placeholders (marked # ADJUST ME). Inspect the live
-page's HTML in your browser and swap in the real class/tag names before this
-adapter will return real results. See adapters/peter_millar.py for a fully
-annotated example of this same pattern.
+Todd Snyder runs on Shopify, which publishes a free public JSON feed of every
+product in a collection — no scraping, no bot-blocking, no fragile CSS
+selectors. This is the most reliable kind of adapter in this project.
 
-This source only carries Todd Snyder, so brand is fixed.
+Feed used: https://www.toddsnyder.com/collections/sale/products.json
+
+This works the same way on any Shopify store: append /products.json to any
+/collections/<handle> URL to get the raw product data as JSON.
 """
-from bs4 import BeautifulSoup
 from adapters.base import safe_get
 
-SALE_URL = "https://www.toddsnyder.com/collections/sale"
+BASE_URL = "https://www.toddsnyder.com"
+COLLECTION_HANDLE = "sale"
 SOURCE_NAME = "Todd Snyder"
 BRAND_NAME = "Todd Snyder"
 
+SIZE_OPTION_HINTS = ("size",)
+COLOR_OPTION_HINTS = ("color", "colour")
 
-def fetch_deals() -> list:
-    resp = safe_get(SALE_URL)
-    if resp is None:
+
+def _find_option_index(option_names: list, hints: tuple) -> int:
+    for i, name in enumerate(option_names):
+        if any(h in name.lower() for h in hints):
+            return i
+    return -1
+
+
+def _parse_product(product: dict) -> list:
+    """A Shopify 'product' can have many variants (size/color combos).
+    We return one deal dict per product, aggregating available sizes."""
+    variants = product.get("variants", [])
+    if not variants:
         return []
 
-    soup = BeautifulSoup(resp.text, "html.parser")
-    deals = []
+    option_names = [o.get("name", "") for o in product.get("options", [])]
+    size_idx = _find_option_index(option_names, SIZE_OPTION_HINTS)
+    color_idx = _find_option_index(option_names, COLOR_OPTION_HINTS)
 
-    for tile in soup.select(".product-tile"):  # ADJUST ME
+    def option_value(variant, idx):
+        if idx < 0:
+            return ""
+        key = f"option{idx + 1}"
+        return variant.get(key) or ""
+
+    available_variants = [v for v in variants if v.get("available")]
+    if not available_variants:
+        return []
+
+    sizes = sorted({option_value(v, size_idx) for v in available_variants if option_value(v, size_idx)})
+    color = option_value(available_variants[0], color_idx)
+
+    def to_float(x):
         try:
-            title_el = tile.select_one(".product-title")          # ADJUST ME
-            price_el = tile.select_one(".price-sale")              # ADJUST ME
-            orig_price_el = tile.select_one(".price-original")     # ADJUST ME
-            link_el = tile.select_one("a")                         # ADJUST ME
-            color_el = tile.select_one(".color-name")              # ADJUST ME
-            brand_el = tile.select_one(".product-brand")           # ADJUST ME
-            size_els = tile.select(".size-swatch:not(.unavailable)")  # ADJUST ME
+            return float(x)
+        except (TypeError, ValueError):
+            return None
 
-            if not (title_el and price_el and orig_price_el and link_el):
-                continue
+    prices = [to_float(v.get("price")) for v in available_variants]
+    prices = [p for p in prices if p is not None]
+    if not prices:
+        return []
+    price = min(prices)
 
-            title = title_el.get_text(strip=True)
-            price = float(price_el.get_text(strip=True).replace("$", "").replace(",", ""))
-            original_price = float(orig_price_el.get_text(strip=True).replace("$", "").replace(",", ""))
-            url = link_el.get("href")
-            if url and url.startswith("/"):
-                url = SALE_URL.split("/")[0] + "//" + SALE_URL.split("/")[2] + url
-            color = color_el.get_text(strip=True) if color_el else ""
-            sizes = [s.get_text(strip=True) for s in size_els] if size_els else []
-            brand = "Todd Snyder"
+    compare_prices = [to_float(v.get("compare_at_price")) for v in available_variants]
+    compare_prices = [p for p in compare_prices if p is not None]
+    original_price = max(compare_prices) if compare_prices else price
 
-            deals.append({
-                "deal_id": url,
-                "source": SOURCE_NAME,
-                "brand": brand,
-                "title": title,
-                "price": price,
-                "original_price": original_price,
-                "url": url,
-                "available_sizes": sizes,
-                "color": color,
-                "category_text": title,
-            })
-        except (AttributeError, ValueError) as e:
-            print(f"[todd_snyder] skipped a tile due to parse error: {e}")
-            continue
+    handle = product.get("handle", "")
+    url = f"{BASE_URL}/products/{handle}"
+    title = product.get("title", "")
+    product_type = product.get("product_type", "")
+    tags = ", ".join(product.get("tags", []))
 
+    return [{
+        "deal_id": url,
+        "source": SOURCE_NAME,
+        "brand": BRAND_NAME,
+        "title": title,
+        "price": price,
+        "original_price": original_price,
+        "url": url,
+        "available_sizes": sizes,
+        "color": color,
+        "category_text": f"{product_type} {tags} {title}",
+    }]
+
+
+def fetch_deals() -> list:
+    deals = []
+    page = 1
+    max_pages = 10  # safety cap — sale collections are usually a few hundred items
+
+    while page <= max_pages:
+        url = f"{BASE_URL}/collections/{COLLECTION_HANDLE}/products.json?limit=250&page={page}"
+        resp = safe_get(url)
+        if resp is None:
+            break
+
+        try:
+            data = resp.json()
+        except ValueError:
+            print(f"[todd_snyder] page {page} did not return valid JSON")
+            break
+
+        products = data.get("products", [])
+        if not products:
+            break  # no more pages
+
+        for product in products:
+            deals.extend(_parse_product(product))
+
+        page += 1
+
+    print(f"[todd_snyder] parsed {len(deals)} products across {page - 1} page(s)")
     return deals

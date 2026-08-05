@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T20:51:58.843221+00:00",
-  "count": 34,
+  "updated_at": "2026-08-05T21:01:37.584102+00:00",
+  "count": 50,
   "deals": [
     {
       "title": "Italian Tuxedo Trouser",
@@ -40,6 +40,23 @@
         "38R",
         "40L",
         "42R"
+      ]
+    },
+    {
+      "title": "Coastline Knit Shirt - Fox Grey Gingham",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 79.0,
+      "original_price": 178.0,
+      "discount_percent": 55.6,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/coastline-knit-shirt-fox-grey-gingham",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FA25-FAHERTY-Mens-MXF2400-FXG-CoastlineKnitShirt-FoxGreyGingham_OM_FRONT_CROP_1_Web.jpg?v=1755805104",
+      "color": "Fox Grey Gingham",
+      "available_sizes": [
+        "S",
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -261,6 +278,92 @@
       ]
     },
     {
+      "title": "Sunwashed Crewneck Sweater - Ivory Night Stripe",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 114.0,
+      "original_price": 228.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/sunwashed-crewneck-sweater-ivory-night-stripe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2628-IEG-SunwashedCrewneckSweater-IvoryNightStripe_OM_FRONT_CROP_1_Web.jpg?v=1771342277",
+      "color": "Ivory Night Stripe",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Heirloom Crewneck Sweater - Heather Grey",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 124.0,
+      "original_price": 248.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/heirloom-crewneck-sweater-heather-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-Faherty-Mens-MYF2501-GYH-HeirloomCrewneckSweater-IceGreyHeather_OM_EDITORIAL_1_Web_fadf7f5f-7ae7-4762-8945-3dceac3ecdd4.jpg?v=1765908677",
+      "color": "Heather Grey",
+      "available_sizes": [
+        "XXL"
+      ]
+    },
+    {
+      "title": "Short-Sleeve Movement\u2122 Pique Polo - Ivory Paradise Palm",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 59.0,
+      "original_price": 118.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ss-movement-pique-polo-ivory-paradise-palm",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SU25-FAHERTY-MENS-MKS2525-IPA-SsMovementPiquePolo-IvoryParadisePalm_FRONT_OM_WS_1.jpg?v=1752808278",
+      "color": "Ivory Paradise Palm",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Short-Sleeve Linen Sweater Polo - Ivory Steel Feeder",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 89.0,
+      "original_price": 178.0,
+      "discount_percent": 50.0,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ss-linen-sweater-polo-ivory-steel-feeder-1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP25-FAHERTY-MENS-MYS2513-IVE-SsLinenSweaterPolo-IvorySteelFeeder_OM_FRONT_CROP_1.jpg?v=1752808893",
+      "color": "Ivory Steel Feeder",
+      "available_sizes": [
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Long-Sleeve Sunwashed Tee - Dune Navy",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 49.0,
+      "original_price": 88.0,
+      "discount_percent": 44.3,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ls-sunwashed-tee-dune-navy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MKS2513-DUY-Ls_Sunwashed_Tee-Dune_Navy_OM_FRONT_CROP_1_Web.jpg?v=1765382619",
+      "color": "Dune Navy",
+      "available_sizes": [
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Italian Heathered Cotton Gurkha Trouser",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -286,6 +389,42 @@
         "34/30",
         "34/32",
         "34/34"
+      ]
+    },
+    {
+      "title": "Double Knit Crewneck - Oat Navy Stripe",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 84.0,
+      "original_price": 148.0,
+      "discount_percent": 43.2,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/double-knit-crewneck-oat-navy-stripe",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MQH2519-OVI-DoubleKnitCrewneck-OatNavyStripe_OM_FRONT_CROP_1_Web.jpg?v=1763755190",
+      "color": "Oat Navy Stripe",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Long-Sleeve Twill Knit Polo - Coastal Cream",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 84.0,
+      "original_price": 148.0,
+      "discount_percent": 43.2,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ls-twill-knit-polo-coastal-cream",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MKH2404-CTM-LSFieldKnitPolo-CoastalCream_OM_FRONT_CROP_1_Web.jpg?v=1761332464",
+      "color": "Coastal Cream",
+      "available_sizes": [
+        "XS",
+        "XXL"
       ]
     },
     {
@@ -318,6 +457,21 @@
         "36/32",
         "36/34",
         "38/32"
+      ]
+    },
+    {
+      "title": "High Standard Fleece Quarter Zip - Antique Ivory Heather",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 104.0,
+      "original_price": 178.0,
+      "discount_percent": 41.6,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/high-standard-fleece-quarter-zip-antique-ivory-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP25_MENS_MQS2503-AQV_HIGHSTANDARDFLEECEQUARTERZIP_AntiqueIvoryHeather_FRONT_OM_WS_1_44e72991-28d4-49f9-892e-4192cd5bc835.jpg?v=1765989862",
+      "color": "Antique Ivory Heather",
+      "available_sizes": [
+        "L"
       ]
     },
     {
@@ -572,6 +726,46 @@
       ]
     },
     {
+      "title": "Sunwashed Dockside Sweater - Sierra Grey Heather",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 124.0,
+      "original_price": 198.0,
+      "discount_percent": 37.4,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/sunwashed-dockside-sweater-sierra-grey-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2625-IHE-Sunwashed_Dockside_Sweater-Sierra_Grey_Heather_OM_FRONT_CROP_1_Web.jpg?v=1771340482",
+      "color": "Sierra Grey Heather",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Highland Knit CPO - Navy Ridge Melange",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 124.0,
+      "original_price": 198.0,
+      "discount_percent": 37.4,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/highland-knit-cpo-navy-ridge-melange",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MOS2607-NAR-HighlandKnitCpo-NavyRidgeMelange_OM_EDITORIAL_1_Web.jpg?v=1771341423",
+      "color": "Navy Ridge Melange",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Vista Sweater Tee",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -605,6 +799,41 @@
       ]
     },
     {
+      "title": "Highland Knit Pant - Navy Ridge Melange",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 94.0,
+      "original_price": 148.0,
+      "discount_percent": 36.5,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/highland-knit-pant-navy-ridge-melange",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MBS2635-NAR-HighlandKnitPant-NavyRidgeMelange_OM_FULL_BODY_2_Web.jpg?v=1771349172",
+      "color": "Navy Ridge Melange",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Legend\u2122 Sweater Quarter Zip - Light Heather Grey",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 94.0,
+      "original_price": 148.0,
+      "discount_percent": 36.5,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/legend-sweater-quarter-zip-light-heather-grey-1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MQH2517-LHG-LegendSweaterQuarterZip-LightHeatherGrey_OM_FRONT_CROP_1_Web.jpg?v=1761580319",
+      "color": "Light Heather Grey",
+      "available_sizes": [
+        "XXL"
+      ]
+    },
+    {
       "title": "Ribbed Cotton-Cashmere Sweater Polo",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -616,6 +845,43 @@
       "image_url": "",
       "color": "Heather Grey",
       "available_sizes": [
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Pima Cotton Cardigan - Playa Navy",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 224.0,
+      "original_price": 348.0,
+      "discount_percent": 35.6,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/pima-cotton-cardigan-playa-navy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2620-PYN-PimaCottonCardigan-PlayaNavy_OM_FULL_BODY_1_Web.jpg?v=1771439551",
+      "color": "Playa Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL"
+      ]
+    },
+    {
+      "title": "Pima Cotton Cardigan - Ivory Vista",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 224.0,
+      "original_price": 348.0,
+      "discount_percent": 35.6,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/pima-cotton-cardigan-ivory-vista",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MYS2620-IYT-PimaCottonCardigan-IvoryVista_OM_EDITORIAL_3_Web.jpg?v=1771342522",
+      "color": "Ivory Vista",
+      "available_sizes": [
+        "L",
+        "M",
         "S",
         "XL",
         "XXL"
@@ -767,6 +1033,22 @@
         "34/32",
         "34/34",
         "35/32"
+      ]
+    },
+    {
+      "title": "Short-Sleeve Movement\u2122 T-shirt - Rainier Grey Heather",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 54.0,
+      "original_price": 78.0,
+      "discount_percent": 30.8,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/ss-movement-tshirt-rainier-grey-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FAH3586_SP25_MENS_MKU2417-RAH_SSMOVEMENTTSHIRT_RainierGreyHeather_OM_FRONT_CROP_1.jpg?v=1752810341",
+      "color": "Rainier Grey Heather",
+      "available_sizes": [
+        "XS",
+        "XXL"
       ]
     }
   ]

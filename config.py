@@ -66,20 +66,24 @@ SOURCES = [
     "alex_mill",
     "untuckit",
     "ebay",
-    # The following are confirmed blocked by enterprise bot-protection
-    # (Incapsula, Akamai, Salesforce Commerce Cloud) — left here so they're
-    # easy to re-enable if that ever changes, but they currently return 0
-    # results no matter what the adapter code does.
-    "polo_ralph_lauren",
-    "peter_millar",
-    "barbour",
-    "vineyard_vines",
-    "brooks_brothers",
-    "jcrew",
-    "nordstrom_rack",
-    "macys",
-    "luxury_garage_sale",
 ]
+
+# The sources below are confirmed blocked by enterprise bot-protection
+# (Incapsula, Akamai, Salesforce Commerce Cloud) as of testing — their own
+# adapter files are still in adapters/ if you ever want to re-enable one.
+# eBay's adapter already covers these five brands via marketplace listings.
+#
+# BLOCKED_SOURCES = [
+#     "polo_ralph_lauren",
+#     "peter_millar",
+#     "barbour",
+#     "vineyard_vines",
+#     "brooks_brothers",
+#     "jcrew",
+#     "nordstrom_rack",
+#     "macys",
+#     "luxury_garage_sale",
+# ]
 
 # ---- Storage ----
 DB_PATH = "seen_deals.db"

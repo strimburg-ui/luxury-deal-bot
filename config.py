@@ -12,7 +12,8 @@ BRAND_TIERS = {
     "A": [
         "Brooks Brothers", "J.Crew", "Billy Reid", "Faherty", "Rodd & Gunn",
         "Onward Reserve", "Drake's", "Rhoback", "Johnnie-O", "Buck Mason",
-        "UNTUCKit", "Ledbury", "Alex Mill",
+        "UNTUCKit", "Ledbury", "Alex Mill", "Southern Tide", "Bills Khakis",
+        "Grayers",
     ],
     "B": [
         "Zegna", "Canali", "Loro Piana", "Brunello Cucinelli", "Paul Stuart",
@@ -65,6 +66,9 @@ SOURCES = [
     "ledbury",
     "alex_mill",
     "untuckit",
+    "southern_tide",
+    "bills_khakis",
+    "grayers",
     "ebay",
 ]
 

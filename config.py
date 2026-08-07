@@ -42,7 +42,6 @@ PANT_INSEAM = 34
 PANT_SIZE_STRINGS = ["32x34", "32 x 34", "32W 34L", "32/34"]
 
 # ---- Colors (substring match, case-insensitive) ----
-# ---- Colors (substring match, case-insensitive) ----
 TARGET_COLORS = [
     "navy", "cream", "beige", "light blue", "sky blue", "grey", "gray",
     "ivory", "stone", "khaki", "black",
@@ -58,6 +57,26 @@ TARGET_CATEGORIES = [
 
 # ---- Discount threshold ----
 MIN_DISCOUNT_PERCENT = 30
+
+# Items at or below their category's price ceiling show up regardless of
+# discount % — catches genuinely cheap finds (e.g. eBay listings with no
+# marked "original" price) that would otherwise get filtered out for
+# showing 0% off. Checked in order — first matching category wins, so more
+# specific/pricier categories are listed before broader ones.
+# Format: (category_label, [keywords to match], price_ceiling)
+LOW_PRICE_BY_CATEGORY = [
+    ("Outerwear",     ["jacket", "coat", "vest", "overshirt"], 65),
+    ("Sweaters",      ["sweater", "quarter-zip", "quarter zip", "1/4 zip",
+                        "half-zip", "half zip", "cardigan", "knit"], 45),
+    ("Trousers",      ["trouser", "chino", "jogger", "pant"], 35),
+    ("Sweatshirts",   ["sweatshirt", "hoodie"], 30),
+    ("Button-downs",  ["button-down", "button down", "oxford"], 30),
+    ("Polos",         ["polo"], 25),
+    ("Shorts",        ["short"], 20),
+    ("Tees",          ["t-shirt", "tee", "tshirt"], 15),
+]
+# Fallback for anything that doesn't match a category above.
+LOW_PRICE_DEFAULT = 25
 
 # ---- Sources to check ----
 # Each entry maps to an adapter module in adapters/ with a matching function `fetch_deals()`

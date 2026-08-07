@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T21:54:08.071109+00:00",
-  "count": 102,
+  "updated_at": "2026-08-07T00:37:31.865799+00:00",
+  "count": 107,
   "deals": [
     {
       "title": "Italian Tuxedo Trouser",
@@ -21,6 +21,31 @@
         "33/32",
         "34/32",
         "34/34"
+      ]
+    },
+    {
+      "title": "Italian Velvet Wythe Trouser",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 154.0,
+      "original_price": 398.0,
+      "discount_percent": 61.3,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/velvet-wythe-trouserkhaki",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/OCT25_PA1018890_KHAKI_FL1_R.jpg?v=1760994218",
+      "color": "Khaki",
+      "available_sizes": [
+        "30/30",
+        "30/32",
+        "31/30",
+        "31/32",
+        "32/30",
+        "32/32",
+        "32/34",
+        "33/32",
+        "34/30",
+        "34/32",
+        "36/32"
       ]
     },
     {
@@ -133,6 +158,40 @@
       ]
     },
     {
+      "title": "Movement\u2122 Quarter Zip Sweater - Marine Navy Heather",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 84.0,
+      "original_price": 188.0,
+      "discount_percent": 55.3,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/movement-quarter-zip-sweater-marine-navy-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/FAH3432_SP25_MENS_MYS2402-ARI_MOVEMENTQUARTERZIPSWEATER_MarineNavyHeather_OM_FRONT_CROP_1.jpg?v=1753301791",
+      "color": "Marine Navy Heather",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Foundation Pocket Sweatshirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 44.0,
+      "original_price": 98.0,
+      "discount_percent": 55.1,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/pocket-sweatshirtfogstone",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAY26_KN4981300_FOGSTONE_F1_R.jpg?v=1777038353",
+      "color": "Fogstone",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
       "title": "Boxy Jersey Ringer Tee",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -185,6 +244,25 @@
       ]
     },
     {
+      "title": "Poplin Sport Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 74.0,
+      "original_price": 158.0,
+      "discount_percent": 53.2,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-sport-shirt-ombrenavy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_SH22810498_NAVY_FL1_R.jpg?v=1769106012",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
       "title": "The Movement\u2122 Shirt - Grey Falls Plaid",
       "brand": "Faherty",
       "tier": "A",
@@ -197,6 +275,26 @@
       "color": "Grey Falls Plaid",
       "available_sizes": [
         "S",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Poplin Utility Shirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 84.0,
+      "original_price": 178.0,
+      "discount_percent": 52.8,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/poplin-welt-pocket-big-shirt-pinstripeivory",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH24810511_IVORY_FL1_R.jpg?v=1771866174",
+      "color": "Ivory",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
         "XS",
         "XXL"
       ]
@@ -258,6 +356,25 @@
       ]
     },
     {
+      "title": "Soho V-Neck Sweatshirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 94.0,
+      "original_price": 198.0,
+      "discount_percent": 52.5,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/relaxed-v-neck-sweatshirtheather-beige",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_KN2710683_HEATHERBEIGE_FL1_R.jpg?v=1769447334",
+      "color": "Heather Beige",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS"
+      ]
+    },
+    {
       "title": "Angler Shirt",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -275,6 +392,22 @@
         "XL",
         "XS",
         "XXL"
+      ]
+    },
+    {
+      "title": "Heirloom Long-Sleeve Sweater Polo - Heather Grey",
+      "brand": "Faherty",
+      "tier": "A",
+      "price": 129.0,
+      "original_price": 268.0,
+      "discount_percent": 51.9,
+      "source": "Faherty",
+      "url": "https://www.fahertybrand.com/products/heirloom-ls-sweater-polo-heather-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25--Mens-MYH2530-GYH-HeirloomLsSweaterPolo-IceGreyHeather_OM_FRONT_CROP_1_Web.jpg?v=1765909560",
+      "color": "Heather Grey",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -323,6 +456,38 @@
       ]
     },
     {
+      "title": "Italian Flannel Gurkha Trouser",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 194.0,
+      "original_price": 398.0,
+      "discount_percent": 51.3,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/flannel-gurkha-trousernavy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/NOV25_PA997204_NAVY_FL1_R.jpg?v=1761073813",
+      "color": "Navy",
+      "available_sizes": [
+        "28/32",
+        "29/30",
+        "29/32",
+        "30/30",
+        "30/32",
+        "31/30",
+        "31/32",
+        "32/30",
+        "32/32",
+        "32/34",
+        "33/32",
+        "34/30",
+        "34/32",
+        "34/34",
+        "35/32",
+        "36/32",
+        "36/34",
+        "38/32"
+      ]
+    },
+    {
       "title": "Italian Wool Glen Plaid Madison Trouser",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -351,31 +516,6 @@
         "36/32",
         "36/34",
         "38/32"
-      ]
-    },
-    {
-      "title": "Italian Velvet Wythe Trouser",
-      "brand": "Todd Snyder",
-      "tier": "S",
-      "price": 194.0,
-      "original_price": 398.0,
-      "discount_percent": 51.3,
-      "source": "Todd Snyder",
-      "url": "https://www.toddsnyder.com/products/velvet-wythe-trouserkhaki",
-      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/OCT25_PA1018890_KHAKI_FL1_R.jpg?v=1760994218",
-      "color": "Khaki",
-      "available_sizes": [
-        "30/30",
-        "30/32",
-        "31/30",
-        "31/32",
-        "32/30",
-        "32/32",
-        "32/34",
-        "33/32",
-        "34/30",
-        "34/32",
-        "36/32"
       ]
     },
     {
@@ -513,6 +653,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0314/3765/2012/files/f25_102-2039_dobby-stripe-tuscumbia-shirt_british-khakhi-multi_1.jpg?v=1762200736",
       "color": "British Khaki Multi",
       "available_sizes": [
+        "L",
         "M",
         "S",
         "XS"
@@ -619,6 +760,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_KN2384001_BLACK_FL1_R.jpg?v=1771965074",
       "color": "Captain Navy",
       "available_sizes": [
+        "L",
         "M",
         "S",
         "XL",
@@ -702,6 +844,26 @@
       ]
     },
     {
+      "title": "Soho Cardigan Sweatshirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 124.0,
+      "original_price": 248.0,
+      "discount_percent": 50.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/french-terry-snap-cardiganheather-beige",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_KN5430683_HEATHERBEIGE_FL1_R.jpg?v=1769449251",
+      "color": "Heather Beige",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Sueded Tencel Hollywood Shirt",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -753,6 +915,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-Faherty-Mens-MYF2501-GYH-HeirloomCrewneckSweater-IceGreyHeather_OM_EDITORIAL_1_Web_fadf7f5f-7ae7-4762-8945-3dceac3ecdd4.jpg?v=1765908677",
       "color": "Heather Grey",
       "available_sizes": [
+        "L",
         "XXL"
       ]
     },
@@ -978,38 +1141,6 @@
       ]
     },
     {
-      "title": "Italian Flannel Gurkha Trouser",
-      "brand": "Todd Snyder",
-      "tier": "S",
-      "price": 229.0,
-      "original_price": 398.0,
-      "discount_percent": 42.5,
-      "source": "Todd Snyder",
-      "url": "https://www.toddsnyder.com/products/flannel-gurkha-trousernavy",
-      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/NOV25_PA997204_NAVY_FL1_R.jpg?v=1761073813",
-      "color": "Navy",
-      "available_sizes": [
-        "28/32",
-        "29/30",
-        "29/32",
-        "30/30",
-        "30/32",
-        "31/30",
-        "31/32",
-        "32/30",
-        "32/32",
-        "32/34",
-        "33/32",
-        "34/30",
-        "34/32",
-        "34/34",
-        "35/32",
-        "36/32",
-        "36/34",
-        "38/32"
-      ]
-    },
-    {
       "title": "Whitewater Hoodie - Navy Point Stripe",
       "brand": "Faherty",
       "tier": "A",
@@ -1166,10 +1297,8 @@
         "28/32",
         "29/30",
         "29/32",
-        "31/30",
         "31/32",
         "32/30",
-        "32/32",
         "32/34",
         "33/32",
         "34/30",
@@ -1192,6 +1321,7 @@
       "color": "Beige",
       "available_sizes": [
         "L",
+        "M",
         "S",
         "XL",
         "XS",
@@ -1213,6 +1343,7 @@
         "28/32",
         "29/30",
         "29/32",
+        "30/30",
         "30/32",
         "31/30",
         "31/32",
@@ -1236,7 +1367,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/APR26_PA1884879_KHAKI_F1_R.jpg?v=1773949410",
       "color": "Khaki",
       "available_sizes": [
-        "29/32",
         "30/30",
         "30/32",
         "31/30",
@@ -1310,25 +1440,6 @@
         "36/32",
         "36/34",
         "38/32"
-      ]
-    },
-    {
-      "title": "Soho V-Neck Sweatshirt",
-      "brand": "Todd Snyder",
-      "tier": "S",
-      "price": 119.0,
-      "original_price": 198.0,
-      "discount_percent": 39.9,
-      "source": "Todd Snyder",
-      "url": "https://www.toddsnyder.com/products/relaxed-v-neck-sweatshirtheather-beige",
-      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_KN2710683_HEATHERBEIGE_FL1_R.jpg?v=1769447334",
-      "color": "Heather Beige",
-      "available_sizes": [
-        "L",
-        "M",
-        "S",
-        "XL",
-        "XS"
       ]
     },
     {
@@ -1472,6 +1583,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/APR26_SW6570004_HEATHER_NAVY_FL1_R.jpg?v=1774010363",
       "color": "Heather Navy",
       "available_sizes": [
+        "L",
         "XS",
         "XXL"
       ]
@@ -1525,6 +1637,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MQH2517-LHG-LegendSweaterQuarterZip-LightHeatherGrey_OM_FRONT_CROP_1_Web.jpg?v=1761580319",
       "color": "Light Heather Grey",
       "available_sizes": [
+        "L",
         "XXL"
       ]
     },
@@ -1540,6 +1653,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_SW3351019_HEATHERGREY_FL1_R.jpg?v=1767990562",
       "color": "Heather Grey",
       "available_sizes": [
+        "L",
         "S",
         "XL",
         "XXL"
@@ -1611,6 +1725,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SW3361019_HEATHER_GREY_FL1_R.jpg?v=1771965678",
       "color": "Heather Grey",
       "available_sizes": [
+        "XL",
         "XS",
         "XXL"
       ]
@@ -1683,6 +1798,25 @@
       ]
     },
     {
+      "title": "Soho Full-Zip Sweatshirt",
+      "brand": "Todd Snyder",
+      "tier": "S",
+      "price": 124.0,
+      "original_price": 188.0,
+      "discount_percent": 34.0,
+      "source": "Todd Snyder",
+      "url": "https://www.toddsnyder.com/products/boxy-full-zip-hoodieheather-beige",
+      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_KN7310683_HEATHERBEIGE_FL1_R.jpg?v=1769449109",
+      "color": "Heather Beige",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
       "title": "Italian Cotton Modern Chino",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -1751,26 +1885,6 @@
       ]
     },
     {
-      "title": "Poplin Utility Shirt",
-      "brand": "Todd Snyder",
-      "tier": "S",
-      "price": 119.0,
-      "original_price": 178.0,
-      "discount_percent": 33.1,
-      "source": "Todd Snyder",
-      "url": "https://www.toddsnyder.com/products/poplin-welt-pocket-big-shirt-pinstripeivory",
-      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH24810511_IVORY_FL1_R.jpg?v=1771866174",
-      "color": "Ivory",
-      "available_sizes": [
-        "L",
-        "M",
-        "S",
-        "XL",
-        "XS",
-        "XXL"
-      ]
-    },
-    {
       "title": "The Movement\u2122 Shirt - Ivory Sea Plaid",
       "brand": "Faherty",
       "tier": "A",
@@ -1782,7 +1896,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MWC0082-IAD-TheMovementShirt-IvorySeaPlaid_WS_FRONT_CROP_1_High_Web.jpg?v=1768513027",
       "color": "Ivory Sea Plaid",
       "available_sizes": [
-        "M",
         "S",
         "XL",
         "XXL"
@@ -1800,7 +1913,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_SH810915_NAVY_FL1_R.jpg?v=1771962836",
       "color": "Navy",
       "available_sizes": [
-        "S",
         "XL",
         "XS"
       ]
@@ -1839,25 +1951,6 @@
         "S",
         "XL",
         "XXL"
-      ]
-    },
-    {
-      "title": "Poplin Sport Shirt",
-      "brand": "Todd Snyder",
-      "tier": "S",
-      "price": 109.0,
-      "original_price": 158.0,
-      "discount_percent": 31.0,
-      "source": "Todd Snyder",
-      "url": "https://www.toddsnyder.com/products/poplin-sport-shirt-ombrenavy",
-      "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/FEB26_SH22810498_NAVY_FL1_R.jpg?v=1769106012",
-      "color": "Navy",
-      "available_sizes": [
-        "L",
-        "M",
-        "S",
-        "XL",
-        "XS"
       ]
     },
     {

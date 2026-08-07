@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-07T15:46:51.783160+00:00",
-  "count": 116,
+  "updated_at": "2026-08-07T15:54:38.776158+00:00",
+  "count": 181,
   "deals": [
+    {
+      "title": "Brooks Brothers Men's Navy Blue 1/4 Zip Combed Cotton Sweater NWT Sz L",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 20.39,
+      "original_price": 120,
+      "discount_percent": 83.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/267736924568?_skw=Brooks+Brothers+men%27s+sweater&hash=item3e565d4198:g:aVsAAeSw46tqWU6Q",
+      "image_url": "https://i.ebayimg.com/images/g/aVsAAeSw46tqWU6Q/s-l225.jpg",
+      "color": "Brooks Brothers Men's Navy Blue 1/4 Zip Combed Cotton Sweater NWT Sz L",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Men's Navy Blue 1/4 Zip Combed Cotton Sweater NWT Sz L",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 20.39,
+      "original_price": 120,
+      "discount_percent": 83.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/267736924568?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item3e565d4198:g:aVsAAeSw46tqWU6Q",
+      "image_url": "https://i.ebayimg.com/images/g/aVsAAeSw46tqWU6Q/s-l225.jpg",
+      "color": "Brooks Brothers Men's Navy Blue 1/4 Zip Combed Cotton Sweater NWT Sz L",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
     {
       "title": "Italian Tuxedo Trouser",
       "brand": "Todd Snyder",
@@ -21,6 +53,240 @@
         "33/32",
         "34/32",
         "34/34"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Estate Rib Quarter Zip Sweater Dark Gray Men\u2019s Large",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 24.95,
+      "original_price": 130,
+      "discount_percent": 80.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/307110232806?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item47813242e6:g:MUQAAeSw7spqTezR",
+      "image_url": "https://i.ebayimg.com/images/g/MUQAAeSw7spqTezR/s-l225.jpg",
+      "color": "Polo Ralph Lauren Estate Rib Quarter Zip Sweater Dark Gray Men\u2019s Large",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Barbour Wool Gladstone Knitted Collar Sweater NWT Light Grey Mens Size M Medium",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 59.0,
+      "original_price": 230,
+      "discount_percent": 74.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168535206862?_skw=Barbour+men%27s+sweater&hash=item273d7b2bce:g:8q0AAeSw6PpqVkHt",
+      "image_url": "https://i.ebayimg.com/images/g/8q0AAeSw6PpqVkHt/s-l225.jpg",
+      "color": "Barbour Wool Gladstone Knitted Collar Sweater NWT Light Grey Mens Size M Medium",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "NWT MEN'S PETER MILLAR CREW NECK SWEATER, SIZE: L, COLOR: NAVY/GRAY (M1.14)",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 40.0,
+      "original_price": 155,
+      "discount_percent": 74.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/389928811493?_skw=Peter+Millar+men%27s+sweater&hash=item5ac9917be5:g:RGsAAeSwNw1p6jer",
+      "image_url": "https://i.ebayimg.com/images/g/RGsAAeSwNw1p6jer/s-l225.jpg",
+      "color": "NWT MEN'S PETER MILLAR CREW NECK SWEATER, SIZE: L, COLOR: NAVY/GRAY (M1.14)",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Barbour Kelson Half Zip Knitted Jumper XL Navy Cotton/Wool Pullover Sweater",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 60.0,
+      "original_price": 230,
+      "discount_percent": 73.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/157967967702?_skw=Barbour+men%27s+sweater&hash=item24c79fe5d6:g:dS8AAeSwsrlqINYg",
+      "image_url": "https://i.ebayimg.com/images/g/dS8AAeSwsrlqINYg/s-l225.jpg",
+      "color": "Barbour Kelson Half Zip Knitted Jumper XL Navy Cotton/Wool Pullover Sweater",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "Barbour Kelson Half Zip Knitted Jumper XL Navy Cotton/Wool Pullover Sweater",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 60.0,
+      "original_price": 230,
+      "discount_percent": 73.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/157967967702?_skw=Barbour+men%27s+quarter+zip&hash=item24c79fe5d6:g:dS8AAeSwsrlqINYg",
+      "image_url": "https://i.ebayimg.com/images/g/dS8AAeSwsrlqINYg/s-l225.jpg",
+      "color": "Barbour Kelson Half Zip Knitted Jumper XL Navy Cotton/Wool Pullover Sweater",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Quarter Zip Mock Neck Pullover Off-White Ivory Men's Large L",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 37.0,
+      "original_price": 130,
+      "discount_percent": 71.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/366590480388?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item555a7ed004:g:FEoAAeSw9jhqdI2F",
+      "image_url": "https://i.ebayimg.com/images/g/FEoAAeSw9jhqdI2F/s-l225.jpg",
+      "color": "Polo Ralph Lauren Quarter Zip Mock Neck Pullover Off-White Ivory Men's Large L",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Men's XL Quarter-Zip Pullover Navy Blue Atlantic Club Golf",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 35.0,
+      "original_price": 120,
+      "discount_percent": 70.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336683017675?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item4e63df25cb:g:DvIAAeSwpfRqUgMX",
+      "image_url": "https://i.ebayimg.com/images/g/DvIAAeSwpfRqUgMX/s-l225.jpg",
+      "color": "Brooks Brothers Men's XL Quarter-Zip Pullover Navy Blue Atlantic Club Golf",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "NWOT POLO RALPH LAUREN DOUBLE KNIT MESH 1/4 ZIP NAVY SWEATSHIRT PULLOVER SZ XL",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 40.0,
+      "original_price": 130,
+      "discount_percent": 69.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336721355919?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item4e6628248f:g:0i8AAeSwnxdqbx3g",
+      "image_url": "https://i.ebayimg.com/images/g/0i8AAeSwnxdqbx3g/s-l225.jpg",
+      "color": "NWOT POLO RALPH LAUREN DOUBLE KNIT MESH 1/4 ZIP NAVY SWEATSHIRT PULLOVER SZ XL",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "Peter Millar Men's 1/4 Zip Mock Neck Pullover Gray XXL Long Sleeve",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 50.0,
+      "original_price": 155,
+      "discount_percent": 67.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336719009861?_skw=Peter+Millar+men%27s+sweater&hash=item4e66045845:g:FKkAAeSw6wpqbUAZ",
+      "image_url": "https://i.ebayimg.com/images/g/FKkAAeSw6wpqbUAZ/s-l225.jpg",
+      "color": "Peter Millar Men's 1/4 Zip Mock Neck Pullover Gray XXL Long Sleeve",
+      "available_sizes": [
+        "S",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Peter Millar Men's 1/4 Zip Mock Neck Pullover Gray XXL Long Sleeve",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 50.0,
+      "original_price": 155,
+      "discount_percent": 67.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336719009861?_skw=Peter+Millar+men%27s+quarter+zip&hash=item4e66045845:g:FKkAAeSw6wpqbUAZ",
+      "image_url": "https://i.ebayimg.com/images/g/FKkAAeSw6wpqbUAZ/s-l225.jpg",
+      "color": "Peter Millar Men's 1/4 Zip Mock Neck Pullover Gray XXL Long Sleeve",
+      "available_sizes": [
+        "S",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Barbour Stonebeck Fairisle Sweater Size Large Navy 100% Lambswool Crew Neck NWT",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 74.99,
+      "original_price": 230,
+      "discount_percent": 67.4,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/147360987651?_skw=Barbour+men%27s+sweater&hash=item224f663a03:g:pYoAAeSw0UBpYdJT",
+      "image_url": "https://i.ebayimg.com/images/g/pYoAAeSw0UBpYdJT/s-l225.jpg",
+      "color": "Barbour Stonebeck Fairisle Sweater Size Large Navy 100% Lambswool Crew Neck NWT",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Barbour Men\u2019s Grey Cotton 1/4 Zip Sweater NWT Size L Long Sleeve Pullover",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 75.0,
+      "original_price": 230,
+      "discount_percent": 67.4,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/327281673427?_skw=Barbour+men%27s+quarter+zip&hash=item4c338204d3:g:7zYAAeSwU7xqZ5ou",
+      "image_url": "https://i.ebayimg.com/images/g/7zYAAeSwU7xqZ5ou/s-l225.jpg",
+      "color": "Barbour Men\u2019s Grey Cotton 1/4 Zip Sweater NWT Size L Long Sleeve Pullover",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Barbour Men's Tursdale Fair Isle Crew Neck Wool Sweater Size XL Navy NEW",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 75.98,
+      "original_price": 230,
+      "discount_percent": 67.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/297973501470?_skw=Barbour+men%27s+sweater&hash=item45609ace1e:g:qGwAAeSwSL1or4t9",
+      "image_url": "https://i.ebayimg.com/images/g/qGwAAeSwSL1or4t9/s-l225.jpg",
+      "color": "Barbour Men's Tursdale Fair Isle Crew Neck Wool Sweater Size XL Navy NEW",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "NEW BARBOUR INTERNATIONAL 1/4 ZIP PULLOVER SWEATSHIRT GREY MEN SIZE MEDIUM",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 79.99,
+      "original_price": 230,
+      "discount_percent": 65.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/174995629526?_skw=Barbour+men%27s+quarter+zip&hash=item28be8d65d6:g:j5sAAOSwveRheIbl",
+      "image_url": "https://i.ebayimg.com/images/g/j5sAAOSwveRheIbl/s-l225.jpg",
+      "color": "NEW BARBOUR INTERNATIONAL 1/4 ZIP PULLOVER SWEATSHIRT GREY MEN SIZE MEDIUM",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men\u2019s M Gray Logo Crewneck Sweatshirt NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 40.0,
+      "original_price": 115,
+      "discount_percent": 65.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227459411115?_skw=Vineyard+Vines+men%27s+sweater&hash=item34f5a32cab:g:YzwAAeSwZB9qb69R",
+      "image_url": "https://i.ebayimg.com/images/g/YzwAAeSwZB9qb69R/s-l225.jpg",
+      "color": "Vineyard Vines Men\u2019s M Gray Logo Crewneck Sweatshirt NWT",
+      "available_sizes": [
+        "S",
+        "M"
       ]
     },
     {
@@ -62,6 +328,83 @@
       ]
     },
     {
+      "title": "BROOKS BROTHERS MENS SIZE L  1/4 QUARTER ZIP LIGHT BLUE 100% COTTON NEW WITH TAG",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 45.0,
+      "original_price": 120,
+      "discount_percent": 62.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/318572950139?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item4a2c6d727b:g:j6UAAeSw75ZqU8da&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaTCxg277aTyEpQnOdsESN01cTrrSyNbG8kerwtZAGj%2BdxKGEEANDBriD0dwemeJiZLuxWhCmlYYf2O3O%2FK8Ar209VXEcqjMmgKvWHXlq020LtZ9GuDXgwtxdW24l3LTIC6YToCa3ukts6QOLg6KXtlEzLSK3BwD1PMPtoPx7OOAlVEtQQ4J4yMD8hV56ekkaGwMx%2B86NDXTQZI15SDendQn9vYA9IVjLhVGHEaNJJ9vPVEHO8mBhHWZyAns1o5WZJyJXgQIOQhYPIAengh%2FYXKg06ZuAGDvPKmnzPFfIuC9qw9xXQ5HgeCChJz24nZq6E%3D",
+      "image_url": "https://i.ebayimg.com/images/g/j6UAAeSw75ZqU8da/s-l225.jpg",
+      "color": "BROOKS BROTHERS MENS SIZE L  1/4 QUARTER ZIP LIGHT BLUE 100% COTTON NEW WITH TAG",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Barbour Overshirt Mens Large New Long Sleeve Snap Button Light Gray Vented",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 88.0,
+      "original_price": 230,
+      "discount_percent": 61.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/178301516434?_skw=Barbour+men%27s+overshirt&hash=item2983993a92:g:iJYAAeSwrclqB8QX",
+      "image_url": "https://i.ebayimg.com/images/g/iJYAAeSwrclqB8QX/s-l225.jpg",
+      "color": "Barbour Overshirt Mens Large New Long Sleeve Snap Button Light Gray Vented",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren NEW quarter-zip Lightweight Gray Sweater Shirt Mens M",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 49.98,
+      "original_price": 130,
+      "discount_percent": 61.6,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/398256051525?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item5cb9e91545:g:CgQAAeSwE-hqdFqk",
+      "image_url": "https://i.ebayimg.com/images/g/CgQAAeSwE-hqdFqk/s-l225.jpg",
+      "color": "Polo Ralph Lauren NEW quarter-zip Lightweight Gray Sweater Shirt Mens M",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Pullover 1/4 Zip 100% Cotton Rugby Sweater Men's XXL Navy Blue",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 49.99,
+      "original_price": 130,
+      "discount_percent": 61.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227464205233?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item34f5ec53b1:g:gKoAAeSwl-1qc~~3",
+      "image_url": "https://i.ebayimg.com/images/g/gKoAAeSwl-1qc~~3/s-l225.jpg",
+      "color": "Polo Ralph Lauren Pullover 1/4 Zip 100% Cotton Rugby Sweater Men's XXL Navy Blue",
+      "available_sizes": [
+        "S",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Pullover 1/4 Zip 100% Cotton Rugby Sweater Men's XXL Navy Blue",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 49.99,
+      "original_price": 130,
+      "discount_percent": 61.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227464205233?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item34f5ec53b1:g:gKoAAeSwl-1qc~~3",
+      "image_url": "https://i.ebayimg.com/images/g/gKoAAeSwl-1qc~~3/s-l225.jpg",
+      "color": "Polo Ralph Lauren Pullover 1/4 Zip 100% Cotton Rugby Sweater Men's XXL Navy Blue",
+      "available_sizes": [
+        "S",
+        "XXL"
+      ]
+    },
+    {
       "title": "Italian Velvet Wythe Trouser",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -84,6 +427,53 @@
         "34/30",
         "34/32",
         "36/32"
+      ]
+    },
+    {
+      "title": "Peter Millar Summer Comfort Sweater Mens XL Gray Performance 1/4 Zip Pullover",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 59.99,
+      "original_price": 155,
+      "discount_percent": 61.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336726532633?_skw=Peter+Millar+men%27s+sweater&hash=item4e66772219:g:Tq4AAeSwv99qcnXH&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGbinrFXoh0IWzk4YBtsr91Lnl8AAkZH56fJwBOSAQvZX2YKuVos9XfSNDTU5pyjcFAA4UxIZT4eL6e0FWwOZ1cgHx4xsFxwxlbVpAJaUdQpoYaw15V0w1h6ABK4hQN%2Bh47IvzVMvE4sTvBZmocNtbJwVqI2QTP5RhnKkCtlxTYmgR7JzxaUKCmgQAqg%2FnnNosVbPlNub90WKjfeObi2%2BS0NPriDg4IeegJ9unrbF7OYkrqWU3sGHxfLWADZMflxglaaQF0JvCdeVIy%2FdLWiRokmJc8amivtxqOI9tychl7QJA%3D%3D",
+      "image_url": "https://i.ebayimg.com/images/g/Tq4AAeSwv99qcnXH/s-l225.jpg",
+      "color": "Peter Millar Summer Comfort Sweater Mens XL Gray Performance 1/4 Zip Pullover",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "Barbour Sid Half Zip Sweater Men's Large Navy Marl Wool Blend Preppy New",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 89.99,
+      "original_price": 230,
+      "discount_percent": 60.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/358809266150?_skw=Barbour+men%27s+sweater&hash=item538ab2e7e6:g:56gAAeSwsIxqWtm6",
+      "image_url": "https://i.ebayimg.com/images/g/56gAAeSwsIxqWtm6/s-l225.jpg",
+      "color": "Barbour Sid Half Zip Sweater Men's Large Navy Marl Wool Blend Preppy New",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Vineyard Vines On The Go Overshirt Photo Ultimate Gray Men's Medium New",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 45.0,
+      "original_price": 115,
+      "discount_percent": 60.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/306908814860?_skw=Vineyard+Vines+men%27s+overshirt&hash=item477530de0c:g:4AEAAeSwwilp8jDo",
+      "image_url": "https://i.ebayimg.com/images/g/4AEAAeSwwilp8jDo/s-l225.jpg",
+      "color": "Vineyard Vines On The Go Overshirt Photo Ultimate Gray Men's Medium New",
+      "available_sizes": [
+        "S",
+        "M"
       ]
     },
     {
@@ -146,6 +536,22 @@
       ]
     },
     {
+      "title": "Barbour Men\u2019s Navy Wool Blend Crewneck Sweater Size XL Soft Knitted Classic",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 92.0,
+      "original_price": 230,
+      "discount_percent": 60.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/177819216632?_skw=Barbour+men%27s+sweater&hash=item2966d9eaf8:g:p0UAAeSwHIdpe6Tg",
+      "image_url": "https://i.ebayimg.com/images/g/p0UAAeSwHIdpe6Tg/s-l225.jpg",
+      "color": "Barbour Men\u2019s Navy Wool Blend Crewneck Sweater Size XL Soft Knitted Classic",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
       "title": "Navy Printed Shirt  \u2013 Standard Fit",
       "brand": "Bills Khakis",
       "tier": "A",
@@ -161,6 +567,84 @@
         "M",
         "XL",
         "XXL"
+      ]
+    },
+    {
+      "title": "PETER MILLAR Perth Performance Quarter-Zip Men's Size L Navy Customers Bank",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 63.99,
+      "original_price": 155,
+      "discount_percent": 58.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168587233700?_skw=Peter+Millar+men%27s+quarter+zip&hash=item27409509a4:g:x5MAAeSwj3FpHA-t",
+      "image_url": "https://i.ebayimg.com/images/g/x5MAAeSwj3FpHA-t/s-l225.jpg",
+      "color": "PETER MILLAR Perth Performance Quarter-Zip Men's Size L Navy Customers Bank",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Full Zip Sweater Mens Large Navy Blue Cable Knit Cotton Hoodie",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 49.99,
+      "original_price": 120,
+      "discount_percent": 58.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/307072135283?_skw=Brooks+Brothers+men%27s+sweater&hash=item477eecf073:g:9FAAAeSwhQNqXEeO&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYXcdfJvKExRg%2Fvi3KazLzZ8Rhzhl5fPgocVwV7AhdW%2FUN8DTYZ3RoXjoBv5T%2B5Wc1RP3MF8mRqy3l5xl%2FE%2FWwQmI1Z8Ut1M7eJFdPxnsjFH2aOIJbQSK6UZKaKsvUMPDdPSK7tH%2FbI7bLxPsLWaefaIl3CuzbCWfET7tMXTIzpDV1hQshgWMciFoVUDwXPOF9%2BPJeB8ULtOwCxHWm6iAhbR7CIp0LDFLOJb1SJObWYmXRz4F8QchnXHPeEfxVQUwqc0N%2BLp1kSedFEngmhpSTTPZfy5TjZXIJRQgqZaVPYzUIp0PnO6WTrm7eZM5C65wQ%3D",
+      "image_url": "https://i.ebayimg.com/images/g/9FAAAeSwhQNqXEeO/s-l225.jpg",
+      "color": "Brooks Brothers Full Zip Sweater Mens Large Navy Blue Cable Knit Cotton Hoodie",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Men Large Quarter Zip Sweater Charcoal Gray Merino Wool NWT EUC",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 49.99,
+      "original_price": 120,
+      "discount_percent": 58.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/358856485377?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item538d836a01:g:HZQAAeSwZwhqGQ~q",
+      "image_url": "https://i.ebayimg.com/images/g/HZQAAeSwZwhqGQ~q/s-l225.jpg",
+      "color": "Brooks Brothers Men Large Quarter Zip Sweater Charcoal Gray Merino Wool NWT EUC",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men's Quarter Zip Ribbed Pullover Sweater in Nautical Navy Large",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 48.0,
+      "original_price": 115,
+      "discount_percent": 58.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336595480854?_skw=Vineyard+Vines+men%27s+sweater&hash=item4e5ea77116:g:RLkAAeSwJSpqD7Bh",
+      "image_url": "https://i.ebayimg.com/images/g/RLkAAeSwJSpqD7Bh/s-l225.jpg",
+      "color": "Vineyard Vines Men's Quarter Zip Ribbed Pullover Sweater in Nautical Navy Large",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men's Quarter Zip Ribbed Pullover Sweater in Nautical Navy Large",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 48.0,
+      "original_price": 115,
+      "discount_percent": 58.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/336595480854?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item4e5ea77116:g:RLkAAeSwJSpqD7Bh",
+      "image_url": "https://i.ebayimg.com/images/g/RLkAAeSwJSpqD7Bh/s-l225.jpg",
+      "color": "Vineyard Vines Men's Quarter Zip Ribbed Pullover Sweater in Nautical Navy Large",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -180,6 +664,144 @@
         "S",
         "XL",
         "XXL"
+      ]
+    },
+    {
+      "title": "Peter Millar Autumn Crest Sweater Mens XL Gray Merino Wool 1/4 Zip Mock Neck",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 65.95,
+      "original_price": 155,
+      "discount_percent": 57.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/307112928921?_skw=Peter+Millar+men%27s+sweater&hash=item47815b6699:g:Ol4AAeSwo9pqJZaJ",
+      "image_url": "https://i.ebayimg.com/images/g/Ol4AAeSwo9pqJZaJ/s-l225.jpg",
+      "color": "Peter Millar Autumn Crest Sweater Mens XL Gray Merino Wool 1/4 Zip Mock Neck",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "Barbour International Steve McQueen Sweater Grey Medium 1/4 Zip $150",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 99.0,
+      "original_price": 230,
+      "discount_percent": 57.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/128002701673?_skw=Barbour+men%27s+quarter+zip&hash=item1dcd8e3969:g:UMEAAeSwfCxqa9s4",
+      "image_url": "https://i.ebayimg.com/images/g/UMEAAeSwfCxqa9s4/s-l225.jpg",
+      "color": "Barbour International Steve McQueen Sweater Grey Medium 1/4 Zip $150",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Collegiate Shep Shirt Men\u2019s Large Navy Blue 1/4 Zip Pullover NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 49.95,
+      "original_price": 115,
+      "discount_percent": 56.6,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168384711834?_skw=Vineyard+Vines+men%27s+sweater&hash=item273482cc9a:g:2VIAAeSwB3Fp88sI",
+      "image_url": "https://i.ebayimg.com/images/g/2VIAAeSwB3Fp88sI/s-l225.jpg",
+      "color": "Vineyard Vines Collegiate Shep Shirt Men\u2019s Large Navy Blue 1/4 Zip Pullover NWT",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Collegiate Shep Shirt Men\u2019s Large Navy Blue 1/4 Zip Pullover NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 49.95,
+      "original_price": 115,
+      "discount_percent": 56.6,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168384711834?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item273482cc9a:g:2VIAAeSwB3Fp88sI",
+      "image_url": "https://i.ebayimg.com/images/g/2VIAAeSwB3Fp88sI/s-l225.jpg",
+      "color": "Vineyard Vines Collegiate Shep Shirt Men\u2019s Large Navy Blue 1/4 Zip Pullover NWT",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Barbour Mens Gearstone Chunky Knit Sweater Medium new with tags ",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 100.0,
+      "original_price": 230,
+      "discount_percent": 56.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/287501850365?_skw=Barbour+men%27s+sweater&hash=item42f07216fd:g:FzEAAeSwRTtqcTXU",
+      "image_url": "https://i.ebayimg.com/images/g/FzEAAeSwRTtqcTXU/s-l225.jpg",
+      "color": "Barbour Mens Gearstone Chunky Knit Sweater Medium new with tags ",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Barbour Sweater Mens Medium Sid Half Zip Navy Marl Wool Preppy New With Tags",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 99.99,
+      "original_price": 230,
+      "discount_percent": 56.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/147409404708?_skw=Barbour+men%27s+sweater&hash=item2252490324:g:N-EAAeSwLw9qRSOs",
+      "image_url": "https://i.ebayimg.com/images/g/N-EAAeSwLw9qRSOs/s-l225.jpg",
+      "color": "Barbour Sweater Mens Medium Sid Half Zip Navy Marl Wool Preppy New With Tags",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Saltwater Quarter Zip Pullover Mens L Navy Blue 1/4 Zip Logo NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 50.0,
+      "original_price": 115,
+      "discount_percent": 56.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/198552612629?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item2e3aa86f15:g:rz8AAeSw5TlqdP8V",
+      "image_url": "https://i.ebayimg.com/images/g/rz8AAeSw5TlqdP8V/s-l225.jpg",
+      "color": "Vineyard Vines Saltwater Quarter Zip Pullover Mens L Navy Blue 1/4 Zip Logo NWT",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Vineyard Vines On The Go Ultimate Gray Button Overshirt Jacket Mens Medium $148",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 49.99,
+      "original_price": 115,
+      "discount_percent": 56.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/406748668434?_skw=Vineyard+Vines+men%27s+overshirt&hash=item5eb41c2212:g:oXEAAOSwQJFncCFZ",
+      "image_url": "https://i.ebayimg.com/images/g/oXEAAOSwQJFncCFZ/s-l225.jpg",
+      "color": "Vineyard Vines On The Go Ultimate Gray Button Overshirt Jacket Mens Medium $148",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines On The Go Overshirt Photo Ultimate Gray Men's Medium New",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 49.99,
+      "original_price": 115,
+      "discount_percent": 56.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/800152687448?_skw=Vineyard+Vines+men%27s+overshirt&hash=itemba4cd11358:g:nXYAAOSwSAlnhahq",
+      "image_url": "https://i.ebayimg.com/images/g/nXYAAOSwSAlnhahq/s-l225.jpg",
+      "color": "Vineyard Vines On The Go Overshirt Photo Ultimate Gray Men's Medium New",
+      "available_sizes": [
+        "S",
+        "M"
       ]
     },
     {
@@ -283,6 +905,22 @@
         "S",
         "XL",
         "XS"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Men\u2019s Estate Rib Quarter Zip Pullover XXL Beige NWT Flesh Pony",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 59.99,
+      "original_price": 130,
+      "discount_percent": 53.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/147483907116?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item2256b9d42c:g:RqIAAeSwBGxqcrMO",
+      "image_url": "https://i.ebayimg.com/images/g/RqIAAeSwBGxqcrMO/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men\u2019s Estate Rib Quarter Zip Pullover XXL Beige NWT Flesh Pony",
+      "available_sizes": [
+        "S",
+        "XXL"
       ]
     },
     {
@@ -470,6 +1108,22 @@
       ]
     },
     {
+      "title": "Vineyard Vines Men\u2019s Navy Blue Collegiate Quarter Zip The Shep Shirt Size XL",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 55.08,
+      "original_price": 115,
+      "discount_percent": 52.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/318596925716?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item4a2ddb4914:g:lx8AAeSw0rNqCgIG",
+      "image_url": "https://i.ebayimg.com/images/g/lx8AAeSw0rNqCgIG/s-l225.jpg",
+      "color": "Vineyard Vines Men\u2019s Navy Blue Collegiate Quarter Zip The Shep Shirt Size XL",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
       "title": "Heirloom Long-Sleeve Sweater Polo - Heather Grey",
       "brand": "Faherty",
       "tier": "A",
@@ -634,6 +1288,23 @@
         "S",
         "XL",
         "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Barbour Glendale Overshirt Jacket  Stone New U.K  XXX-Large XXXL (U.S XXL)",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 113.95,
+      "original_price": 230,
+      "discount_percent": 50.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/178300817104?_skw=Barbour+men%27s+overshirt&hash=item29838e8ed0:g:JC0AAeSwQdhp~fif",
+      "image_url": "https://i.ebayimg.com/images/g/JC0AAeSwQdhp~fif/s-l225.jpg",
+      "color": "Barbour Glendale Overshirt Jacket  Stone New U.K  XXX-Large XXXL (U.S XXL)",
+      "available_sizes": [
+        "L",
+        "S",
         "XXL"
       ]
     },
@@ -803,6 +1474,21 @@
       "available_sizes": [
         "XL",
         "XXL"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Sweater Mens Medium Gray Merino Wool Half Zip Mock Neck Pullover",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 59.87,
+      "original_price": 120,
+      "discount_percent": 50.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/318690455293?_skw=Brooks+Brothers+men%27s+sweater&hash=item4a336e6efd:g:hDYAAeSwyudqdTEt",
+      "image_url": "https://i.ebayimg.com/images/g/hDYAAeSwyudqdTEt/s-l225.jpg",
+      "color": "Brooks Brothers Sweater Mens Medium Gray Merino Wool Half Zip Mock Neck Pullover",
+      "available_sizes": [
+        "M"
       ]
     },
     {
@@ -1100,6 +1786,86 @@
       ]
     },
     {
+      "title": "NWT Barbour Rhobell Tailored Check Overshirt XL Men\u2019s Fleece Jacket Grey Marl",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 115.0,
+      "original_price": 230,
+      "discount_percent": 50.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/257295461777?_skw=Barbour+men%27s+overshirt&hash=item3be8012d91:g:IkkAAeSw4TxpXIw0",
+      "image_url": "https://i.ebayimg.com/images/g/IkkAAeSw4TxpXIw0/s-l225.jpg",
+      "color": "NWT Barbour Rhobell Tailored Check Overshirt XL Men\u2019s Fleece Jacket Grey Marl",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men's Solid Saltwater Quarter-Zip Pullover Nautical Navy - Large",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 57.95,
+      "original_price": 115,
+      "discount_percent": 49.6,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/407115386420?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item5ec9f7ce34:g:Z1gAAeSwRXVqb80h",
+      "image_url": "https://i.ebayimg.com/images/g/Z1gAAeSwRXVqb80h/s-l225.jpg",
+      "color": "Vineyard Vines Men's Solid Saltwater Quarter-Zip Pullover Nautical Navy - Large",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "NWT Barbour Waterhill Tailored Overshirt Men's Medium Stone Marl Wool Blend",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 120.0,
+      "original_price": 230,
+      "discount_percent": 47.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/267597036248?_skw=Barbour+men%27s+overshirt&hash=item3e4e06bad8:g:e3sAAeSwxO5prD5v",
+      "image_url": "https://i.ebayimg.com/images/g/e3sAAeSwxO5prD5v/s-l225.jpg",
+      "color": "NWT Barbour Waterhill Tailored Overshirt Men's Medium Stone Marl Wool Blend",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men's Medium Saltwater Navy Blue 1/4 Zip Pullover Sweater NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 59.99,
+      "original_price": 115,
+      "discount_percent": 47.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/157679361915?_skw=Vineyard+Vines+men%27s+sweater&hash=item24b66c1f7b:g:J4sAAeSw9S9pjuqe",
+      "image_url": "https://i.ebayimg.com/images/g/J4sAAeSw9S9pjuqe/s-l225.jpg",
+      "color": "Vineyard Vines Men's Medium Saltwater Navy Blue 1/4 Zip Pullover Sweater NWT",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Performance 1/4 Zip Pullover Men's Medium Gray NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 59.99,
+      "original_price": 115,
+      "discount_percent": 47.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/398250179763?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item5cb98f7cb3:g:9ZMAAeSwzDRqckqM&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZI6z7BCStcv8qbJ3P8CPJ9%2BKt32WhNQ1Cn3SsWH06FlbziNVMxKSsiT0Mr0eIpHyTyAyy5RiM689uegr1c%2F6kk%2FVGS1nKfIswisphD%2B%2Bs85QKWfeHaN63AenUv8o3T%2Bl9%2F9JN6n%2FnCC6HESrHAMWisINUPbrJdE0Sv2LU%2BpiACWXl%2FR%2FyvLqjZ8Mb7tK5ILFzNJwIv6elC69tFfyGo7XPw7Xv%2FI4DVfL5Fd1wHk6CNRy007CeBQjEPiIza5F8YYl%2FvVtF70QtdH5vgdF7HaAlsaze0dNeUeFrl1DWS0YXhCEixyNByC1e9dYWm4OTnveE%3D",
+      "image_url": "https://i.ebayimg.com/images/g/9ZMAAeSwzDRqckqM/s-l225.jpg",
+      "color": "Vineyard Vines Performance 1/4 Zip Pullover Men's Medium Gray NWT",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Overshirt \u2013 Classic Fit \u2013 Broken-In Twill",
       "brand": "Bills Khakis",
       "tier": "A",
@@ -1118,6 +1884,53 @@
       ]
     },
     {
+      "title": "Polo Ralph Lauren Mens Loopback Fleece Quarter-Zip Sweatshirt Large Cream - NWT",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 80.0,
+      "original_price": 150.0,
+      "discount_percent": 46.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/128007407517?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item1dcdd6079d:g:--wAAeSwRT1qb867&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYOGjMT1XK7ie5ABzV2ZGv%2ByEc7OAyxJF0%2FATVAwppuTIPNoptGhQCSBwHHi9vaaqmzJ5ZeuAkhekwACuDyTvRE5cp4qrZqjQbifcrUrdB7U8k7qKvWPTGxagcpjVvVWNBe5XGj8Tw70gMoOtIOLJJxyK4k6ZHKbIpNq5IVS49adCr7gwiRfnwURCg3%2FeTglqM6trUUK%2F3aZkLxVW7fyZyqVHCwvib8kEKabGCI7IpjRpx7ja7%2Bh354c1NpCbGyL83ssgtd3De7GabtBZ5rNbTyBmnOy7%2BmOhRl00%2BOAY9gnsJ%2FCKq7XXTpxaNurvpb07E%3D",
+      "image_url": "https://i.ebayimg.com/images/g/--wAAeSwRT1qb867/s-l225.jpg",
+      "color": "Polo Ralph Lauren Mens Loopback Fleece Quarter-Zip Sweatshirt Large Cream - NWT",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Men's Tennis Sweater Gray Blue NWT $128  100% Cotton XL",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 64.99,
+      "original_price": 120,
+      "discount_percent": 45.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/236551950204?_skw=Brooks+Brothers+men%27s+sweater&hash=item3713984f7c:g:o4QAAeSwgP9pUTtX",
+      "image_url": "https://i.ebayimg.com/images/g/o4QAAeSwgP9pUTtX/s-l225.jpg",
+      "color": "Brooks Brothers Men's Tennis Sweater Gray Blue NWT $128  100% Cotton XL",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "BARBOUR  Grindle Canvas Overshirt Jacket NEW NWT Men's M Navy",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 124.99,
+      "original_price": 230,
+      "discount_percent": 45.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/156485168082?_skw=Barbour+men%27s+overshirt&hash=item246f3e2bd2:g:6ZEAAOSwMqxnIkKA",
+      "image_url": "https://i.ebayimg.com/images/g/6ZEAAOSwMqxnIkKA/s-l225.jpg",
+      "color": "BARBOUR  Grindle Canvas Overshirt Jacket NEW NWT Men's M Navy",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Cropped Embroidered Eyelet Camp Collar Shirt",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -1132,6 +1945,36 @@
         "L",
         "M",
         "XL"
+      ]
+    },
+    {
+      "title": "Barbour Gamlin Half Zip Pullover Sweater Navy XL New W Tags",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 126.0,
+      "original_price": 230,
+      "discount_percent": 45.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/800300322066?_skw=Barbour+men%27s+sweater&hash=itemba559dcd12:g:ePYAAeSwAMtqTEhK&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZ%2B%2Fcr9piKEb358FdUg8V9gAyJAdi%2FZC32ogG5hBTazlPEjn86ANviEMIa2gsA7OnVxU2qhrv32bEvlXOWn%2BQve09Q1ajoW48HI2%2Ft0S%2BFFt9vQY856dET8DlFczdSHz7VtevjVRlwKtaByPssB131lgc6gcJLc1lwlCAbsKRs3mMydWhiyz88HkwvweEWKDS2awp%2F3ZQS7FG2y526cqJ5IpEun0EaRjjbz9sVRmfC1yyT%2BUuXjuCq2VZ2YQgJoYP%2FVFgBpthxlDlPtqEWR7UbF7Ai%2FgF2spXhbymSZU%2FGmTA%3D%3D",
+      "image_url": "https://i.ebayimg.com/images/g/ePYAAeSwAMtqTEhK/s-l225.jpg",
+      "color": "Barbour Gamlin Half Zip Pullover Sweater Navy XL New W Tags",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "VINEYARD VINES Charcoal Grey Cotton Collegiate Shep Shirt Sweater Large NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 32.99,
+      "original_price": 59.99,
+      "discount_percent": 45.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168559381861?_skw=Vineyard+Vines+men%27s+sweater&hash=item273eec0d65:g:YIwAAeSwc5lqYttv",
+      "image_url": "https://i.ebayimg.com/images/g/YIwAAeSwc5lqYttv/s-l225.jpg",
+      "color": "VINEYARD VINES Charcoal Grey Cotton Collegiate Shep Shirt Sweater Large NWT",
+      "available_sizes": [
+        "L"
       ]
     },
     {
@@ -1186,6 +2029,21 @@
         "XL",
         "XS",
         "XXL"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Wool Sweater Mens Medium Gray  Quarter Zip NWT",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 179.17,
+      "original_price": 319.95,
+      "discount_percent": 44.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/177726930633?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item296159bec9:g:ZS0AAOSw0xBoCxZX&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ7Ry3A%2BktMIdas6aqlrV0CyZ986zJvRbm3pAybRrDU4gj4blFooVCjUR3mLo8%2B2qUDFKkGJqWzq7%2BkIwc6nxXOrkWbzmjTUXzxbyy3AZoqtzd3hW7Em5XweFx%2BMk1D2o5vHBbz3zoK%2FfdZMd0oNINrB8pRjPyj0l5QoPSWgpjABvPR6raJrkCusOW9Q7O6Uc9kaEeGzBH%2F9BNGTr6ldl%2B3%2F3RdtIEbTUubtTsmO9jNiBufoQAdkkkyzVejfaKyCzHExdb%2BC17RdH2uKW0UfFGhJ43rvakeTuJR3jceo72ztyOKZ%2BKiIsdl%2B9Qetzuvj3o%3D",
+      "image_url": "https://i.ebayimg.com/images/g/ZS0AAOSw0xBoCxZX/s-l225.jpg",
+      "color": "Polo Ralph Lauren Wool Sweater Mens Medium Gray  Quarter Zip NWT",
+      "available_sizes": [
+        "M"
       ]
     },
     {
@@ -1252,6 +2110,22 @@
       ]
     },
     {
+      "title": "Polo Ralph Lauren Men's Cable-Knit Crew Neck Pullover Sweater Navy Blue M",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 75.0,
+      "original_price": 130,
+      "discount_percent": 42.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/407120860149?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item5eca4b53f5:g:76MAAeSwENVqcoMy",
+      "image_url": "https://i.ebayimg.com/images/g/76MAAeSwENVqcoMy/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men's Cable-Knit Crew Neck Pullover Sweater Navy Blue M",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Whitewater Hoodie - Navy Point Stripe",
       "brand": "Faherty",
       "tier": "A",
@@ -1268,6 +2142,21 @@
         "XL",
         "XS",
         "XXL"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Tennis V-Neck Sweater Mens Large Navy Blue Cotton $128 New NWT",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 69.99,
+      "original_price": 120,
+      "discount_percent": 41.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227442960445?_skw=Brooks+Brothers+men%27s+sweater&hash=item34f4a8283d:g:LpMAAeSwOgVqOaBh",
+      "image_url": "https://i.ebayimg.com/images/g/LpMAAeSwOgVqOaBh/s-l225.jpg",
+      "color": "Brooks Brothers Tennis V-Neck Sweater Mens Large Navy Blue Cotton $128 New NWT",
+      "available_sizes": [
+        "L"
       ]
     },
     {
@@ -1588,6 +2477,37 @@
       ]
     },
     {
+      "title": "Barbour\u00ae Stillwater Linen-Cotton Overshirt | L | Navy |  $220",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 139.99,
+      "original_price": 230,
+      "discount_percent": 39.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168499636367?_skw=Barbour+men%27s+overshirt&hash=item273b5c688f:g:7UMAAeSw0G5qQbPK",
+      "image_url": "https://i.ebayimg.com/images/g/7UMAAeSw0G5qQbPK/s-l225.jpg",
+      "color": "Barbour\u00ae Stillwater Linen-Cotton Overshirt | L | Navy |  $220",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men's Quarter Zip Sweater M Calm Water Nocturne Gray Long Sleeve",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 70.0,
+      "original_price": 115,
+      "discount_percent": 39.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227463813309?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item34f5e658bd:g:CowAAeSwfpRpXC24&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbqiEf9Hpfllz%2BfJG6XIdccFcp64YsldPckB4DW%2BVB4k%2BAV%2F1JZCejcQRFzAAYRKwNP3puTeP9w7Oxa9Sc6nkGRliEJE4S9sA8hb%2BCkFklNzgRmvem9OB5T0LpvbBe8yi2p%2BDYG86gJvKUaehMcZrhsfDM%2BTGsQCGEzZXLlvmfjUw5UxUKEHIdnv1nVcSVFHkvTH5IJKnE5%2BlOj5N0cRhbUeos4FZLOkHWLMisswZYdGzfx20GndfUAy0vY7mABBXPQVtml8%2BgRgweXtoAZ1WnCjnXCtcHps5Y%2Bm69X%2F7zlTAkZydJP%2FgFf%2BvS1yOJdMZM%3D",
+      "image_url": "https://i.ebayimg.com/images/g/CowAAeSwfpRpXC24/s-l225.jpg",
+      "color": "Vineyard Vines Men's Quarter Zip Sweater M Calm Water Nocturne Gray Long Sleeve",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Surf Shop High Standard Fleece Hoodie - Antique Ivory Heather",
       "brand": "Faherty",
       "tier": "A",
@@ -1751,6 +2671,22 @@
       ]
     },
     {
+      "title": "POLO RALPH LAUREN Bear Sweater Men's Large Light Blue Crewneck",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 191.36,
+      "original_price": 299.0,
+      "discount_percent": 36.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/287406945283?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item42eac9f403:g:yhEAAeSw5oRqNjNj&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZU7dim%2FQc2d%2Bo69ZbR3Qj0FfeUcqJSlxfgTLmJw6mqH5pxQu1cwL6FA%2BhWVV5BXTrSfTO%2B%2BNbUh2fW%2B2SBaD18%2BwW69zyMYiWaha%2Bm38vqWWRNfufO1bB0Fty3HdwUWrdgcDNyzLCvn4xyk7v4sZJL6ToKm4naYDAp1%2B90WdGnYpm3EQPmhcvFEIG0iKG1LM0BIMmQ7uFWQTJ2PiXHW3rqJS2Vymxk7CdRrZ29qmtSnDN96vV1rBNVsMT37iCbcEHJOEmxsNUYKr%2B%2FqRIq9tMbH06eByK%2BegZ3noPeaKHUxexTdxt9nETeWCirkdMHcig%3D",
+      "image_url": "https://i.ebayimg.com/images/g/yhEAAeSw5oRqNjNj/s-l225.jpg",
+      "color": "POLO RALPH LAUREN Bear Sweater Men's Large Light Blue Crewneck",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
       "title": "Ribbed Cotton-Cashmere Sweater Polo",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -1806,6 +2742,22 @@
       ]
     },
     {
+      "title": "POLO RALPH LAUREN Polo Bear Equestrian Knit Sweater Navy Men's L NWT",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 191.78,
+      "original_price": 295.05,
+      "discount_percent": 35.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/377395647766?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item57de889516:g:iv4AAeSwEChqcrw4&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYhwDPbhw%2Bv0LAP71LUdf8Stf6IX9YYDt4aKGYkax7I7NtJD6Y18QtJPYAFnbCC40rIwcJIzz%2BaJdsb5GOwxg0dN5ClHVEcjSYk%2BRWinvS8T07XFeRoFenkiatS4SXwHWd7a5r43%2BTVJUX2gbPijDDnnebnJpQZlXye2vUpRdz1p89nSr5H05zEGxP6TwrcCtRJ7lHX3D3l1zHzPzX5ymB4tOeAjZDLSUf8IjoUR%2BXZ%2BpE%2BkFOM1cVaKvCsWSYKvibDCr2QCIqs8VtRbcXrZVsgPgF101xAC3%2BgCVeCM%2BqJSAQpa%2Fb5t5Zzzus2SjVV%2Fxo%3D",
+      "image_url": "https://i.ebayimg.com/images/g/iv4AAeSwEChqcrw4/s-l225.jpg",
+      "color": "POLO RALPH LAUREN Polo Bear Equestrian Knit Sweater Navy Men's L NWT",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
       "title": "Vista Crewneck Sweater",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -1837,6 +2789,37 @@
         "XL",
         "XS",
         "XXL"
+      ]
+    },
+    {
+      "title": "NWT BARBOUR COTTON RUTHWELL OVERSHIRT DARK NAVY JACKET Size M Oversized",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 149.88,
+      "original_price": 230,
+      "discount_percent": 34.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/255982050358?_skw=Barbour+men%27s+overshirt&hash=item3b99b81c36:g:xyQAAOSw6g9j7nGd",
+      "image_url": "https://i.ebayimg.com/images/g/xyQAAOSw6g9j7nGd/s-l225.jpg",
+      "color": "NWT BARBOUR COTTON RUTHWELL OVERSHIRT DARK NAVY JACKET Size M Oversized",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Barbour x Maison Kitsune Overshirt Jacket Men's Size L Khaki, NEW NWOT",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 149.99,
+      "original_price": 230,
+      "discount_percent": 34.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/136918738607?_skw=Barbour+men%27s+overshirt&hash=item1fe0fe26af:g:wqsAAeSwKe1o4b58",
+      "image_url": "https://i.ebayimg.com/images/g/wqsAAeSwKe1o4b58/s-l225.jpg",
+      "color": "Barbour x Maison Kitsune Overshirt Jacket Men's Size L Khaki, NEW NWOT",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -1943,6 +2926,22 @@
       ]
     },
     {
+      "title": "NWT Brooks Brothers Men\u2019s Sweater Italian Yarn V-neck Tan Camel Beige L",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 80.0,
+      "original_price": 120,
+      "discount_percent": 33.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/236989844869?_skw=Brooks+Brothers+men%27s+sweater&hash=item372db20d85:g:u3cAAeSw7DdqdMhV",
+      "image_url": "https://i.ebayimg.com/images/g/u3cAAeSw7DdqdMhV/s-l225.jpg",
+      "color": "NWT Brooks Brothers Men\u2019s Sweater Italian Yarn V-neck Tan Camel Beige L",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
       "title": "Italian Cotton Modern Chino",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -2008,6 +3007,21 @@
         "XL",
         "XS",
         "XXL"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Fleece Quarter-Zip Hoodie XL grey",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 87.0,
+      "original_price": 130,
+      "discount_percent": 33.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/206456359918?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item3011c20bee:g:gPAAAeSwizZqbUT9",
+      "image_url": "https://i.ebayimg.com/images/g/gPAAAeSwizZqbUT9/s-l225.jpg",
+      "color": "Polo Ralph Lauren Fleece Quarter-Zip Hoodie XL grey",
+      "available_sizes": [
+        "XL"
       ]
     },
     {

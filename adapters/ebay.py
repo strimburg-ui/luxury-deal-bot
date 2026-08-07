@@ -17,9 +17,9 @@ Docs: https://developer.ebay.com/api-docs/buy/browse/overview.html
 Caveats (real limitations, not bugs):
   - Listing quality varies by seller — we filter to condition "NEW" but this
     is seller-reported, not verified.
-  - "Original price" (for discount %) is only present when the seller set a
-    strikethrough/MSRP price on the listing. Items without one are skipped,
-    since we can't verify a real discount.
+  - Most sellers don't set an official strikethrough price, so we fall back
+    to a rough typical-retail estimate per brand to compute an approximate
+    discount %. This is an estimate, not a live retail price.
   - Sizes are guessed from the listing title (eBay's search API doesn't
     expose structured size data), so this is looser than the Shopify feeds.
 """
@@ -42,6 +42,16 @@ BLOCKED_BRANDS = [
     "Brooks Brothers",
     "Vineyard Vines",
 ]
+
+SEARCH_CATEGORIES = ["sweater", "quarter zip", "trouser", "chino", "overshirt"]
+
+TYPICAL_RETAIL_PRICE = {
+    "Polo Ralph Lauren": 130,
+    "Peter Millar": 155,
+    "Barbour": 230,
+    "Brooks Brothers": 120,
+    "Vineyard Vines": 115,
+}
 
 SOURCE_NAME = "eBay"
 
@@ -92,31 +102,31 @@ def _guess_sizes(title: str) -> list:
     return list(sizes)
 
 
-def _search_brand(token: str, brand: str) -> list:
+def _search_brand_category(token: str, brand: str, category: str) -> list:
     headers = {
         "Authorization": f"Bearer {token}",
         "X-EBAY-C-MARKETPLACE-ID": "EBAY_US",
     }
     params = {
-        "q": f"{brand} men's sweater quarter zip trouser",
+        "q": f"{brand} men's {category}",
         "filter": "conditions:{NEW},itemLocationCountry:US",
-        "limit": "50",
+        "limit": "30",
     }
 
     try:
         resp = requests.get(SEARCH_URL, headers=headers, params=params, timeout=15)
     except requests.RequestException as e:
-        print(f"[ebay] search failed for {brand}: {e}")
+        print(f"[ebay] search failed for {brand} / {category}: {e}")
         return []
 
     if resp.status_code != 200:
-        print(f"[ebay] search for {brand} returned status {resp.status_code}")
+        print(f"[ebay] search for {brand} / {category} returned status {resp.status_code}")
         return []
 
     try:
         data = resp.json()
     except ValueError:
-        print(f"[ebay] search for {brand} did not return valid JSON")
+        print(f"[ebay] search for {brand} / {category} did not return valid JSON")
         return []
 
     items = data.get("itemSummaries", [])
@@ -130,45 +140,4 @@ def _search_brand(token: str, brand: str) -> list:
             continue
         price = float(price)
 
-        original_price = None
-        marketing_price = item.get("marketingPrice", {})
-        if marketing_price:
-            orig = marketing_price.get("originalPrice", {}).get("value")
-            if orig is not None:
-                original_price = float(orig)
-
-        if original_price is None:
-            continue
-
-        url = item.get("itemWebUrl", "")
-        image_url = item.get("image", {}).get("imageUrl", "")
-
-        deals.append({
-            "deal_id": url,
-            "source": SOURCE_NAME,
-            "brand": brand,
-            "title": title,
-            "price": price,
-            "original_price": original_price,
-            "url": url,
-            "available_sizes": _guess_sizes(title),
-            "color": title,
-            "category_text": title,
-            "image_url": image_url,
-        })
-
-    return deals
-
-
-def fetch_deals() -> list:
-    token = _get_access_token()
-    if not token:
-        return []
-
-    all_deals = []
-    for brand in BLOCKED_BRANDS:
-        brand_deals = _search_brand(token, brand)
-        print(f"[ebay] {brand}: found {len(brand_deals)} listings with visible discount")
-        all_deals.extend(brand_deals)
-
-    return all_deals
+        original

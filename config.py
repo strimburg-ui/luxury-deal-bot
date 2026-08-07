@@ -42,9 +42,10 @@ PANT_INSEAM = 34
 PANT_SIZE_STRINGS = ["32x34", "32 x 34", "32W 34L", "32/34"]
 
 # ---- Colors (substring match, case-insensitive) ----
+# ---- Colors (substring match, case-insensitive) ----
 TARGET_COLORS = [
     "navy", "cream", "beige", "light blue", "sky blue", "grey", "gray",
-    "ivory", "stone", "khaki",
+    "ivory", "stone", "khaki", "black",
 ]
 
 # ---- Categories (substring match against product title/category) ----
@@ -52,6 +53,7 @@ TARGET_CATEGORIES = [
     "sweater", "quarter-zip", "quarter zip", "1/4 zip", "overshirt",
     "knit", "trouser", "chino", "cardigan", "half-zip", "half zip",
     "shirt", "button-down", "button down", "oxford",
+    "jogger", "short", "t-shirt", "tee", "sweatshirt", "hoodie",
 ]
 
 # ---- Discount threshold ----

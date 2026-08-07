@@ -345,13 +345,15 @@
 // Buckets used for the on-page filter pills. Each deal is classified by
 // scanning its title/category text for these keywords — a deal can match
 // more than one bucket (e.g. "quarter-zip sweater" counts as a Sweater).
+// Some buckets use a custom matcher instead of plain keywords, to avoid
+// false positives like "short sleeve" wrongly matching the Shorts bucket.
 const CATEGORY_BUCKETS = {
-  'Pants':       ['trouser', 'chino', 'jogger', 'pant'],
-  'Shorts':      ['short'],
-  'Shirts':      ['shirt', 'oxford', 'button-down', 'button down', 'tee', 't-shirt', 'polo'],
-  'Sweaters':    ['sweater', 'quarter-zip', 'quarter zip', '1/4 zip', 'half-zip', 'half zip', 'cardigan', 'knit'],
-  'Sweatshirts': ['sweatshirt', 'hoodie'],
-  'Outerwear':   ['overshirt', 'jacket', 'coat', 'vest'],
+  'Pants':       { keywords: ['trouser', 'chino', 'jogger', 'pant'] },
+  'Shorts':      { match: text => /\bshorts?\b/.test(text) && !/short[\s-]?sleeve/.test(text) },
+  'Shirts':      { keywords: ['shirt', 'oxford', 'button-down', 'button down', 'tee', 't-shirt', 'polo'] },
+  'Sweaters':    { keywords: ['sweater', 'quarter-zip', 'quarter zip', '1/4 zip', 'half-zip', 'half zip', 'cardigan', 'knit'] },
+  'Sweatshirts': { keywords: ['sweatshirt', 'hoodie'] },
+  'Outerwear':   { keywords: ['overshirt', 'jacket', 'coat', 'vest'] },
 };
 
 let allDeals = [];
@@ -360,8 +362,9 @@ let activeFilter = 'All';
 function classify(deal) {
   const text = `${deal.title || ''} ${deal.category_text || ''}`.toLowerCase();
   const matches = [];
-  for (const [bucket, keywords] of Object.entries(CATEGORY_BUCKETS)) {
-    if (keywords.some(k => text.includes(k))) matches.push(bucket);
+  for (const [bucket, rule] of Object.entries(CATEGORY_BUCKETS)) {
+    const isMatch = rule.match ? rule.match(text) : rule.keywords.some(k => text.includes(k));
+    if (isMatch) matches.push(bucket);
   }
   return matches;
 }

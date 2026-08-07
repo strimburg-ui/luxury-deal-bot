@@ -1,216 +1,546 @@
-"""
-Adapter for finding deals on brands whose own retail sites block scraping
-(Ralph Lauren, Peter Millar, Barbour, Brooks Brothers, etc.) by instead
-searching eBay's official Browse API for new-condition listings.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Ledger — Deal Gallery</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap');
 
-Why this works when the retail sites don't: eBay's API is meant to be used
-by outside apps, so there's no bot-blocking to fight — you just need a free
-developer account and API key.
+  :root {
+    --navy: #10192E;
+    --navy-deep: #0A1120;
+    --cream: #F3EEE3;
+    --cream-dim: #E4DCC8;
+    --brass: #B08D57;
+    --brass-bright: #D4AF6A;
+    --ink: #1B2536;
+    --line: rgba(243, 238, 227, 0.14);
+  }
 
-Setup required (one-time):
-  1. Create a free account at https://developer.ebay.com
-  2. Create an application to get an App ID (Client ID) and Cert ID (Client Secret)
-  3. Add these as GitHub repo secrets: EBAY_CLIENT_ID, EBAY_CLIENT_SECRET
+  * { box-sizing: border-box; }
 
-Docs: https://developer.ebay.com/api-docs/buy/browse/overview.html
+  body {
+    margin: 0;
+    background: var(--navy);
+    background-image:
+      radial-gradient(circle at 15% 0%, rgba(176,141,87,0.10), transparent 40%),
+      radial-gradient(circle at 85% 100%, rgba(176,141,87,0.06), transparent 45%);
+    color: var(--cream);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+  }
 
-Caveats (real limitations, not bugs):
-  - Listing quality varies by seller — we filter to condition "NEW" but this
-    is seller-reported, not verified.
-  - Most sellers don't set an official strikethrough price, so we fall back
-    to a rough typical-retail estimate per brand to compute an approximate
-    discount %. This is an estimate, not a live retail price.
-  - Sizes are guessed from the listing title (eBay's search API doesn't
-    expose structured size data), so this is looser than the Shopify feeds.
-"""
-import base64
-import os
-import re
+  header {
+    padding: 48px 24px 32px;
+    text-align: center;
+    border-bottom: 1px solid var(--line);
+  }
 
-import requests
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--brass-bright);
+    margin-bottom: 14px;
+  }
 
-TOKEN_URL = "https://api.ebay.com/identity/v1/oauth2/token"
-SEARCH_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: clamp(2.2rem, 6vw, 3.4rem);
+    margin: 0 0 10px;
+    letter-spacing: -0.01em;
+  }
 
-CLIENT_ID = os.environ.get("EBAY_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("EBAY_CLIENT_SECRET")
+  .sub {
+    font-size: 14px;
+    color: var(--cream-dim);
+    font-family: 'IBM Plex Mono', monospace;
+  }
 
-# Brands whose own sites are blocked — search for these on eBay instead.
-BLOCKED_BRANDS = [
-    "Polo Ralph Lauren",
-    "Peter Millar",
-    "Barbour",
-    "Brooks Brothers",
-    "Vineyard Vines",
-    "Lululemon",
-    "J.Crew",
-    "Banana Republic",
-]
+  .stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 28px;
+    flex-wrap: wrap;
+  }
 
-# Search each brand across these category terms separately (rather than one
-# combined query) — eBay's search relevance narrows hard on multi-word
-# queries, so splitting finds meaningfully more listings per brand.
-SEARCH_CATEGORIES = [
-    "sweater", "quarter zip", "trouser", "chino", "overshirt",
-    "jogger", "short", "t-shirt", "sweatshirt",
-]
+  .stat {
+    text-align: center;
+  }
 
-# Most individual eBay sellers don't set an official strikethrough/MSRP price
-# on their listing (that's mostly an eBay-certified-program feature), so we
-# can rarely compute a real discount % from the listing data alone. As a
-# fallback, we use rough typical retail prices per brand — these are
-# estimates, not live prices, so treat the resulting discount % as approximate.
-TYPICAL_RETAIL_PRICE = {
-    "Polo Ralph Lauren": 130,
-    "Peter Millar": 155,
-    "Barbour": 230,
-    "Brooks Brothers": 120,
-    "Vineyard Vines": 115,
-    "Lululemon": 95,
-    "J.Crew": 90,
-    "Banana Republic": 95,
+  .stat-num {
+    font-family: 'Fraunces', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--brass-bright);
+    display: block;
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--cream-dim);
+    margin-top: 6px;
+    display: block;
+  }
+
+  main {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 40px 20px 100px;
+  }
+
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 22px;
+  }
+
+  .card {
+    position: relative;
+    background: var(--cream);
+    color: var(--ink);
+    border-radius: 3px;
+    overflow: hidden;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+    /* Price-tag notch cut on the left edge */
+    clip-path: polygon(
+      14px 0%, 100% 0%, 100% 100%, 14px 100%,
+      0% 50%
+    );
+    padding-left: 14px;
+  }
+
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 40px rgba(0,0,0,0.45);
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    left: 22px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--navy);
+    z-index: 2;
+  }
+
+  .card-img-wrap {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    background: #d8d0bd;
+    overflow: hidden;
+  }
+
+  .card-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .card-body {
+    padding: 14px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    flex: 1;
+  }
+
+  .card-top-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .brand {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--navy);
+    opacity: 0.7;
+    font-weight: 600;
+  }
+
+  .tier-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9.5px;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 2px;
+    background: var(--navy);
+    color: var(--brass-bright);
+    white-space: nowrap;
+  }
+
+  .title {
+    font-family: 'Fraunces', serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.28;
+    margin: 2px 0 4px;
+    color: var(--ink);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .price-row {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-top: auto;
+    padding-top: 6px;
+  }
+
+  .price-now {
+    font-family: 'Fraunces', serif;
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--navy);
+  }
+
+  .price-was {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: #8a8370;
+    text-decoration: line-through;
+  }
+
+  .discount-pill {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff;
+    background: #7A4A2E;
+    padding: 2px 7px;
+    border-radius: 2px;
+    margin-left: auto;
+  }
+
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: #6b6455;
+    border-top: 1px dashed #cfc6ac;
+    padding-top: 8px;
+    margin-top: 4px;
+  }
+
+  #empty, #loading {
+    text-align: center;
+    padding: 100px 20px;
+    color: var(--cream-dim);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+  }
+
+  #empty .big {
+    font-family: 'Fraunces', serif;
+    font-size: 1.6rem;
+    color: var(--cream);
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 30px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px;
+    color: rgba(243,238,227,0.35);
+    border-top: 1px solid var(--line);
+  }
+
+  .filter-group-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--cream-dim);
+    text-align: center;
+    margin-bottom: 10px;
+    opacity: 0.65;
+  }
+
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 24px;
+  }
+
+  .filter-bar.brand-bar {
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px dashed var(--line);
+  }
+
+  .filter-pill {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.04em;
+    color: var(--cream-dim);
+    background: rgba(243,238,227,0.06);
+    border: 1px solid var(--line);
+    padding: 7px 16px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+  }
+
+  .filter-pill:hover {
+    border-color: var(--brass);
+    color: var(--cream);
+  }
+
+  .filter-pill.active {
+    background: var(--brass);
+    border-color: var(--brass);
+    color: var(--navy-deep);
+    font-weight: 600;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Updated Daily · Filtered To Your Size &amp; Colors</div>
+  <h1>The Ledger</h1>
+  <div class="sub">Every current markdown matching your filters, in one place</div>
+  <div class="stats">
+    <div class="stat">
+      <span class="stat-num" id="stat-count">—</span>
+      <span class="stat-label">Live Deals</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-best">—</span>
+      <span class="stat-label">Best Discount</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-updated">—</span>
+      <span class="stat-label">Last Checked</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div id="loading">Loading the ledger…</div>
+  <div id="brand-filter-wrap" style="display:none;">
+    <div class="filter-group-label">Company</div>
+    <div id="brand-filter-bar" class="filter-bar brand-bar"></div>
+  </div>
+  <div id="filter-wrap" style="display:none;">
+    <div class="filter-group-label">Clothing Type</div>
+    <div id="filter-bar" class="filter-bar"></div>
+  </div>
+  <div id="grid" style="display:none;"></div>
+  <div id="empty" style="display:none;">
+    <span class="big">Nothing on the books today.</span>
+    No items currently clear your 30% threshold in your size and colors. Check back tomorrow.
+  </div>
+</main>
+
+<footer>Personal deal tracker · not affiliated with any retailer listed</footer>
+
+<script>
+// Buckets used for the on-page filter pills. Each deal is classified by
+// scanning its title/category text for these keywords — a deal can match
+// more than one bucket (e.g. "quarter-zip sweater" counts as a Sweater).
+// Some buckets use a custom matcher instead of plain keywords, to avoid
+// false positives like "short sleeve" wrongly matching the Shorts bucket.
+const CATEGORY_BUCKETS = {
+  'Pants':       { keywords: ['trouser', 'chino', 'jogger', 'pant'] },
+  'Shorts':      { match: text => /\bshorts?\b/.test(text) && !/short[\s-]?sleeve/.test(text) },
+  'Shirts':      { keywords: ['shirt', 'oxford', 'button-down', 'button down', 'tee', 't-shirt', 'polo'] },
+  'Sweaters':    { keywords: ['sweater', 'quarter-zip', 'quarter zip', '1/4 zip', 'half-zip', 'half zip', 'cardigan', 'knit'] },
+  'Sweatshirts': { keywords: ['sweatshirt', 'hoodie'] },
+  'Outerwear':   { keywords: ['overshirt', 'jacket', 'coat', 'vest'] },
+};
+
+let allDeals = [];
+let activeFilter = 'All';
+let activeBrand = 'All';
+
+function classify(deal) {
+  const text = `${deal.title || ''} ${deal.category_text || ''}`.toLowerCase();
+  const matches = [];
+  for (const [bucket, rule] of Object.entries(CATEGORY_BUCKETS)) {
+    const isMatch = rule.match ? rule.match(text) : rule.keywords.some(k => text.includes(k));
+    if (isMatch) matches.push(bucket);
+  }
+  return matches;
 }
 
-SOURCE_NAME = "eBay"
+async function loadDeals() {
+  const loadingEl = document.getElementById('loading');
+  const gridEl = document.getElementById('grid');
+  const emptyEl = document.getElementById('empty');
+  const filterWrapEl = document.getElementById('filter-wrap');
+  const brandFilterWrapEl = document.getElementById('brand-filter-wrap');
 
-SIZE_TOKEN_PATTERN = re.compile(
-    r"\b(XS|S|M|L|XL|XXL|MT|LT|XLT|MED|MEDIUM|LARGE|SMALL|32X34|32/34|32-34)\b",
-    re.IGNORECASE,
-)
-TALL_PATTERN = re.compile(r"\btall\b", re.IGNORECASE)
+  try {
+    const res = await fetch('deals.json?t=' + Date.now());
+    if (!res.ok) throw new Error('no data yet');
+    const data = await res.json();
 
+    loadingEl.style.display = 'none';
 
-def _get_access_token():
-    if not CLIENT_ID or not CLIENT_SECRET:
-        print("[ebay] missing EBAY_CLIENT_ID or EBAY_CLIENT_SECRET env vars")
-        return None
+    allDeals = (data.deals || []).map(d => ({ ...d, _buckets: classify(d) }));
+    document.getElementById('stat-count').textContent = allDeals.length;
+    document.getElementById('stat-best').textContent = allDeals.length
+      ? Math.round(Math.max(...allDeals.map(d => d.discount_percent || 0))) + '%'
+      : '—';
 
-    credentials = base64.b64encode(f"{CLIENT_ID}:{CLIENT_SECRET}".encode()).decode()
-    headers = {
-        "Authorization": f"Basic {credentials}",
-        "Content-Type": "application/x-www-form-urlencoded",
-    }
-    data = {
-        "grant_type": "client_credentials",
-        "scope": "https://api.ebay.com/oauth/api_scope",
-    }
-    try:
-        resp = requests.post(TOKEN_URL, headers=headers, data=data, timeout=15)
-        if resp.status_code != 200:
-            print(f"[ebay] token request failed: {resp.status_code} {resp.text}")
-            return None
-        return resp.json().get("access_token")
-    except requests.RequestException as e:
-        print(f"[ebay] token request error: {e}")
-        return None
-
-
-def _guess_sizes(title: str) -> list:
-    matches = [m.upper() for m in SIZE_TOKEN_PATTERN.findall(title)]
-    is_tall = bool(TALL_PATTERN.search(title))
-
-    normalized = {"MEDIUM": "M", "LARGE": "L", "SMALL": "S", "MED": "M"}
-    sizes = {normalized.get(m, m) for m in matches}
-
-    if is_tall:
-        # Combine base size + tall into one token, e.g. "M" + Tall -> "MT"
-        sizes = {f"{s}T" if s in ("M", "L", "XL") else s for s in sizes}
-        if not sizes:
-            sizes = {"TALL"}
-
-    return list(sizes)
-
-
-def _search_brand_category(token: str, brand: str, category: str) -> list:
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "X-EBAY-C-MARKETPLACE-ID": "EBAY_US",
-    }
-    params = {
-        "q": f"{brand} men's {category}",
-        "filter": "conditions:{NEW},itemLocationCountry:US",
-        "limit": "30",
+    if (data.updated_at) {
+      const d = new Date(data.updated_at);
+      document.getElementById('stat-updated').textContent = d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
     }
 
-    try:
-        resp = requests.get(SEARCH_URL, headers=headers, params=params, timeout=15)
-    except requests.RequestException as e:
-        print(f"[ebay] search failed for {brand} / {category}: {e}")
-        return []
+    if (!allDeals.length) {
+      emptyEl.style.display = 'block';
+      return;
+    }
 
-    if resp.status_code != 200:
-        print(f"[ebay] search for {brand} / {category} returned status {resp.status_code}")
-        return []
+    renderBrandFilterBar();
+    renderFilterBar();
+    brandFilterWrapEl.style.display = 'block';
+    filterWrapEl.style.display = 'block';
+    gridEl.style.display = 'grid';
+    applyFilter();
+  } catch (e) {
+    loadingEl.textContent = 'The ledger hasn\'t been written yet — check back after the first daily run.';
+  }
+}
 
-    try:
-        data = resp.json()
-    except ValueError:
-        print(f"[ebay] search for {brand} / {category} did not return valid JSON")
-        return []
+function brandName(d) {
+  return d.brand || d.source || 'Other';
+}
 
-    items = data.get("itemSummaries", [])
-    deals = []
+function dealsMatchingBrand(brand) {
+  return brand === 'All' ? allDeals : allDeals.filter(d => brandName(d) === brand);
+}
 
-    for item in items:
-        title = item.get("title", "")
-        price_info = item.get("price", {})
-        price = price_info.get("value")
-        if price is None:
-            continue
-        price = float(price)
+function dealsMatchingCategory(deals, category) {
+  return category === 'All' ? deals : deals.filter(d => d._buckets.includes(category));
+}
 
-        # Prefer the seller's own strikethrough price if eBay provides one.
-        original_price = None
-        marketing_price = item.get("marketingPrice", {})
-        if marketing_price:
-            orig = marketing_price.get("originalPrice", {}).get("value")
-            if orig is not None:
-                original_price = float(orig)
+function renderBrandFilterBar() {
+  const barEl = document.getElementById('brand-filter-bar');
+  const brands = [...new Set(allDeals.map(brandName))].sort();
+  const allPills = ['All', ...brands];
 
-        # Fall back to a rough typical-retail estimate for this brand so we
-        # can still compute an approximate discount %.
-        if original_price is None:
-            original_price = TYPICAL_RETAIL_PRICE.get(brand)
-        if original_price is None or original_price <= price:
-            continue  # can't estimate a real discount — skip
+  barEl.innerHTML = allPills.map(name => {
+    const count = dealsMatchingBrand(name).length;
+    return `<button class="filter-pill${name === activeBrand ? ' active' : ''}" data-brand="${escapeHtml(name)}">${escapeHtml(name)} (${count})</button>`;
+  }).join('');
 
-        url = item.get("itemWebUrl", "")
-        image_url = item.get("image", {}).get("imageUrl", "")
+  barEl.querySelectorAll('.filter-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeBrand = btn.dataset.brand;
+      renderBrandFilterBar();
+      renderFilterBar();
+      applyFilter();
+    });
+  });
+}
 
-        deals.append({
-            "deal_id": url,
-            "source": SOURCE_NAME,
-            "brand": brand,
-            "title": title,
-            "price": price,
-            "original_price": original_price,
-            "url": url,
-            "available_sizes": _guess_sizes(title),
-            "color": title,
-            "category_text": title,
-            "image_url": image_url,
-        })
+function renderFilterBar() {
+  const filterBarEl = document.getElementById('filter-bar');
+  const brandScoped = dealsMatchingBrand(activeBrand);
+  const bucketNames = Object.keys(CATEGORY_BUCKETS);
+  const allPills = ['All', ...bucketNames];
 
-    return deals
+  filterBarEl.innerHTML = allPills.map(name => {
+    const count = name === 'All'
+      ? brandScoped.length
+      : brandScoped.filter(d => d._buckets.includes(name)).length;
+    if (name !== 'All' && count === 0) return ''; // hide empty buckets for this brand
+    return `<button class="filter-pill${name === activeFilter ? ' active' : ''}" data-filter="${escapeHtml(name)}">${escapeHtml(name)} (${count})</button>`;
+  }).join('');
 
+  filterBarEl.querySelectorAll('.filter-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeFilter = btn.dataset.filter;
+      renderFilterBar();
+      applyFilter();
+    });
+  });
+}
 
-def fetch_deals() -> list:
-    token = _get_access_token()
-    if not token:
-        return []
+function applyFilter() {
+  const gridEl = document.getElementById('grid');
+  const byBrand = dealsMatchingBrand(activeBrand);
+  const filtered = dealsMatchingCategory(byBrand, activeFilter);
+  gridEl.innerHTML = filtered.map(renderCard).join('');
+}
 
-    all_deals = []
-    seen_ids = set()
-    for brand in BLOCKED_BRANDS:
-        brand_count = 0
-        for category in SEARCH_CATEGORIES:
-            category_deals = _search_brand_category(token, brand, category)
-            for d in category_deals:
-                if d["deal_id"] in seen_ids:
-                    continue  # same listing matched more than one category search
-                seen_ids.add(d["deal_id"])
-                all_deals.append(d)
-                brand_count += 1
-        print(f"[ebay] {brand}: found {brand_count} listings with a computable discount")
+function renderCard(d) {
+  const img = d.image_url
+    ? `<img src="${escapeHtml(d.image_url)}" alt="${escapeHtml(d.title)}" loading="lazy">`
+    : `<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-family:'IBM Plex Mono',monospace;font-size:11px;color:#8a8370;">No image</div>`;
 
-    return all_deals
+  const sizes = (d.available_sizes || []).join(', ');
+  const price = d.price != null ? '$' + d.price.toFixed(2) : '—';
+  const was = d.original_price != null ? '$' + d.original_price.toFixed(2) : '';
+  const pct = d.discount_percent != null ? Math.round(d.discount_percent) + '% off' : '';
+
+  return `
+    <a class="card" href="${escapeHtml(d.url)}" target="_blank" rel="noopener">
+      <div class="card-img-wrap">${img}</div>
+      <div class="card-body">
+        <div class="card-top-row">
+          <span class="brand">${escapeHtml(d.brand || d.source || '')}</span>
+          ${d.tier && d.tier !== '?' ? `<span class="tier-badge">TIER ${escapeHtml(d.tier)}</span>` : ''}
+        </div>
+        <div class="title">${escapeHtml(d.title)}</div>
+        <div class="price-row">
+          <span class="price-now">${price}</span>
+          ${was ? `<span class="price-was">${was}</span>` : ''}
+          ${pct ? `<span class="discount-pill">${pct}</span>` : ''}
+        </div>
+        <div class="meta-row">
+          <span>${escapeHtml(sizes || '—')}</span>
+          <span>${escapeHtml(d.source || '')}</span>
+        </div>
+      </div>
+    </a>
+  `;
+}
+
+function escapeHtml(str) {
+  if (str == null) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+loadDeals();
+</script>
+
+</body>
+</html>

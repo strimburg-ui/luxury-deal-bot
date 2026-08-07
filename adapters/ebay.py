@@ -35,6 +35,7 @@ SEARCH_URL = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 CLIENT_ID = os.environ.get("EBAY_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("EBAY_CLIENT_SECRET")
 
+# Brands whose own sites are blocked — search for these on eBay instead.
 BLOCKED_BRANDS = [
     "Polo Ralph Lauren",
     "Peter Millar",
@@ -42,13 +43,23 @@ BLOCKED_BRANDS = [
     "Brooks Brothers",
     "Vineyard Vines",
     "Lululemon",
+    "J.Crew",
+    "Banana Republic",
 ]
 
+# Search each brand across these category terms separately (rather than one
+# combined query) — eBay's search relevance narrows hard on multi-word
+# queries, so splitting finds meaningfully more listings per brand.
 SEARCH_CATEGORIES = [
     "sweater", "quarter zip", "trouser", "chino", "overshirt",
     "jogger", "short", "t-shirt", "sweatshirt",
 ]
 
+# Most individual eBay sellers don't set an official strikethrough/MSRP price
+# on their listing (that's mostly an eBay-certified-program feature), so we
+# can rarely compute a real discount % from the listing data alone. As a
+# fallback, we use rough typical retail prices per brand — these are
+# estimates, not live prices, so treat the resulting discount % as approximate.
 TYPICAL_RETAIL_PRICE = {
     "Polo Ralph Lauren": 130,
     "Peter Millar": 155,
@@ -56,6 +67,8 @@ TYPICAL_RETAIL_PRICE = {
     "Brooks Brothers": 120,
     "Vineyard Vines": 115,
     "Lululemon": 95,
+    "J.Crew": 90,
+    "Banana Republic": 95,
 }
 
 SOURCE_NAME = "eBay"
@@ -100,6 +113,7 @@ def _guess_sizes(title: str) -> list:
     sizes = {normalized.get(m, m) for m in matches}
 
     if is_tall:
+        # Combine base size + tall into one token, e.g. "M" + Tall -> "MT"
         sizes = {f"{s}T" if s in ("M", "L", "XL") else s for s in sizes}
         if not sizes:
             sizes = {"TALL"}
@@ -145,6 +159,7 @@ def _search_brand_category(token: str, brand: str, category: str) -> list:
             continue
         price = float(price)
 
+        # Prefer the seller's own strikethrough price if eBay provides one.
         original_price = None
         marketing_price = item.get("marketingPrice", {})
         if marketing_price:
@@ -152,10 +167,12 @@ def _search_brand_category(token: str, brand: str, category: str) -> list:
             if orig is not None:
                 original_price = float(orig)
 
+        # Fall back to a rough typical-retail estimate for this brand so we
+        # can still compute an approximate discount %.
         if original_price is None:
             original_price = TYPICAL_RETAIL_PRICE.get(brand)
         if original_price is None or original_price <= price:
-            continue
+            continue  # can't estimate a real discount — skip
 
         url = item.get("itemWebUrl", "")
         image_url = item.get("image", {}).get("imageUrl", "")
@@ -190,7 +207,7 @@ def fetch_deals() -> list:
             category_deals = _search_brand_category(token, brand, category)
             for d in category_deals:
                 if d["deal_id"] in seen_ids:
-                    continue
+                    continue  # same listing matched more than one category search
                 seen_ids.add(d["deal_id"])
                 all_deals.append(d)
                 brand_count += 1

@@ -271,6 +271,40 @@
     color: rgba(243,238,227,0.35);
     border-top: 1px solid var(--line);
   }
+
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 32px;
+  }
+
+  .filter-pill {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.04em;
+    color: var(--cream-dim);
+    background: rgba(243,238,227,0.06);
+    border: 1px solid var(--line);
+    padding: 7px 16px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    user-select: none;
+  }
+
+  .filter-pill:hover {
+    border-color: var(--brass);
+    color: var(--cream);
+  }
+
+  .filter-pill.active {
+    background: var(--brass);
+    border-color: var(--brass);
+    color: var(--navy-deep);
+    font-weight: 600;
+  }
 </style>
 </head>
 <body>
@@ -297,6 +331,7 @@
 
 <main>
   <div id="loading">Loading the ledger…</div>
+  <div id="filter-bar" class="filter-bar" style="display:none;"></div>
   <div id="grid" style="display:none;"></div>
   <div id="empty" style="display:none;">
     <span class="big">Nothing on the books today.</span>
@@ -307,10 +342,35 @@
 <footer>Personal deal tracker · not affiliated with any retailer listed</footer>
 
 <script>
+// Buckets used for the on-page filter pills. Each deal is classified by
+// scanning its title/category text for these keywords — a deal can match
+// more than one bucket (e.g. "quarter-zip sweater" counts as a Sweater).
+const CATEGORY_BUCKETS = {
+  'Pants':       ['trouser', 'chino', 'jogger', 'pant'],
+  'Shorts':      ['short'],
+  'Shirts':      ['shirt', 'oxford', 'button-down', 'button down', 'tee', 't-shirt', 'polo'],
+  'Sweaters':    ['sweater', 'quarter-zip', 'quarter zip', '1/4 zip', 'half-zip', 'half zip', 'cardigan', 'knit'],
+  'Sweatshirts': ['sweatshirt', 'hoodie'],
+  'Outerwear':   ['overshirt', 'jacket', 'coat', 'vest'],
+};
+
+let allDeals = [];
+let activeFilter = 'All';
+
+function classify(deal) {
+  const text = `${deal.title || ''} ${deal.category_text || ''}`.toLowerCase();
+  const matches = [];
+  for (const [bucket, keywords] of Object.entries(CATEGORY_BUCKETS)) {
+    if (keywords.some(k => text.includes(k))) matches.push(bucket);
+  }
+  return matches;
+}
+
 async function loadDeals() {
   const loadingEl = document.getElementById('loading');
   const gridEl = document.getElementById('grid');
   const emptyEl = document.getElementById('empty');
+  const filterBarEl = document.getElementById('filter-bar');
 
   try {
     const res = await fetch('deals.json?t=' + Date.now());
@@ -319,10 +379,10 @@ async function loadDeals() {
 
     loadingEl.style.display = 'none';
 
-    const deals = data.deals || [];
-    document.getElementById('stat-count').textContent = deals.length;
-    document.getElementById('stat-best').textContent = deals.length
-      ? Math.round(Math.max(...deals.map(d => d.discount_percent || 0))) + '%'
+    allDeals = (data.deals || []).map(d => ({ ...d, _buckets: classify(d) }));
+    document.getElementById('stat-count').textContent = allDeals.length;
+    document.getElementById('stat-best').textContent = allDeals.length
+      ? Math.round(Math.max(...allDeals.map(d => d.discount_percent || 0))) + '%'
       : '—';
 
     if (data.updated_at) {
@@ -330,16 +390,48 @@ async function loadDeals() {
       document.getElementById('stat-updated').textContent = d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
     }
 
-    if (!deals.length) {
+    if (!allDeals.length) {
       emptyEl.style.display = 'block';
       return;
     }
 
+    renderFilterBar();
+    filterBarEl.style.display = 'flex';
     gridEl.style.display = 'grid';
-    gridEl.innerHTML = deals.map(renderCard).join('');
+    applyFilter();
   } catch (e) {
     loadingEl.textContent = 'The ledger hasn\'t been written yet — check back after the first daily run.';
   }
+}
+
+function renderFilterBar() {
+  const filterBarEl = document.getElementById('filter-bar');
+  const bucketNames = Object.keys(CATEGORY_BUCKETS);
+  const allPills = ['All', ...bucketNames];
+
+  filterBarEl.innerHTML = allPills.map(name => {
+    const count = name === 'All'
+      ? allDeals.length
+      : allDeals.filter(d => d._buckets.includes(name)).length;
+    if (name !== 'All' && count === 0) return ''; // hide empty buckets
+    return `<button class="filter-pill${name === activeFilter ? ' active' : ''}" data-filter="${escapeHtml(name)}">${escapeHtml(name)} (${count})</button>`;
+  }).join('');
+
+  filterBarEl.querySelectorAll('.filter-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeFilter = btn.dataset.filter;
+      renderFilterBar();
+      applyFilter();
+    });
+  });
+}
+
+function applyFilter() {
+  const gridEl = document.getElementById('grid');
+  const filtered = activeFilter === 'All'
+    ? allDeals
+    : allDeals.filter(d => d._buckets.includes(activeFilter));
+  gridEl.innerHTML = filtered.map(renderCard).join('');
 }
 
 function renderCard(d) {

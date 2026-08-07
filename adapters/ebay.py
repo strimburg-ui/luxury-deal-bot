@@ -140,4 +140,55 @@ def _search_brand_category(token: str, brand: str, category: str) -> list:
             continue
         price = float(price)
 
-        original
+        original_price = None
+        marketing_price = item.get("marketingPrice", {})
+        if marketing_price:
+            orig = marketing_price.get("originalPrice", {}).get("value")
+            if orig is not None:
+                original_price = float(orig)
+
+        if original_price is None:
+            original_price = TYPICAL_RETAIL_PRICE.get(brand)
+        if original_price is None or original_price <= price:
+            continue
+
+        url = item.get("itemWebUrl", "")
+        image_url = item.get("image", {}).get("imageUrl", "")
+
+        deals.append({
+            "deal_id": url,
+            "source": SOURCE_NAME,
+            "brand": brand,
+            "title": title,
+            "price": price,
+            "original_price": original_price,
+            "url": url,
+            "available_sizes": _guess_sizes(title),
+            "color": title,
+            "category_text": title,
+            "image_url": image_url,
+        })
+
+    return deals
+
+
+def fetch_deals() -> list:
+    token = _get_access_token()
+    if not token:
+        return []
+
+    all_deals = []
+    seen_ids = set()
+    for brand in BLOCKED_BRANDS:
+        brand_count = 0
+        for category in SEARCH_CATEGORIES:
+            category_deals = _search_brand_category(token, brand, category)
+            for d in category_deals:
+                if d["deal_id"] in seen_ids:
+                    continue
+                seen_ids.add(d["deal_id"])
+                all_deals.append(d)
+                brand_count += 1
+        print(f"[ebay] {brand}: found {brand_count} listings with a computable discount")
+
+    return all_deals

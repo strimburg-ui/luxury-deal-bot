@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T00:37:31.865799+00:00",
-  "count": 107,
+  "updated_at": "2026-08-07T15:33:58.566057+00:00",
+  "count": 116,
   "deals": [
     {
       "title": "Italian Tuxedo Trouser",
@@ -21,6 +21,44 @@
         "33/32",
         "34/32",
         "34/34"
+      ]
+    },
+    {
+      "title": "Micro Gingham Intercoastal Performance Sport Shirt",
+      "brand": "Southern Tide",
+      "tier": "A",
+      "price": 47.25,
+      "original_price": 135.0,
+      "discount_percent": 65.0,
+      "source": "Southern Tide",
+      "url": "https://southerntide.com/products/micro-gingham-intercoastal-performance-sport-shirt",
+      "image_url": "https://cdn.shopify.com/s/files/1/2294/8559/files/micro-gingham-intercoastal-performance-sport-shirt-true-navy-front-5348_2.jpg?v=1762273494",
+      "color": "True Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Team Colors Gingham Intercoastal Sport Shirt",
+      "brand": "Southern Tide",
+      "tier": "A",
+      "price": 47.25,
+      "original_price": 135.0,
+      "discount_percent": 65.0,
+      "source": "Southern Tide",
+      "url": "https://southerntide.com/products/team-colors-gingham-intercoastal-sport-shirt",
+      "image_url": "https://cdn.shopify.com/s/files/1/2294/8559/files/team-colors-gingham-intercoastal-sport-shirt-navy-front-6836.jpg?v=1746720036",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
       ]
     },
     {
@@ -104,6 +142,43 @@
         "S",
         "XL",
         "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Navy Printed Shirt  \u2013 Standard Fit",
+      "brand": "Bills Khakis",
+      "tier": "A",
+      "price": 92.5,
+      "original_price": 228.0,
+      "discount_percent": 59.4,
+      "source": "Bills Khakis",
+      "url": "https://billskhakis.com/products/standard-fit-navy-print-shirt",
+      "image_url": "https://cdn.shopify.com/s/files/1/0159/3242/4246/files/navyprint.jpg?v=1715891421",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Cobblestone Plaid Beach Flannel Sport Shirt",
+      "brand": "Southern Tide",
+      "tier": "A",
+      "price": 49.5,
+      "original_price": 118.0,
+      "discount_percent": 58.1,
+      "source": "Southern Tide",
+      "url": "https://southerntide.com/products/cobblestone-plaid-beach-flannel-sport-shirt",
+      "image_url": "https://cdn.shopify.com/s/files/1/2294/8559/files/cobblestone-plaid-beach-flannel-sport-shirt-muscadine-front-11171.jpg?v=1762288866",
+      "color": "Muscadine",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
         "XXL"
       ]
     },
@@ -544,6 +619,25 @@
       ]
     },
     {
+      "title": "brrr\u00b0\u00ae-illiant Performance Hoodie",
+      "brand": "Southern Tide",
+      "tier": "A",
+      "price": 48.5,
+      "original_price": 98.0,
+      "discount_percent": 50.5,
+      "source": "Southern Tide",
+      "url": "https://southerntide.com/products/brrr-illiant-performance-hoodie",
+      "image_url": "https://cdn.shopify.com/s/files/1/2294/8559/files/brrr-illiant-performance-hoodie-platinum-grey-front-9742_2.jpg?v=1753735322",
+      "color": "Platinum Grey",
+      "available_sizes": [
+        "M",
+        "S",
+        "XL",
+        "XS",
+        "XXL"
+      ]
+    },
+    {
       "title": "Tuscumbia Linen Shirt Button Down",
       "brand": "Billy Reid",
       "tier": "A",
@@ -760,7 +854,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/MAR26_KN2384001_BLACK_FL1_R.jpg?v=1771965074",
       "color": "Captain Navy",
       "available_sizes": [
-        "L",
         "M",
         "S",
         "XL",
@@ -1007,6 +1100,24 @@
       ]
     },
     {
+      "title": "Overshirt \u2013 Classic Fit \u2013 Broken-In Twill",
+      "brand": "Bills Khakis",
+      "tier": "A",
+      "price": 157.5,
+      "original_price": 298.0,
+      "discount_percent": 47.1,
+      "source": "Bills Khakis",
+      "url": "https://billskhakis.com/products/over-shirt-broken-in-twill-classic-fit",
+      "image_url": "https://cdn.shopify.com/s/files/1/0159/3242/4246/files/CVSH-CCWK-new_46839535-b70a-4a65-a067-93faabf5ad8a.jpg?v=1757704923",
+      "color": "Khaki",
+      "available_sizes": [
+        "L",
+        "M",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
       "title": "Cropped Embroidered Eyelet Camp Collar Shirt",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -1072,6 +1183,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MKS2513-DUY-Ls_Sunwashed_Tee-Dune_Navy_OM_FRONT_CROP_1_Web.jpg?v=1765382619",
       "color": "Dune Navy",
       "available_sizes": [
+        "XL",
         "XS",
         "XXL"
       ]
@@ -1099,7 +1211,6 @@
         "32/32",
         "32/34",
         "33/32",
-        "34/30",
         "34/32",
         "34/34"
       ]
@@ -1583,7 +1694,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0186/1574/files/APR26_SW6570004_HEATHER_NAVY_FL1_R.jpg?v=1774010363",
       "color": "Heather Navy",
       "available_sizes": [
-        "L",
         "XS",
         "XXL"
       ]
@@ -1637,7 +1747,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/HO25-FAHERTY-Mens-MQH2517-LHG-LegendSweaterQuarterZip-LightHeatherGrey_OM_FRONT_CROP_1_Web.jpg?v=1761580319",
       "color": "Light Heather Grey",
       "available_sizes": [
-        "L",
         "XXL"
       ]
     },
@@ -1769,6 +1878,23 @@
       ]
     },
     {
+      "title": "Classic Fit Shirt Nano Stripe Poplin",
+      "brand": "Bills Khakis",
+      "tier": "A",
+      "price": 129.5,
+      "original_price": 198.0,
+      "discount_percent": 34.6,
+      "source": "Bills Khakis",
+      "url": "https://billskhakis.com/products/nano-stripe-light-blue",
+      "image_url": "https://cdn.shopify.com/s/files/1/0159/3242/4246/files/LSBT-NSLB_65d40a7a-d6a0-4177-9057-06e783005382.jpg?v=1703074903",
+      "color": "Light Blue",
+      "available_sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
       "title": "Italian Knit Pique Wythe Jacket",
       "brand": "Todd Snyder",
       "tier": "S",
@@ -1881,6 +2007,44 @@
         "S",
         "XL",
         "XS",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Tidal Pool Charleston Sport Shirt",
+      "brand": "Southern Tide",
+      "tier": "A",
+      "price": 99.5,
+      "original_price": 148.0,
+      "discount_percent": 32.8,
+      "source": "Southern Tide",
+      "url": "https://southerntide.com/products/tidal-pool-charleston-sport-shirt",
+      "image_url": "https://cdn.shopify.com/s/files/1/2294/8559/files/tidal-pool-charleston-sport-shirt-peaches-n-cream-lifestyle-12505.jpg?v=1777675103",
+      "color": "Peaches N' Cream",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "title": "Sea Voyage Stripe Linen Rayon Short Sleeve Sport Shirt",
+      "brand": "Southern Tide",
+      "tier": "A",
+      "price": 79.5,
+      "original_price": 118.0,
+      "discount_percent": 32.6,
+      "source": "Southern Tide",
+      "url": "https://southerntide.com/products/sea-voyage-stripe-linen-rayon-short-sleeve-sport-shirt",
+      "image_url": "https://cdn.shopify.com/s/files/1/2294/8559/files/sea-voyage-stripe-linen-rayon-short-sleeve-sport-shirt-peaches-n-cream-front-12520.jpg?v=1776371064",
+      "color": "Peaches N' Cream",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
         "XXL"
       ]
     },

@@ -1,114 +1,86 @@
 """
-Central configuration for the luxury deal bot.
-Edit this file to tune brands, sizing, colors, and thresholds.
+Shared filter logic every adapter's raw results get passed through.
+A "deal" dict is expected to have:
+    brand, title, price, original_price, url, source,
+    available_sizes (list[str]), color (str), category_text (str)
 """
+import re
 
-# ---- Brand tiers (used for prioritization / labeling in alerts, not filtering) ----
-BRAND_TIERS = {
-    "S": [
-        "Polo Ralph Lauren", "Ralph Lauren", "Peter Millar", "Todd Snyder",
-        "Barbour", "Vineyard Vines",
-    ],
-    "A": [
-        "Brooks Brothers", "J.Crew", "Billy Reid", "Faherty", "Rodd & Gunn",
-        "Onward Reserve", "Drake's", "Rhoback", "Johnnie-O", "Buck Mason",
-        "UNTUCKit", "Ledbury", "Alex Mill", "Southern Tide", "Bills Khakis",
-        "Grayers",
-    ],
-    "B": [
-        "Zegna", "Canali", "Loro Piana", "Brunello Cucinelli", "Paul Stuart",
-        "Lacoste", "Ralph Lauren Purple Label",
-    ],
-    "C": [
-        "Dior", "Saint Laurent", "Burberry", "Ferragamo", "Prada", "Gucci",
-        "Ami Paris", "Theory",
-    ],
-}
+from config import (
+    TOP_SIZES_ACCEPTABLE, PANT_SIZE_STRINGS, TARGET_COLORS,
+    TARGET_CATEGORIES, MIN_DISCOUNT_PERCENT, BRAND_TIER_LOOKUP,
+    LOW_PRICE_BY_CATEGORY, LOW_PRICE_DEFAULT,
+)
 
-# Flat lookup: brand name -> tier
-def _flatten_tiers():
-    flat = {}
-    for tier, brands in BRAND_TIERS.items():
-        for b in brands:
-            flat[b.lower()] = tier
-    return flat
+SHORTS_EXCLUDE_PATTERN = re.compile(r"short[\s-]?sleeve", re.IGNORECASE)
 
-BRAND_TIER_LOOKUP = _flatten_tiers()
 
-# ---- Sizing ----
-TOP_SIZES_ACCEPTABLE = ["M TALL", "MT", "L TALL", "LT", "L", "M"]  # preference order
-PANT_WAIST = 32
-PANT_INSEAM = 34
-PANT_SIZE_STRINGS = ["32x34", "32 x 34", "32W 34L", "32/34"]
+def discount_percent(price: float, original_price: float) -> float:
+    if not original_price or original_price <= 0:
+        return 0.0
+    return round((1 - price / original_price) * 100, 1)
 
-# ---- Colors (substring match, case-insensitive) ----
-TARGET_COLORS = [
-    "navy", "cream", "beige", "light blue", "sky blue", "grey", "gray",
-    "ivory", "stone", "khaki", "black",
-]
 
-# ---- Categories (substring match against product title/category) ----
-TARGET_CATEGORIES = [
-    "sweater", "quarter-zip", "quarter zip", "1/4 zip", "overshirt",
-    "knit", "trouser", "chino", "cardigan", "half-zip", "half zip",
-    "shirt", "button-down", "button down", "oxford",
-    "jogger", "short", "t-shirt", "tee", "sweatshirt", "hoodie",
-]
+def matches_size(deal: dict) -> bool:
+    sizes = [s.upper().replace(" ", "") for s in deal.get("available_sizes", [])]
+    top_hits = any(any(t.replace(" ", "") in s for t in TOP_SIZES_ACCEPTABLE) for s in sizes)
+    pant_hits = any(any(p.replace(" ", "") in s for p in PANT_SIZE_STRINGS) for s in sizes)
+    return top_hits or pant_hits
 
-# ---- Discount threshold ----
-MIN_DISCOUNT_PERCENT = 30
 
-# Items at or below their category's price ceiling show up regardless of
-# discount % — catches genuinely cheap finds (e.g. eBay listings with no
-# marked "original" price) that would otherwise get filtered out for
-# showing 0% off. Checked in order — first matching category wins, so more
-# specific/pricier categories are listed before broader ones.
-# Format: (category_label, [keywords to match], price_ceiling)
-LOW_PRICE_BY_CATEGORY = [
-    ("Outerwear",     ["jacket", "coat", "vest", "overshirt"], 65),
-    ("Sweaters",      ["sweater", "quarter-zip", "quarter zip", "1/4 zip",
-                        "half-zip", "half zip", "cardigan", "knit"], 45),
-    ("Trousers",      ["trouser", "chino", "jogger", "pant"], 35),
-    ("Sweatshirts",   ["sweatshirt", "hoodie"], 30),
-    ("Button-downs",  ["button-down", "button down", "oxford"], 30),
-    ("Polos",         ["polo"], 25),
-    ("Shorts",        ["short"], 20),
-    ("Tees",          ["t-shirt", "tee", "tshirt"], 15),
-]
-# Fallback for anything that doesn't match a category above.
-LOW_PRICE_DEFAULT = 25
+def matches_color(deal: dict) -> bool:
+    color = (deal.get("color") or "").lower()
+    title = (deal.get("title") or "").lower()
+    return any(c in color or c in title for c in TARGET_COLORS)
 
-# ---- Sources to check ----
-# Each entry maps to an adapter module in adapters/ with a matching function `fetch_deals()`
-SOURCES = [
-    "todd_snyder",
-    "faherty",
-    "billy_reid",
-    "ledbury",
-    "alex_mill",
-    "untuckit",
-    "southern_tide",
-    "bills_khakis",
-    "grayers",
-    "ebay",
-]
 
-# The sources below are confirmed blocked by enterprise bot-protection
-# (Incapsula, Akamai, Salesforce Commerce Cloud) as of testing — their own
-# adapter files are still in adapters/ if you ever want to re-enable one.
-# eBay's adapter already covers these five brands via marketplace listings.
-#
-# BLOCKED_SOURCES = [
-#     "polo_ralph_lauren",
-#     "peter_millar",
-#     "barbour",
-#     "vineyard_vines",
-#     "brooks_brothers",
-#     "jcrew",
-#     "nordstrom_rack",
-#     "macys",
-#     "luxury_garage_sale",
-# ]
+def matches_category(deal: dict) -> bool:
+    text = f"{deal.get('title', '')} {deal.get('category_text', '')}".lower()
+    return any(cat in text for cat in TARGET_CATEGORIES)
 
-# ---- Storage ----
-DB_PATH = "seen_deals.db"
+
+def meets_discount(deal: dict) -> bool:
+    pct = discount_percent(deal["price"], deal.get("original_price", deal["price"]))
+    deal["discount_percent"] = pct
+    return pct >= MIN_DISCOUNT_PERCENT
+
+
+def price_ceiling_for(deal: dict) -> float:
+    """Finds the low-price ceiling for whichever category this item matches
+    first (list is ordered pricier/more-specific categories first)."""
+    text = f"{deal.get('title', '')} {deal.get('category_text', '')}".lower()
+
+    for label, keywords, ceiling in LOW_PRICE_BY_CATEGORY:
+        for kw in keywords:
+            if kw not in text:
+                continue
+            if label == "Shorts" and SHORTS_EXCLUDE_PATTERN.search(text):
+                continue
+            return ceiling
+
+    return LOW_PRICE_DEFAULT
+
+
+def meets_price_or_discount(deal: dict) -> bool:
+    """
+    True if the item clears the normal discount threshold, OR if it's just
+    flat-out cheap for its category regardless of discount %. This catches
+    genuinely low-price items (e.g. a $20 eBay listing with no marked-down
+    "original price") that would otherwise get filtered out for showing 0% off.
+    """
+    if meets_discount(deal):
+        return True
+    return deal["price"] <= price_ceiling_for(deal)
+
+
+def passes_all_filters(deal: dict) -> bool:
+    return (
+        matches_size(deal)
+        and matches_color(deal)
+        and matches_category(deal)
+        and meets_price_or_discount(deal)
+    )
+
+
+def tier_for_brand(brand: str) -> str:
+    return BRAND_TIER_LOOKUP.get(brand.lower(), "?")

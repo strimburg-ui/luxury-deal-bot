@@ -41,9 +41,13 @@ BLOCKED_BRANDS = [
     "Barbour",
     "Brooks Brothers",
     "Vineyard Vines",
+    "Lululemon",
 ]
 
-SEARCH_CATEGORIES = ["sweater", "quarter zip", "trouser", "chino", "overshirt"]
+SEARCH_CATEGORIES = [
+    "sweater", "quarter zip", "trouser", "chino", "overshirt",
+    "jogger", "short", "t-shirt", "sweatshirt",
+]
 
 TYPICAL_RETAIL_PRICE = {
     "Polo Ralph Lauren": 130,
@@ -51,6 +55,7 @@ TYPICAL_RETAIL_PRICE = {
     "Barbour": 230,
     "Brooks Brothers": 120,
     "Vineyard Vines": 115,
+    "Lululemon": 95,
 }
 
 SOURCE_NAME = "eBay"

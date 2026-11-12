@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T19:59:16.964300+00:00",
-  "count": 349,
+  "updated_at": "2026-11-12T20:39:05.054746+00:00",
+  "count": 356,
   "deals": [
     {
       "title": "Men\u2019s Vineyard Vines Black T-Shirt with Pocket Size You choose Large, XS",
@@ -15,24 +15,8 @@
       "color": "Men\u2019s Vineyard Vines Black T-Shirt with Pocket Size You choose Large, XS",
       "available_sizes": [
         "L",
-        "S",
-        "XS"
-      ]
-    },
-    {
-      "title": "Banana Republic Men's XL Gray Crew Neck Short Sleeve Premium Wash Logo Tee",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 9.0,
-      "original_price": 95,
-      "discount_percent": 90.5,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/960155043045?_skw=Banana+Republic+men%27s+short&hash=itemdf8db344e5:g:gkUAAeSwmaNq67Bt",
-      "image_url": "https://i.ebayimg.com/images/g/gkUAAeSwmaNq67Bt/s-l225.jpg",
-      "color": "Banana Republic Men's XL Gray Crew Neck Short Sleeve Premium Wash Logo Tee",
-      "available_sizes": [
-        "S",
-        "XL"
+        "XS",
+        "S"
       ]
     },
     {
@@ -93,8 +77,8 @@
       "image_url": "https://i.ebayimg.com/images/g/1h0AAOSwRc9kH3n5/s-l225.jpg",
       "color": "Barbour Men's Crew Neck Calvert Tee Light Grey Marl XL",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -128,21 +112,6 @@
       ]
     },
     {
-      "title": "Barbour Seaford Panel T Shirt Mens L Faded Apple Green Navy Blue Crew Neck NWT",
-      "brand": "Barbour",
-      "tier": "S",
-      "price": 24.99,
-      "original_price": 230,
-      "discount_percent": 89.1,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/237134136196?_skw=Barbour+men%27s+t-shirt&hash=item37364bc384:g:01IAAeSwq69q12-n",
-      "image_url": "https://i.ebayimg.com/images/g/01IAAeSwq69q12-n/s-l225.jpg",
-      "color": "Barbour Seaford Panel T Shirt Mens L Faded Apple Green Navy Blue Crew Neck NWT",
-      "available_sizes": [
-        "L"
-      ]
-    },
-    {
       "title": "Barbour T-Shirt Grey Large Tailored Fit NWT",
       "brand": "Barbour",
       "tier": "S",
@@ -155,6 +124,22 @@
       "color": "Barbour T-Shirt Grey Large Tailored Fit NWT",
       "available_sizes": [
         "L"
+      ]
+    },
+    {
+      "title": "Banana Republic Men\u2019s XL Navy Blue Luxe Touch Performance T-Shirt",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 12.0,
+      "original_price": 95,
+      "discount_percent": 87.4,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/920132443627?_skw=Banana+Republic+men%27s+t-shirt&hash=itemd63c2addeb:g:Yz4AAeSwIZpq9Pkc",
+      "image_url": "https://i.ebayimg.com/images/g/Yz4AAeSwIZpq9Pkc/s-l225.jpg",
+      "color": "Banana Republic Men\u2019s XL Navy Blue Luxe Touch Performance T-Shirt",
+      "available_sizes": [
+        "XL",
+        "S"
       ]
     },
     {
@@ -181,7 +166,7 @@
       "original_price": 230,
       "discount_percent": 87.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/178215828362?_skw=Barbour+men%27s+t-shirt&hash=item297e7dbb8a:g:oHkAAeSwmOFqLAHf",
+      "url": "https://www.ebay.com/itm/880109247497?_skw=Barbour+men%27s+t-shirt&hash=itemccea995c09:g:oHkAAeSwmOFqLAHf",
       "image_url": "https://i.ebayimg.com/images/g/oHkAAeSwmOFqLAHf/s-l225.jpg",
       "color": "Barbour Men's Calvert Sleep T-Shirt (Navy Large)",
       "available_sizes": [
@@ -238,35 +223,19 @@
       ]
     },
     {
-      "title": "J.Crew Men's Gray Solid Henley Slub Cotton Short Sleeve T-Shirt Size M",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 12.0,
-      "original_price": 90,
-      "discount_percent": 86.7,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/900055398679?_skw=J.Crew+men%27s+t-shirt&hash=itemd18f7b7917:g:~l8AAeSwCZlq5rYG",
-      "image_url": "https://i.ebayimg.com/images/g/~l8AAeSwCZlq5rYG/s-l225.jpg",
-      "color": "J.Crew Men's Gray Solid Henley Slub Cotton Short Sleeve T-Shirt Size M",
-      "available_sizes": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Polo Ralph Lauren Men's XL Sleep Shirt Grey Short Sleeve Graphic POLO Logo NWI",
+      "title": "Polo Ralph Lauren Navy Blue V-Neck T-Shirt Red Pony Logo Men's Medium",
       "brand": "Polo Ralph Lauren",
       "tier": "S",
-      "price": 17.99,
+      "price": 18.0,
       "original_price": 130,
       "discount_percent": 86.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/227609937797?_skw=Polo+Ralph+Lauren+men%27s+short&hash=item34fe9c0785:g:g-UAAeSwW~pq9LnX",
-      "image_url": "https://i.ebayimg.com/images/g/g-UAAeSwW~pq9LnX/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men's XL Sleep Shirt Grey Short Sleeve Graphic POLO Logo NWI",
+      "url": "https://www.ebay.com/itm/820347474763?_skw=Polo+Ralph+Lauren+men%27s+t-shirt&hash=itembf0085134b:g:hR4AAeSwOiRq9gGQ",
+      "image_url": "https://i.ebayimg.com/images/g/hR4AAeSwOiRq9gGQ/s-l225.jpg",
+      "color": "Polo Ralph Lauren Navy Blue V-Neck T-Shirt Red Pony Logo Men's Medium",
       "available_sizes": [
         "S",
-        "XL"
+        "M"
       ]
     },
     {
@@ -277,7 +246,7 @@
       "original_price": 230,
       "discount_percent": 85.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/178215626458?_skw=Barbour+men%27s+t-shirt&hash=item297e7aa6da:g:YbUAAeSwFcFqLASq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nlB%2FE2uMrsXiW1NdA53KikgZ2jRLyWZIrAtE6WWTvWbgzlTgkx3XMP30M%2BWY30fkqB6YxH1Jn3UG6VQTPtq8Ve%2BsLDmNGGaezs0uiuTmFN7jUjK2XRYq485g0FmU1%2FSFqyY2AvotZdtpAz9y%2BK%2B9XBf2u3j6IlM3cSYOPupA7z5kZVnGJOJqwVJ36JWj335EiOdz17yFoK554PVDHPYHJ1CkjtgYHPaVJuD%2FlUJ55jhj2TCO8DUUL8MtoIsoZTBA9sBme8y1jtYVmOt4YXmUoiDXabJpwXIvBR4d38bo590Q%3D%3D",
+      "url": "https://www.ebay.com/itm/178215626458?_skw=Barbour+men%27s+t-shirt&hash=item297e7aa6da:g:YbUAAeSwFcFqLASq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nlB%2FE2uMrsXiW1NdA53KikgZ2jRLyWZIrAtE6WWTvWbgzlTgkx3XMP30M%2BWY30fkqB6YxH1Jn3UG6VQTPtq8Ve%2BsLDmNGGaezs0uiuTmFN7jUjK2XRYq485g0FmU1%2FSFoMxQeBlDD8MdSQGrb1EwrYMeLWHHqGfpRcsj3e%2BgWuHhKUQ5aVnMqmAVXYeSsUFjZgA%2BCJOcupp8mr7Kv94AYxvCMsR9eq%2BLkGFBL8GfcL%2FLEqF50Gxz7BVxOBlrKaUd2A0a1Nhrz%2FGnZij706kfH9YQ5hF2RQBGxlvKzXugRQQw%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/YbUAAeSwFcFqLASq/s-l225.jpg",
       "color": "Barbour Calvert Crewneck Short Sleeve Mens T-Shirt Navy Size XL",
       "available_sizes": [
@@ -296,21 +265,21 @@
       "image_url": "https://i.ebayimg.com/images/g/NRQAAOSwI6pkmhrP/s-l225.jpg",
       "color": "Banana Republic Men\u2019s Waffle Crewneck Sweatshirt (Navy Blue, XXL) NWT",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
-      "title": "Polo Ralph Lauren Classic Fit Men\u2019s M Navy Embroidered Logo Crew T-Shirt",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 19.99,
-      "original_price": 130,
-      "discount_percent": 84.6,
+      "title": "Banana Republic Men's Gray Solid Crew Neck Short Sleeve Knit T-Shirt Size M",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 15.0,
+      "original_price": 95,
+      "discount_percent": 84.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/267834703098?_skw=Polo+Ralph+Lauren+men%27s+t-shirt&hash=item3e5c313cfa:g:sXcAAeSwydhq7N-5",
-      "image_url": "https://i.ebayimg.com/images/g/sXcAAeSwydhq7N-5/s-l225.jpg",
-      "color": "Polo Ralph Lauren Classic Fit Men\u2019s M Navy Embroidered Logo Crew T-Shirt",
+      "url": "https://www.ebay.com/itm/800906252183?_skw=Banana+Republic+men%27s+short&hash=itemba79bb8f97:g:KRoAAeSw98Jq9TDH",
+      "image_url": "https://i.ebayimg.com/images/g/KRoAAeSw98Jq9TDH/s-l225.jpg",
+      "color": "Banana Republic Men's Gray Solid Crew Neck Short Sleeve Knit T-Shirt Size M",
       "available_sizes": [
         "S",
         "M"
@@ -340,27 +309,11 @@
       "original_price": 95,
       "discount_percent": 83.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/920051518476?_skw=Banana+Republic+men%27s+t-shirt&hash=itemd637580c0c:g:wngAAeSwtD9q1PsW&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kQSG%2FIfMmm6qEYnnbC9gmF6y0yNuRou7Rf%2Bfxbp%2FRzogo6%2FXh5R6ifkoNcQw3qBLZsij3qBvhDMyGs2mtE5NZ3uD%2Fa30soR%2FwZBOp58a5w3M1CqT5E6Omcjy4HvjBRfRB%2FutPEpUuE7u5AHExlyTPh5jeC36Xo14%2BdY7%2FmjfjDHQrU8mAIgzt0UR53m%2Fj%2BD0g5%2FpM4FiQVE0ZrS6xA5LBBfX23NSqe32D0dlkFBTnWGKHSIH7dgRd4JRjJbRp%2B8qkq8jQyWD1tdgd2Sb%2F8Rw8e%2B2Xj9tF8KekPhj4Fqqe2fFFhwGbRv8PkyqkIKoeiMYM%3D",
+      "url": "https://www.ebay.com/itm/920051518476?_skw=Banana+Republic+men%27s+t-shirt&hash=itemd637580c0c:g:wngAAeSwtD9q1PsW&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kQSG%2FIfMmm6qEYnnbC9gmF6y0yNuRou7Rf%2Bfxbp%2FRzogo6%2FXh5R6ifkoNcQw3qBLZsij3qBvhDMyGs2mtE5NZ3uD%2Fa30soR%2FwZBOp58a5w3M1CqT5E6Omcjy4HvjBRfRDwU1nqQC%2FeEWGqViVOyxIfWbC5mxdAC3Y218SoGE%2B3wOGJN9kh6y67EO9Tox%2BWIKfZgDVGdEuEVvoM%2BFpm9dQ7KLVQKvp37IjLhRo3IeP0cgwthZmsAx4cG7HS7v6b5eQCiSoz5ThWkFDJfdkgdmfWrSrJQ2JFNtjpx%2BtuOOCzg5CETcVNaxqJraxDdoijJLs%3D",
       "image_url": "https://i.ebayimg.com/images/g/wngAAeSwtD9q1PsW/s-l225.jpg",
       "color": "Banana Republic Premium Wash Gray Logo Graphic  Cotton Jersey Tee L",
       "available_sizes": [
         "L"
-      ]
-    },
-    {
-      "title": "Polo Ralph Lauren Men's Large Sleep Shirt Navy/Yellow Short Sleeve Graphic Logo",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 21.99,
-      "original_price": 130,
-      "discount_percent": 83.1,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/227609716100?_skw=Polo+Ralph+Lauren+men%27s+short&hash=item34fe98a584:g:g~8AAeSwX-1q9JNj",
-      "image_url": "https://i.ebayimg.com/images/g/g~8AAeSwX-1q9JNj/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men's Large Sleep Shirt Navy/Yellow Short Sleeve Graphic Logo",
-      "available_sizes": [
-        "L",
-        "S"
       ]
     },
     {
@@ -391,24 +344,24 @@
       "image_url": "https://i.ebayimg.com/images/g/aJgAAOSwHJhktuxL/s-l225.jpg",
       "color": "NWT Polo Ralph Lauren 2 PAIRS Trouser Socks PINK PLAID/NAVY STRIPE Men's XL PONY",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
-      "title": "Peter Millar Men's Summer Comfort Polo Shirt Gray Short Sleeve Golf Size M",
-      "brand": "Peter Millar",
+      "title": "Ralph Lauren Polo Shirt Men's XL Gray Short Sleeve Classic Mesh Pony NWT Flaw",
+      "brand": "Polo Ralph Lauren",
       "tier": "S",
-      "price": 29.5,
-      "original_price": 155,
-      "discount_percent": 81.0,
+      "price": 24.99,
+      "original_price": 130,
+      "discount_percent": 80.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/860104092495?_skw=Peter+Millar+men%27s+short&hash=itemc84232eb4f:g:KJYAAeSwgGdq55cX",
-      "image_url": "https://i.ebayimg.com/images/g/KJYAAeSwgGdq55cX/s-l225.jpg",
-      "color": "Peter Millar Men's Summer Comfort Polo Shirt Gray Short Sleeve Golf Size M",
+      "url": "https://www.ebay.com/itm/147674678429?_skw=Polo+Ralph+Lauren+men%27s+short&hash=item226218c49d:g:RoEAAeSwRP5q1VjY",
+      "image_url": "https://i.ebayimg.com/images/g/RoEAAeSwRP5q1VjY/s-l225.jpg",
+      "color": "Ralph Lauren Polo Shirt Men's XL Gray Short Sleeve Classic Mesh Pony NWT Flaw",
       "available_sizes": [
-        "S",
-        "M"
+        "XL",
+        "S"
       ]
     },
     {
@@ -439,8 +392,8 @@
       "image_url": "https://i.ebayimg.com/images/g/oNYAAeSwaN1qwV37/s-l225.jpg",
       "color": "Peter Millar Men\u2019s XL Regular Gray Solid Crew Neck Pocket T-Shirt MA25K41B",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -530,7 +483,7 @@
       "original_price": 95,
       "discount_percent": 79.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/206687414797?_skw=Banana+Republic+men%27s+t-shirt&hash=item301f87aa0d:g:Jj0AAeSwf79qWjPk&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m5XLMySA2XRhEsdxvk4MlIMhIuahXNiqQdq%2Bia2UrLfHnSlZzFa%2FYcfTvUUkctRGGAcesahxpeSOyEYiwOcqzX3atZdC5N2wpel61rbTcDNovIkyxQyh3Mj5hXJ6wlqzL%2B8NBMvgEOvBEKT0NqhgmXS1SRdalcEJotvPU5rBicoJ%2BLFeSC6wss9jGpB8Gmf%2Btquv6Ed1gTbwsVqr47bSQtlvMJAvZiAtF1e%2B1wJs6ic3wC9CEErzpRsxGoIIOhfCJoeycILJ3CfvZEerp5Q3DbvxgC9GvKuCBTWYh2QkeGRzAuh6ZAGtqXXw8zkL3RNXI%3D",
+      "url": "https://www.ebay.com/itm/206687414797?_skw=Banana+Republic+men%27s+t-shirt&hash=item301f87aa0d:g:Jj0AAeSwf79qWjPk&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m5XLMySA2XRhEsdxvk4MlIMhIuahXNiqQdq%2Bia2UrLfHnSlZzFa%2FYcfTvUUkctRGGAcesahxpeSOyEYiwOcqzX3atZdC5N2wpel61rbTcDNovIkyxQyh3Mj5hXJ6wlqzJZsrkBbfx2U%2FSlyYZpZG8t0R5B1MKsQjqa5Jp2d763LdBkY115IlsmNyYo27d2XrDCAdF0Mg%2BSfylB5GiXOVy9iI%2BS3S6d9obny88zH4TqIu0uNz4zp6HWmPAYtU6C4tRSagLWxMsgvaxvu59U130XRBeClK3WoqRyS1cC9T%2B6o6jKWg9fmL%2B5eTlsE1e17RY%3D",
       "image_url": "https://i.ebayimg.com/images/g/Jj0AAeSwf79qWjPk/s-l225.jpg",
       "color": "NWT Banana Republic Men's M Luxe Touch T-Shirt Navy Blue 100% Cotton",
       "available_sizes": [
@@ -546,12 +499,12 @@
       "original_price": 95,
       "discount_percent": 79.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/860001456422?_skw=Banana+Republic+men%27s+t-shirt&hash=itemc83c14d126:g:2zIAAeSwWSVqv8ps&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCxWXWFe5hrjBPX1ZSCdxiS0C8ztzdMTvmB02lism3%2F9Y5oLQUXuuas3bmAj8%2B7CBG1wbgspKFAuuLiIoXAA9HAg4pJx8LnhQFF6imPx84EhUSYCKmJXzr0%2Bsn1Px2Dddt%2FMHafxlCMszBkKa34MY4a%2F8JpGKRVVYJQFTvu%2FHiyMvED6XYUC%2BxgBGVAzZgy1zkMd52tHQME8K3YKKh7CX%2FvU9T1wy03D64dSqLptqqDVAUbaVlJAikxDBv1qPIbfRl65i9rT2p%2BNlNBWm7WgH8PApRBD7T62bZpprKlPhv9UcH8lAhYRLRilR8MDjjVFQ%3D",
+      "url": "https://www.ebay.com/itm/860001456422?_skw=Banana+Republic+men%27s+t-shirt&hash=itemc83c14d126:g:2zIAAeSwWSVqv8ps&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCxWXWFe5hrjBPX1ZSCdxiS0C8ztzdMTvmB02lism3%2F9Y5oLQUXuuas3bmAj8%2B7CBG1wbgspKFAuuLiIoXAA9HAg4pJx8LnhQFF6imPx84EhUSYCKmJXzr0%2Bsn1Px2DdfOIoqvqtaXHtwKYLeqNlqrm8gZoI9G2Zr56mlwe2u3PfSE1SeP5zfqt1PQ9PTgx8Svorl2he3jfo%2BfMq6D7%2B0NJ%2FDvwjc%2BV6ivsUFZ0wZKMueAiKR6%2B9dLFNUUrXg0CVftw%2BNZcnoRIeGTdvapEF0%2BCjD6ExM1Nh%2B%2FTap1tAChvXgkJC8mTGTv732hPf8%2FjPY%3D",
       "image_url": "https://i.ebayimg.com/images/g/2zIAAeSwWSVqv8ps/s-l225.jpg",
       "color": "NWT Banana Republic Men's XL Cream Mini Ribbed Crew Neck Short Sleeve T-Shirt",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -625,7 +578,7 @@
       "original_price": 115,
       "discount_percent": 78.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/287667003548?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=item42fa4a209c:g:ZdUAAeSw5NJqmxfZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lBcuSStkX%2FR6%2FEyuW1BFBM2%2Bm6LuNPbigHPBXjHzxKKHH%2FGC5d4%2FlLK8HVckOoSumOxuLnvxFx9%2FtHqXsx4vcU%2BB28a%2FTlFYSFXDnR11pFrQokbZMsycH3bvbF%2B5BEa6yqw%2FBjZahQ9RhUcnnQuQRdwlGKWF4Q%2FfjU4xGFro6%2FyKBh2jjqnvyAw%2BYdacL3X%2FJuP3gK3XlsRPVtT2zgFReVmGzWEe8gGBumHURlnffUf1IzO2p2bD0fL0Uu70ak1CPt0cwe167dz0L5aDGqjjmLzveV9D683XeaK173WoLqsOtUBwDYxd8RnoTgB94vq20%3D",
+      "url": "https://www.ebay.com/itm/287667003548?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=item42fa4a209c:g:ZdUAAeSw5NJqmxfZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lBcuSStkX%2FR6%2FEyuW1BFBM2%2Bm6LuNPbigHPBXjHzxKKHH%2FGC5d4%2FlLK8HVckOoSumOxuLnvxFx9%2FtHqXsx4vcU%2BB28a%2FTlFYSFXDnR11pFrQokbZMsycH3bvbF%2B5BEa6xPP4xt%2FG5y8eQEHjuGXXBdt6S208mdo9BCPfZhfqOAXMB0ALacc%2BSAH3BBUMWWvZ4ZPKoajcABQeOktbk69O9P8NB4ofGIvCTI3MnijOQom2CQHRC%2BmAAmD2BwHp1B5FSbm4JVQV6TGAq0WEXPRDKa10Lhu7VX3b%2FUDhMkqOHraAcwaUY12%2FiNdJ9og30URCg%3D",
       "image_url": "https://i.ebayimg.com/images/g/ZdUAAeSw5NJqmxfZ/s-l225.jpg",
       "color": "NEW MENS Vineyard Vines Sep & Ian 1/4 Zip Pullover SWEATSHIRT NAVY CHILI M $98",
       "available_sizes": [
@@ -644,40 +597,8 @@
       "image_url": "https://i.ebayimg.com/images/g/rgYAAOSwvoZkq53u/s-l225.jpg",
       "color": "Barbour Men's Essential Jersey Jogger MTR0646NY91-Navy Size XXL",
       "available_sizes": [
-        "S",
-        "XXL"
-      ]
-    },
-    {
-      "title": "Barbour Men's Black Drawstring Waist Slash Pocket Shorts Size XXL",
-      "brand": "Barbour",
-      "tier": "S",
-      "price": 49.99,
-      "original_price": 230,
-      "discount_percent": 78.3,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/198775921972?_skw=Barbour+men%27s+short&hash=item2e47f7dd34:g:s48AAeSwvOBphWBf&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7l8%2FizPkXO8UCdJrJ8wLQvmeaPcEktfJ6gFKu7qwe44WbliioIoZ46FaK%2FOjM2l6mp4LVaXekGsdmbjFCuLiaLNUxy0LWJko1Bz8xHfy8Pj3TfMba7FMO%2FwcKSubYX85XefdklKbrLNdA5zDJbXyjzGhJSWotE1h4iyyrJUxdOwUoEzjOHBew8sjUVtHLeJk6cF5gPkNdXaqdr1k4dWQHtzhrmEq8%2BQNzL2qHV6tKNtuzfBsvhFVI6jFE1cGaJIXZdV2Hx4n3otYXORKzEbk10Kmiikidvzq%2BBHeaIt85yeyw%3D%3D",
-      "image_url": "https://i.ebayimg.com/images/g/s48AAeSwvOBphWBf/s-l225.jpg",
-      "color": "Barbour Men's Black Drawstring Waist Slash Pocket Shorts Size XXL",
-      "available_sizes": [
-        "S",
-        "XXL"
-      ]
-    },
-    {
-      "title": "Vineyard Vines Women's M Navy Cotton Knit 1/4 Zip Mock Neck Striped Sweater",
-      "brand": "Vineyard Vines",
-      "tier": "S",
-      "price": 25.0,
-      "original_price": 115,
-      "discount_percent": 78.3,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/820329067989?_skw=Vineyard+Vines+men%27s+sweater&hash=itembeff6c35d5:g:taAAAeSwr8Bq76ZS",
-      "image_url": "https://i.ebayimg.com/images/g/taAAAeSwr8Bq76ZS/s-l225.jpg",
-      "color": "Vineyard Vines Women's M Navy Cotton Knit 1/4 Zip Mock Neck Striped Sweater",
-      "available_sizes": [
-        "S",
-        "M"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -744,6 +665,22 @@
       ]
     },
     {
+      "title": "\ud83d\udd25Men\u2019s Banana Republic Black & Gray Joggers Sz M, NWOT",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 20.85,
+      "original_price": 95,
+      "discount_percent": 78.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227562796526?_skw=Banana+Republic+men%27s+jogger&hash=item34fbccb5ee:g:f8oAAeSwTEZqy92E",
+      "image_url": "https://i.ebayimg.com/images/g/f8oAAeSwTEZqy92E/s-l225.jpg",
+      "color": "\ud83d\udd25Men\u2019s Banana Republic Black & Gray Joggers Sz M, NWOT",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "NWT Banana Republic Men's Heavyweight Crew Neck T-Shirt Heather Grey Size L $45",
       "brand": "Banana Republic",
       "tier": "?",
@@ -760,16 +697,16 @@
       ]
     },
     {
-      "title": "Banana Republic Men\u2019s Solid Gray Crew Neck Pullover Sweatshirt Long Sleeve L",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 21.0,
-      "original_price": 95,
-      "discount_percent": 77.9,
+      "title": "J.CREW Men's 100% Lambswool Shawl Collar Sweater Beige L NWOT",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 20.0,
+      "original_price": 90,
+      "discount_percent": 77.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/820317514645?_skw=Banana+Republic+men%27s+sweatshirt&hash=itembefebbeb95:g:SVEAAeSwnsNqlMZj",
-      "image_url": "https://i.ebayimg.com/images/g/SVEAAeSwnsNqlMZj/s-l225.jpg",
-      "color": "Banana Republic Men\u2019s Solid Gray Crew Neck Pullover Sweatshirt Long Sleeve L",
+      "url": "https://www.ebay.com/itm/227602930226?_skw=J.Crew+men%27s+sweater&hash=item34fe311a32:g:JeYAAeSw5O9q707F",
+      "image_url": "https://i.ebayimg.com/images/g/JeYAAeSw5O9q707F/s-l225.jpg",
+      "color": "J.CREW Men's 100% Lambswool Shawl Collar Sweater Beige L NWOT",
       "available_sizes": [
         "L",
         "S"
@@ -787,23 +724,7 @@
       "image_url": "https://i.ebayimg.com/images/g/YYwAAeSwu91q807l/s-l225.jpg",
       "color": "J.Crew Men's Beige Knit Crew Neck 100% Cotton Pullover Sweater XL",
       "available_sizes": [
-        "S",
-        "XL"
-      ]
-    },
-    {
-      "title": "J.CREW Men's 100% Lambswool Shawl Collar Sweater Beige L NWOT",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 20.0,
-      "original_price": 90,
-      "discount_percent": 77.8,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/227602930226?_skw=J.Crew+men%27s+sweater&hash=item34fe311a32:g:JeYAAeSw5O9q707F",
-      "image_url": "https://i.ebayimg.com/images/g/JeYAAeSw5O9q707F/s-l225.jpg",
-      "color": "J.CREW Men's 100% Lambswool Shawl Collar Sweater Beige L NWOT",
-      "available_sizes": [
-        "L",
+        "XL",
         "S"
       ]
     },
@@ -831,12 +752,12 @@
       "original_price": 155,
       "discount_percent": 77.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/198763716194?_skw=Peter+Millar+men%27s+short&hash=item2e473d9e62:g:p7wAAeSwEohq59S7",
+      "url": "https://www.ebay.com/itm/198763716194?_skw=Peter+Millar+men%27s+short&hash=item2e473d9e62:g:p7wAAeSwEohq59S7&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nudK1hoghKABzG9ThG8wliXLwoNi8bd49bO2fO5MPISEBaHeJ9XYq%2FjEdCV%2BK6%2BfCnw6cs17kGQoPg2zUUyOaLieN5GdFgE6sLvZUGLmcAeen%2BKBjRLuWUoCU8frOgyF8o1AYt1ocPmWdzTwjRLTZjrmY4yw7%2FAiwky4hdFiNZrJTB%2BjQM%2F2hI%2BiGOqJm%2Bd5i5XJs0yRoUljKgbBnKFBDhejk0%2FZigCvkT06V1PNyMTWhNz0QBnnXclux5OLjG9s1IEHCIBzFlCnGoupWQbRR5xKiUmmodI2Hs9BHTYv%2B0HbHOJTxSjY%2Fmnrgk%2FhAga%2Fg%3D",
       "image_url": "https://i.ebayimg.com/images/g/p7wAAeSwEohq59S7/s-l225.jpg",
       "color": "Peter Millar Men's 100% Cotton Navy w/ White Specs Short Sleeve Polo Shirt Sz XL",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -847,7 +768,7 @@
       "original_price": 155,
       "discount_percent": 77.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/168842394149?_skw=Peter+Millar+men%27s+t-shirt&hash=item274fca7a25:g:izgAAeSwEclq7UMs",
+      "url": "https://www.ebay.com/itm/168842394149?_skw=Peter+Millar+men%27s+t-shirt&hash=item274fca7a25:g:izgAAeSwEclq7UMs&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mM%2BUJieQBOhWxHaHBgi8tdFnVmtEQ1PSIhrhnDtRyYwhPLy4xyteRAttlk9%2FqZ8u7yjruqGoD0BX17voZY6W2bltRpErjo0odmieVtLv9IMhdYuDUzRjSCbodSoKC6MLOyMbekuJH4rRev155ogDWi56RO0wuNxbkTkOUeVGDR0%2BScJZF%2BDPbDem2Pg2qhIZ6d1HSo1cCOQrdZqjyRBwWWUAi1E%2FA1F%2B4iIHUleXYm0ypwkz0%2BvIXErTzUz%2BJn66kAYiONNnxumF5gaEd85RIzZzzv5yEpQyxmlrVg3WswEubF4OHjG69mZX%2B3RyRRNH0%3D",
       "image_url": "https://i.ebayimg.com/images/g/izgAAeSwEclq7UMs/s-l225.jpg",
       "color": "Peter Millar Seaside Pocket Tee Mens L Coastal Grey Cotton Modal Luxury Shirt",
       "available_sizes": [
@@ -870,6 +791,22 @@
       ]
     },
     {
+      "title": "Polo Ralph Lauren Men\u2019s Navy Blue Bear Sleepwear Jogger Pajama Pants XL",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 29.99,
+      "original_price": 130,
+      "discount_percent": 76.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/377609197750?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=item57eb4318b6:g:m8kAAeSwplVq5SRm",
+      "image_url": "https://i.ebayimg.com/images/g/m8kAAeSwplVq5SRm/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men\u2019s Navy Blue Bear Sleepwear Jogger Pajama Pants XL",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
       "title": "Banana Republic Men's Pull On Short Size M, Gray",
       "brand": "Banana Republic",
       "tier": "?",
@@ -880,6 +817,22 @@
       "url": "https://www.ebay.com/itm/188612219497?_skw=Banana+Republic+men%27s+short&hash=item2bea2a1269:g:YMgAAeSwvkBqTQyM",
       "image_url": "https://i.ebayimg.com/images/g/YMgAAeSwvkBqTQyM/s-l225.jpg",
       "color": "Banana Republic Men's Pull On Short Size M, Gray",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Black Lululemon 7\u201d Men\u2019s athletic shorts size medium new with tags.",
+      "brand": "Lululemon",
+      "tier": "?",
+      "price": 22.0,
+      "original_price": 95,
+      "discount_percent": 76.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168848530938?_skw=Lululemon+men%27s+short&hash=item2750281dfa:g:FF4AAeSw4k9q8NP-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lUsnNMZ8NAOVdeILTRLaHCu%2FFmfq24tfO96%2B2s5Tl2QS2GZXNXKa3avaYSEn7wFQWrYdE5x8APlG8eF7sf9SYo38LkXqbahiseIedFLGOwPDfpJ9mHZLgXRALka6g88RJUzy24cdVZ8aahYeK%2BxGuv4UCGA08yPsBUXz6gLuec55r%2BB83OrWRVLa6yHKi4kil4nDhUnavXkbDvdYWYiSzEeHTdqn3MfWZhiualhQEmbeBmAUPJLpn4jp7K4o82ZujTexRRj4Yp%2BSrPZTlAmSwakjkWGtIcgqNGbUu0UI%2FKaQ%3D%3D",
+      "image_url": "https://i.ebayimg.com/images/g/FF4AAeSw4k9q8NP-/s-l225.jpg",
+      "color": "Black Lululemon 7\u201d Men\u2019s athletic shorts size medium new with tags.",
       "available_sizes": [
         "S",
         "M"
@@ -908,7 +861,7 @@
       "original_price": 120,
       "discount_percent": 76.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/287342098777?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item42e6ec7959:g:SYIAAeSwHpNqDUMp&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nMB2jrYXLsoMO2PzV9v710xZuAOzxh4RYDQXLNDo%2BW7md55aOG1Xpv4ms%2FrGHqzcGVO4kCHmJ2UHKKTnPE9PkV1nN1UZnG93cERvNX3oD82kowBQflrpjPtThlWxYpkZjlTkAPnvfhAY5%2FC%2BUwBDA6rwPHKmMajT5fmHjVDrntZZOPkZhNZOfhx21WqCXf7NOiuj7%2F7ZyJjdduItw2ooERnbU9O0voJdO07AKWkXEFrHJacb1g0eYvHvHHRnW2vemdT0jhXUW2bdjKk%2BtDwiRBywVCmf8p%2BsMYttnZZZa74TQRPZAlezWhjqhQfeXAV7g%3D",
+      "url": "https://www.ebay.com/itm/287342098777?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item42e6ec7959:g:SYIAAeSwHpNqDUMp&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nMB2jrYXLsoMO2PzV9v710xZuAOzxh4RYDQXLNDo%2BW7md55aOG1Xpv4ms%2FrGHqzcGVO4kCHmJ2UHKKTnPE9PkV1nN1UZnG93cERvNX3oD82kowBQflrpjPtThlWxYpkZi%2BhjNk767bMbCYCtzzZmC63p4qWWWybVtZEuL67kgoi%2Fwselol2i%2BkMIcmNY0tDFtgvqmwypvTTFDpv4l9sgVQZi9JscPVBQ%2FzdIW8oWywJ8uzv6TeTdrxvfDYlzSmy0PTxPkNuZp4iBNZMnsktl75ZU0WYnWg0OWnj5%2BIIkM%2BLQtu5ZchPzJyUbP77rvWzHs%3D",
       "image_url": "https://i.ebayimg.com/images/g/SYIAAeSwHpNqDUMp/s-l225.jpg",
       "color": "Brooks Brothers Sweatshirt Mens XL Grey Blue Quarter Zip Mock Neck Pullover NWOT",
       "available_sizes": [
@@ -923,7 +876,7 @@
       "original_price": 115,
       "discount_percent": 76.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/820236705684?_skw=Vineyard+Vines+men%27s+t-shirt&hash=itembef9eadf94:g:2~MAAeSwXKFqzt4F&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n9Ijv%2BMQG2CFv%2F65aE3wXekfMSTddoTTwo6%2BXOoGjPYBS%2FVQ6U9yfDLUe6Y1lM%2BzY7klj%2BL3uCDCciSam5v2F1xTWY86XPLTYTiKgarJbNpWyVuqGhaL5J1G9bbOxSriHYc%2Bab41aw7w3xJR9%2Fw3yhNPZXJTIw1fo2WwGx9Dk%2BneFQR4HiFB7ru145YtXr64%2Bu4CdSf4%2FYv8MrzxRAmnVWBz4mXf7sdQpyToxK9j4DG2Do6Hck--vPt%2BoArnp7rhb6O%2BOSiR330IDAmxmvzGGt%2FKo3%2B%2Bvnk8CkTiBQ40GQJ%2BQPC6YKu%2F%2Bg31fydCl3fnI%3D",
+      "url": "https://www.ebay.com/itm/820236705684?_skw=Vineyard+Vines+men%27s+t-shirt&hash=itembef9eadf94:g:2~MAAeSwXKFqzt4F&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n9Ijv%2BMQG2CFv%2F65aE3wXekfMSTddoTTwo6%2BXOoGjPYBS%2FVQ6U9yfDLUe6Y1lM%2BzY7klj%2BL3uCDCciSam5v2F1xTWY86XPLTYTiKgarJbNpWyVuqGhaL5J1G9bbOxSriFeg5Q7PGlCOGbB9ZvVyJ4WpREwvDxpmNMzeFT7FSfvckrver7dmObJduIyCBLAWVczpQme88cf3h%2BQJKFrwbgbDgybzQt0PeII8Q5TtbmH60x%2BzV5h1jQu%2BjdvMr1TcTd0QNxxCQ4OTyQ3jmtYfmo2jk%2BO3MG%2B5ronKaTq%2FTvQ5NQ97Jue5Ai2Vdvq31pLfj0%3D",
       "image_url": "https://i.ebayimg.com/images/g/2~MAAeSwXKFqzt4F/s-l225.jpg",
       "color": "Vineyard Vines Men\u2019s Large Grey Shirt Football Whale Pocket T-Shirt- BRAND NEW",
       "available_sizes": [
@@ -987,7 +940,7 @@
       "original_price": 115,
       "discount_percent": 75.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/117493377779?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=item1b5b26aaf3:g:AyAAAeSwFthq47ya&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7khrCoTgbJ7ubu1Krc9TtRSJTSu9trrVO03Cim3SDjyyb2UI0PrRMW%2FgGli%2BjXVSlrDgP2hLzYK%2B3dx4TA3IMT4g5uOvFoUntgj8TeY2hQ2SqM76L9dGlLM184U8RjKpNjJOtg7NBRdS7YAhTCplQtN6%2FtsHpQEVeGUpKuj5GV7HdzequmX4k1lsQQ4JymYgxpj1JVVYjRK2n2WTu%2FYEnBrOITNDUrfae7SX5f4T1PBhhXuM4PsiGesK1MeTxwc6q4UfTAlQcI06g8Tu0rNmEeMJr0PFf7NfnmFCM0zuOBM5n%2BqfXYHv6IahVgBaKk9SUY%3D",
+      "url": "https://www.ebay.com/itm/117493377779?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=item1b5b26aaf3:g:AyAAAeSwFthq47ya&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7khrCoTgbJ7ubu1Krc9TtRSJTSu9trrVO03Cim3SDjyyb2UI0PrRMW%2FgGli%2BjXVSlrDgP2hLzYK%2B3dx4TA3IMT4g5uOvFoUntgj8TeY2hQ2SqM76L9dGlLM184U8RjKpNjCgSGtodoHOYCNOwO1MjbYXu2Ch1EmGq2P%2FWFf%2BCv%2FL2dtAVdT3XrIhY1NEuE9pbAmPxBsqUcCsbgWSc0sQiquBChtP9%2B8tIHnfuILyjszE1lek%2FMG9Lbcygg7DKDWJ59hsis1pK4SRAEktGUpZmH43wujevwYfTdKmOi5yaqPozvYaRGU1QL2%2Ft5bqlXfZCI%3D",
       "image_url": "https://i.ebayimg.com/images/g/AyAAAeSwFthq47ya/s-l225.jpg",
       "color": "Vineyard Vines Mens Blue Striped 1/4 Zip Mock Neck Pullover Sweatshirt XL Navy ",
       "available_sizes": [
@@ -1002,7 +955,7 @@
       "original_price": 90,
       "discount_percent": 75.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/267761056140?_skw=J.Crew+men%27s+jogger&hash=item3e57cd798c:g:HBsAAeSw5RdqhLQN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lBzJlS%2B1GguTw5DPAeoTDB6V7PI3RWc7A0l3VaClKcON%2BV7fokzItOlJpQtlpb%2BywjZMIKlUk%2FXjq5m5q3hpOJbjJoYi4TVLPIjeuXdLb9TR8gnpSI6p%2BMgorq75Cp4biGfWywWHvSb5Rk%2FzNRHOAT2xA%2Frz9HmBmoP%2B86Whhnf08uoz%2BYpxIXtlFaPIAKIqpR0vIn5OrHi2iVjQYSwk%2Brdw6kVxbIPbK%2B9t5dRlmTsL%2BCh8CKzDGQ8FQ3tOmkSNVu6deom5kIIpcpK8lnvLKqk4oEkqQXEpbMCKI72RXyEA%3D%3D",
+      "url": "https://www.ebay.com/itm/267761056140?_skw=J.Crew+men%27s+jogger&hash=item3e57cd798c:g:HBsAAeSw5RdqhLQN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lBzJlS%2B1GguTw5DPAeoTDB6V7PI3RWc7A0l3VaClKcON%2BV7fokzItOlJpQtlpb%2BywjZMIKlUk%2FXjq5m5q3hpOJbjJoYi4TVLPIjeuXdLb9TR8gnpSI6p%2BMgorq75Cp4bg0LxvijG5xlkcLZB9tFQp4fazzJCOgPao%2BC6%2Bnyo%2FLlqHsd24B1lBaBzsugRhFksnTRAxH76q4s%2FAeq%2Fanjnt5OzV54qrQcS9DRciI1U4yJgCuieU%2FLwrS%2BDof3SemLyOwYU2CjA1Xxm8hZQQozAD0jwce9aWz6nh%2BDo%2BwvD8xxQ%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/HBsAAeSw5RdqhLQN/s-l225.jpg",
       "color": "J.Crew Men Large Tall Gray Jacquard Rib-Knit Jogger Pant NWT",
       "available_sizes": [
@@ -1017,11 +970,27 @@
       "original_price": 90,
       "discount_percent": 75.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/377557611840?_skw=J.Crew+men%27s+t-shirt&hash=item57e82ff540:g:o90AAeSw9mxqyUTC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lhSeWKLEwjk4HKbwY6fNzgxWdVA16snhcodU5Hoxgm4B4mxi9Ly6Lg6ZlBwbpSbm38aG9Izch%2FZ5FUdABdsn2X79uxNlRbzXFmLlDAjJAOcCdIdIH4fMoaMjxZPX91yA9UYd65VsdZIacPl3zj%2FDqsnt%2FQum8CdAJPlI2i7G0ucQCzEFOdYwEY1o9%2FJEidLOSFMtlSohFZ3g8%2FK1C8Bit1eujISNhCx%2FXvqOhF2B9AoLg4XsO7GvDgh6q28JjX%2BX1vkCuq6opAmWFJZyx9LNuMuFatBwvLzbfANavLa%2F5%2Fjg%3D%3D",
+      "url": "https://www.ebay.com/itm/377557611840?_skw=J.Crew+men%27s+t-shirt&hash=item57e82ff540:g:o90AAeSw9mxqyUTC&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lhSeWKLEwjk4HKbwY6fNzgxWdVA16snhcodU5Hoxgm4B4mxi9Ly6Lg6ZlBwbpSbm38aG9Izch%2FZ5FUdABdsn2X79uxNlRbzXFmLlDAjJAOcCdIdIH4fMoaMjxZPX91yA8znvgAuXRWmZ5bz2OOdmi8WTQOkhO%2B5qMS5kqQWqmDhfPBV5iZqMcX7IqstyqLwFn8Tb8lBX9KyskLoLmw8P2ubqzgMSR1gHrRIz0nLWaLsoNGqBSAAMKSx0HyjfwCQKkvwP%2FL1sEJZZCZgJh6edK0LqNR%2BAs0RI%2F06Wr8NM2QuA%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/o90AAeSw9mxqyUTC/s-l225.jpg",
       "color": "J.Crew T-Shirt Mens XXL Heritage Cotton Pocket Crewneck FBL Charcoal Gray BB950",
       "available_sizes": [
         "XXL"
+      ]
+    },
+    {
+      "title": "Banana Republic Men's L Black Half-Zip Pullover Sweatshirt Cotton Blend i1705",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 23.55,
+      "original_price": 95,
+      "discount_percent": 75.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/366787974592?_skw=Banana+Republic+men%27s+sweatshirt&hash=item55664455c0:g:~KkAAeSwaJRporvP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lozl1Lmccis8vUP0RXlJoeIBD9b6p78FupY1KdhVe%2FhQH71yw1EhudFwN%2FSokskoNdJT4b3prGNhWMSurUiF4%2B%2FfFrAiIp72yLwOjL%2Fqssg%2B6EByEajbcUhCwltwqD%2FDlrNSsuv%2BEuiKS5a9%2BkYyM4IeWvRJ5DGLocQ1lbrJm4HsGnaBoY%2BqmYUHLGCVDXjFiZDNsS%2BLZcDKb%2BP2fUmzryn9HyAu8pPFFD9NAyM88cIiogQ1M0q8L5W42fsX%2B7YpImVmdWtRhtRCA3mBXcreoVW0tfCKiM93HTImxKA7j7AUTl3Do9xSGcfgj%2FOyciYGQ%3D",
+      "image_url": "https://i.ebayimg.com/images/g/~KkAAeSwaJRporvP/s-l225.jpg",
+      "color": "Banana Republic Men's L Black Half-Zip Pullover Sweatshirt Cotton Blend i1705",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -1041,6 +1010,21 @@
       ]
     },
     {
+      "title": "Brooks Brothers Blue and Gray Quarter Zip Sweater Size Large",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 29.99,
+      "original_price": 120,
+      "discount_percent": 75.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168515698900?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item273c5180d4:g:HQMAAeSw3bRqSma8",
+      "image_url": "https://i.ebayimg.com/images/g/HQMAAeSw3bRqSma8/s-l225.jpg",
+      "color": "Brooks Brothers Blue and Gray Quarter Zip Sweater Size Large",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
       "title": "Brooks Brothers T-Shirt Mens Medium Navy Blue Graphic BB Oars Logo Crew Neck NEW",
       "brand": "Brooks Brothers",
       "tier": "A",
@@ -1052,54 +1036,6 @@
       "image_url": "https://i.ebayimg.com/images/g/UZsAAeSww-FqiHS0/s-l225.jpg",
       "color": "Brooks Brothers T-Shirt Mens Medium Navy Blue Graphic BB Oars Logo Crew Neck NEW",
       "available_sizes": [
-        "M"
-      ]
-    },
-    {
-      "title": "Vineyard Vines Performance Quarter Zip Pullover Men's Large Heater Gray",
-      "brand": "Vineyard Vines",
-      "tier": "S",
-      "price": 29.0,
-      "original_price": 115,
-      "discount_percent": 74.8,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/137626405572?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item200b2c4ac4:g:jnAAAeSwAuVqgSFD",
-      "image_url": "https://i.ebayimg.com/images/g/jnAAAeSwAuVqgSFD/s-l225.jpg",
-      "color": "Vineyard Vines Performance Quarter Zip Pullover Men's Large Heater Gray",
-      "available_sizes": [
-        "L",
-        "S"
-      ]
-    },
-    {
-      "title": "Banana Republic Men\u2019s Slim Fit Nylon Performance Jogger Gray Medium NWT",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 23.99,
-      "original_price": 95,
-      "discount_percent": 74.7,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/198775506314?_skw=Banana+Republic+men%27s+jogger&hash=item2e47f1858a:g:yH0AAeSwehZqlbqd",
-      "image_url": "https://i.ebayimg.com/images/g/yH0AAeSwehZqlbqd/s-l225.jpg",
-      "color": "Banana Republic Men\u2019s Slim Fit Nylon Performance Jogger Gray Medium NWT",
-      "available_sizes": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Banana Republic Men's Medium Black Cotton Blend Quarter Zip Sweater",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 24.49,
-      "original_price": 95,
-      "discount_percent": 74.2,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/128045928050?_skw=Banana+Republic+men%27s+quarter+zip&hash=item1dd021ce72:g:rHUAAeSwGGJqjf-u",
-      "image_url": "https://i.ebayimg.com/images/g/rHUAAeSwGGJqjf-u/s-l225.jpg",
-      "color": "Banana Republic Men's Medium Black Cotton Blend Quarter Zip Sweater",
-      "available_sizes": [
-        "S",
         "M"
       ]
     },
@@ -1120,6 +1056,22 @@
       ]
     },
     {
+      "title": "Vineyard Vines Men's 7\" Surfside Pull-On Shorts Navy Blue/Blue Blazer XL",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 29.99,
+      "original_price": 115,
+      "discount_percent": 73.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/137887833027?_skw=Vineyard+Vines+men%27s+short&hash=item201ac15bc3:g:rLgAAeSwqj9q6gSy",
+      "image_url": "https://i.ebayimg.com/images/g/rLgAAeSwqj9q6gSy/s-l225.jpg",
+      "color": "Vineyard Vines Men's 7\" Surfside Pull-On Shorts Navy Blue/Blue Blazer XL",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
       "title": "Vineyard Vines Men's 7\" Surfside Pull-On Shorts Light Khaki/ White Beach M",
       "brand": "Vineyard Vines",
       "tier": "S",
@@ -1136,22 +1088,6 @@
       ]
     },
     {
-      "title": "Vineyard Vines Men's 7\" Surfside Pull-On Shorts Navy Blue/Blue Blazer XL",
-      "brand": "Vineyard Vines",
-      "tier": "S",
-      "price": 29.99,
-      "original_price": 115,
-      "discount_percent": 73.9,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/137887833027?_skw=Vineyard+Vines+men%27s+short&hash=item201ac15bc3:g:rLgAAeSwqj9q6gSy",
-      "image_url": "https://i.ebayimg.com/images/g/rLgAAeSwqj9q6gSy/s-l225.jpg",
-      "color": "Vineyard Vines Men's 7\" Surfside Pull-On Shorts Navy Blue/Blue Blazer XL",
-      "available_sizes": [
-        "S",
-        "XL"
-      ]
-    },
-    {
       "title": "Vineyard Vines Sweatshirt Mens L Navy White Striped Cotton 1/4 Zip Pullover NWT",
       "brand": "Vineyard Vines",
       "tier": "S",
@@ -1164,36 +1100,6 @@
       "color": "Vineyard Vines Sweatshirt Mens L Navy White Striped Cotton 1/4 Zip Pullover NWT",
       "available_sizes": [
         "L"
-      ]
-    },
-    {
-      "title": "NEW Lululemon City Sweat Hoodie Mens Medium Black Performance Sweatshirt Gym ...",
-      "brand": "Lululemon",
-      "tier": "?",
-      "price": 24.88,
-      "original_price": 95,
-      "discount_percent": 73.8,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/287472824596?_skw=Lululemon+men%27s+sweatshirt&hash=item42eeb73114:g:eWIAAeSwQw5qUclX&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nT7Q0dc4M8lP7ZYB5c0x%2BEzlcmFq1T596GlfdsLGMt%2BI84KCwIxpj%2BCSMY4Zoxtu8UTXxsYkIw3chkC%2FTUCwLsy6iPdwCNx6qvEp5UvraZmDjd6jIzNNnGrtqzzFjUYxVh32aWJgwITM896UyqurixWYWiPiapSyH153FnnaVoj96wxfNG%2BERzuCT88eZ9nb0brLlj3hePV2Izb7s4MHb1vUYaw1Amxg%2FzXi5LgbyzxQHneg%2FCiucJWOQCO%2FOdnDXPcYNcy4Wsx7q4wdRZ%2B6QvYghlttgZ63v4KaAaXRpnV63oIll6rEtJu8rASt5qZ%2Fw%3D",
-      "image_url": "https://i.ebayimg.com/images/g/eWIAAeSwQw5qUclX/s-l225.jpg",
-      "color": "NEW Lululemon City Sweat Hoodie Mens Medium Black Performance Sweatshirt Gym ...",
-      "available_sizes": [
-        "M"
-      ]
-    },
-    {
-      "title": "Banana Republic Johnny Collar Long Sleeve Polo Sweater Light Blue - Size M",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 24.99,
-      "original_price": 95,
-      "discount_percent": 73.7,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/336889343662?_skw=Banana+Republic+men%27s+sweater&hash=item4e702b6eae:g:qJMAAeSw-mBq8mNz",
-      "image_url": "https://i.ebayimg.com/images/g/qJMAAeSw-mBq8mNz/s-l225.jpg",
-      "color": "Banana Republic Johnny Collar Long Sleeve Polo Sweater Light Blue - Size M",
-      "available_sizes": [
-        "M"
       ]
     },
     {
@@ -1213,6 +1119,22 @@
       ]
     },
     {
+      "title": "Banana Republic Men's XL Navy Half-Zip Pullover Sweatshirt d1639",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 25.0,
+      "original_price": 95,
+      "discount_percent": 73.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/206692389923?_skw=Banana+Republic+men%27s+quarter+zip&hash=item301fd39423:g:IU8AAeSwh3tpx6Vv&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lxjhmHBhN%2BAaW4ZAbEbH6uUS8BtmBE0ToFGGMj4uwbkjK5UIM4C1KkG34wBjuPcBy4o%2BnqkFb1oP%2BuLa3cmtXVkj8K4FEn8QLVf0LzrjIzErjXCpiZWWtvxDIYAGd%2Fi3H7Em6ka6MHD5X7q6YUinlaGEbJQ0EeTog4FzeXXg23XSLFoNWf6L%2Fj9scLUT1ymBHgGH2OaWJooWhQPX1hyA4PcCEHNM1bWhEg67rzWmM%2BtA6bUzmegQ%2BkH3dlu8hXWXa4L%2F6%2BGoxuTH4%2FM97BSbKL7jMxwBIPjD5YaJdXIFsN5ihNO%2FEQJ%2BYRQTxrhi4Sc8s%3D",
+      "image_url": "https://i.ebayimg.com/images/g/IU8AAeSwh3tpx6Vv/s-l225.jpg",
+      "color": "Banana Republic Men's XL Navy Half-Zip Pullover Sweatshirt d1639",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
       "title": "BANANA REPUBLIC MEN'S TECH JOGGERS (CASTLEROCK GRAY, LARGE)NWOT",
       "brand": "Banana Republic",
       "tier": "?",
@@ -1226,6 +1148,37 @@
       "available_sizes": [
         "L",
         "S"
+      ]
+    },
+    {
+      "title": "Banana Republic Men\u2019s XL Gray Cotton Blend Crewneck Pullover Sweatshirt NWOT",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 24.99,
+      "original_price": 95,
+      "discount_percent": 73.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/960184635425?_skw=Banana+Republic+men%27s+sweatshirt&hash=itemdf8f76d021:g:dPQAAeSwHYVq9Pzg",
+      "image_url": "https://i.ebayimg.com/images/g/dPQAAeSwHYVq9Pzg/s-l225.jpg",
+      "color": "Banana Republic Men\u2019s XL Gray Cotton Blend Crewneck Pullover Sweatshirt NWOT",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Heritage Graphic T-Shirt Navy Blue - New In Sealed Bag (Size L)",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 32.0,
+      "original_price": 120,
+      "discount_percent": 73.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/287633802187?_skw=Brooks+Brothers+men%27s+t-shirt&hash=item42f84f83cb:g:8MIAAeSwSk9qxqNp",
+      "image_url": "https://i.ebayimg.com/images/g/8MIAAeSwSk9qxqNp/s-l225.jpg",
+      "color": "Brooks Brothers Heritage Graphic T-Shirt Navy Blue - New In Sealed Bag (Size L)",
+      "available_sizes": [
+        "L"
       ]
     },
     {
@@ -1245,18 +1198,50 @@
       ]
     },
     {
-      "title": "Navy blue Polo Ralph Lauren quarter zip sweatshirt in XL #preppy #quarterzip",
+      "title": "NWT Polo 67 Ralph Lauren Mens Jogger Pant Medium Navy Blue NEW Lounge Logo Sleep",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 34.94,
+      "original_price": 130,
+      "discount_percent": 73.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227610406553?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=item34fea32e99:g:jnAAAeSwHtxq9S~2",
+      "image_url": "https://i.ebayimg.com/images/g/jnAAAeSwHtxq9S~2/s-l225.jpg",
+      "color": "NWT Polo 67 Ralph Lauren Mens Jogger Pant Medium Navy Blue NEW Lounge Logo Sleep",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Men's XL Navy Cotton Jersey Crewneck Tee Embroidered Logo",
       "brand": "Polo Ralph Lauren",
       "tier": "S",
       "price": 35.0,
       "original_price": 130,
       "discount_percent": 73.1,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/860122367112?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=itemc84349c488:g:4sMAAeSwPzBq72s4",
-      "image_url": "https://i.ebayimg.com/images/g/4sMAAeSwPzBq72s4/s-l225.jpg",
-      "color": "Navy blue Polo Ralph Lauren quarter zip sweatshirt in XL #preppy #quarterzip",
+      "url": "https://www.ebay.com/itm/920132145449?_skw=Polo+Ralph+Lauren+men%27s+t-shirt&hash=itemd63c265129:g:AZQAAeSwZA1q9NuN",
+      "image_url": "https://i.ebayimg.com/images/g/AZQAAeSwZA1q9NuN/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men's XL Navy Cotton Jersey Crewneck Tee Embroidered Logo",
       "available_sizes": [
-        "XL"
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Men's XL Gray Cotton Crew Neck Logo Short Sleeve T-Shirt",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 35.0,
+      "original_price": 130,
+      "discount_percent": 73.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/920132140269?_skw=Polo+Ralph+Lauren+men%27s+t-shirt&hash=itemd63c263ced:g:~bQAAeSwPHRq9Nsr",
+      "image_url": "https://i.ebayimg.com/images/g/~bQAAeSwPHRq9Nsr/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men's XL Gray Cotton Crew Neck Logo Short Sleeve T-Shirt",
+      "available_sizes": [
+        "XL",
+        "S"
       ]
     },
     {
@@ -1276,37 +1261,6 @@
       ]
     },
     {
-      "title": "J Crew T Shirt White Navy Blue Deck Stripe Mens Large Slim Washed NWT New",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 24.97,
-      "original_price": 90,
-      "discount_percent": 72.3,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/117465281269?_skw=J.Crew+men%27s+t-shirt&hash=item1b5979f2f5:g:qOQAAeSwjuZqzrN8&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kuMMw0IrkgmW1GQOYsLPTOHovHy43fgUoQlDtuMOJVtiRJkSvh2IRRo%2BTZDoLMQKIUBWPGibO4UBNscECWVhSy5eZtSEvkvWvcmmeLud6dTrPzvoJ9itSzetKeDDhKk6Z5LGZe2zjLkQP7%2BYxfeog%2BQmJ5AyrIlc0iVfnf4D2qhRilND8A8tAGAddWIRfOsvkAhOIUl5FnhO%2BmngX3eyB3eWXwlh7abeeLB9SGa9JiCJYbDcIUKyAXeg3qkhAH0zhJ%2Fx0FF%2BsyXWNKukKiVUTDN9i9cYuaEO8bhsMwRTvMCw%3D%3D",
-      "image_url": "https://i.ebayimg.com/images/g/qOQAAeSwjuZqzrN8/s-l225.jpg",
-      "color": "J Crew T Shirt White Navy Blue Deck Stripe Mens Large Slim Washed NWT New",
-      "available_sizes": [
-        "L"
-      ]
-    },
-    {
-      "title": "J. Crew Straight-Fit Flex Chino Pant - DARK GRAY - MEN'S SIZE 32/34",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 24.99,
-      "original_price": 90,
-      "discount_percent": 72.2,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/257735230747?_skw=J.Crew+men%27s+chino&hash=item3c0237851b:g:u0YAAeSwTbRqor74",
-      "image_url": "https://i.ebayimg.com/images/g/u0YAAeSwTbRqor74/s-l225.jpg",
-      "color": "J. Crew Straight-Fit Flex Chino Pant - DARK GRAY - MEN'S SIZE 32/34",
-      "available_sizes": [
-        "S",
-        "32/34"
-      ]
-    },
-    {
       "title": "J.Crew Essential T Shirt Mens Size Large Vintage Wash Natural Beige Cotton NWT",
       "brand": "J.Crew",
       "tier": "A",
@@ -1314,7 +1268,7 @@
       "original_price": 90,
       "discount_percent": 72.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/287631882899?_skw=J.Crew+men%27s+t-shirt&hash=item42f8323a93:g:ycwAAeSwG5NqxWOq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mm44N5o932ftn6B2fnRkiaLa2OdbJF9vvFjqdMAgotcjROIa7zBejwPQCKR8YUO8H6LUxMudypErOiOp6JOUO%2By3FWOzz3fibAQgjvCt4IfY4uB%2FMw5HuarijwSlkYpOGtgBb2KYBRdjuIoqTU1gTiroFYXQxtloCqXL0oXMQDWRxk3yNQqDZSEaFbEWc%2B2XCKYLffcg2jVlHFndKeIoVCjwF4bB5fOlVOrvtjdIZwIxZqXD3h4puZyqcJbSYP6TJuRL5ha3xGiObeHleuMxCOuZHamI6c%2BTdejBrOh8IX7Q%3D%3D",
+      "url": "https://www.ebay.com/itm/287631882899?_skw=J.Crew+men%27s+t-shirt&hash=item42f8323a93:g:ycwAAeSwG5NqxWOq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mm44N5o932ftn6B2fnRkiaLa2OdbJF9vvFjqdMAgotcjROIa7zBejwPQCKR8YUO8H6LUxMudypErOiOp6JOUO%2By3FWOzz3fibAQgjvCt4IfY4uB%2FMw5HuarijwSlkYpOFWUtFzOm3pMN%2Bpvc%2F0pFZlI4qNKC4s4YinKth%2Buin%2FbQz6W6%2FzV0JUZRY5xmqjV9dLHuHhXJ%2F%2BvhW5jgvPMvNZxHOQ8lfiZQJZ2cFSW9Pp9wNDVKxvJRuaR2cXqr2yAqk2JMonio%2FgXG2ziJkkVw%2FMIvqynEF9I4nebK0VMsLVmQ%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/ycwAAeSwG5NqxWOq/s-l225.jpg",
       "color": "J.Crew Essential T Shirt Mens Size Large Vintage Wash Natural Beige Cotton NWT",
       "available_sizes": [
@@ -1345,7 +1299,7 @@
       "original_price": 95,
       "discount_percent": 72.1,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/307257286145?_skw=Banana+Republic+men%27s+sweater&hash=item4789f61e01:g:AEoAAeSwophqQ~3G&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ntSNH1u%2F%2BgNF%2FqnnZ7h1aP4HS%2B%2F5z9CyGY4VQxs2wuizS1jUsr82EA7ILuchYAVGUdIf%2BoOBpcsd%2B2ZFBPuXvaINrSLqo5OZGmQbk7oQ%2FxKuqqfduCgXk5OETtsjHZ%2FYmIqx1SZXGLvlRVGpSg1xJrJ5a9R22moS6MRwZnuz78TK1qA4Z3uf47Xo6n8PuxOE64kUrDoO1jt6HykcQlAP8VDgbvhh1fl8J98AkkaZjQTGKoxxcIHk6Jyx1VUVW2QFA2R5vKMe4KA9hCjNsjhotrCyRxfRCJSjUwbLbh0A86l%2F38SJLhDx0VcfMd4Woxi5w%3D",
+      "url": "https://www.ebay.com/itm/307257286145?_skw=Banana+Republic+men%27s+sweater&hash=item4789f61e01:g:AEoAAeSwophqQ~3G",
       "image_url": "https://i.ebayimg.com/images/g/AEoAAeSwophqQ~3G/s-l225.jpg",
       "color": "Banana Republic Organic Cotton Sweater Men\u2019s Sz M NWT Gray Hero Texture Crewneck",
       "available_sizes": [
@@ -1361,7 +1315,7 @@
       "original_price": 120,
       "discount_percent": 71.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/196917477713?_skw=Brooks+Brothers+men%27s+jogger&hash=item2dd9324151:g:i3wAAOSwClZncKbZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lNbZ391FaDlJcTeS1TTXE7hBhWx9A%2BS9hNFtRsNuEQd4FvAqgNl76tj4SHv86iAUjtkB5UwUKnnkzF1cAfEbe6vbINAf5oBtizY6%2FegbjZj%2BfjLRbaKomiAlz%2FDY618WV8FtrzoNbSLTlnVY6N6XY6bbKRKm03MLcbYLfC47YEq%2Fdw8HAhAdmVTvyIbGAsF2pundUhTLoHrNl3gRiVszMeNzAA9DASOQylNHTNtkdm0AISbbdgUyIiqJVBlioMIgNeMPHEj28gOeKfg%2F8OHKSIo9Tj41m2ZgkYnF3d01VPMZUj5rIqql5vBDELF2CNnw0%3D",
+      "url": "https://www.ebay.com/itm/196917477713?_skw=Brooks+Brothers+men%27s+jogger&hash=item2dd9324151:g:i3wAAOSwClZncKbZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lNbZ391FaDlJcTeS1TTXE7hBhWx9A%2BS9hNFtRsNuEQd4FvAqgNl76tj4SHv86iAUjtkB5UwUKnnkzF1cAfEbe6vbINAf5oBtizY6%2FegbjZj%2BfjLRbaKomiAlz%2FDY618WX6JnnOV74aaH%2BK9xbdfv84y42DSdnKT9xed2546U%2FFxnxww5ZNMb8jVx4FdzrsjIwyWGorH4cLHWMlCpkPOyla2eSurILohT%2FLJ%2FO0PT9NQbm3%2FhFuOZusV3fhZvpMjKzUzLZe02PM52UQT32aJAMMQwe2pMc7BBgXM31RCSUALMvyO45j%2BPxRvpE6Gxf%2Bbz0%3D",
       "image_url": "https://i.ebayimg.com/images/g/i3wAAOSwClZncKbZ/s-l225.jpg",
       "color": "Brooks Brothers Joggers Mens Large Navy Sweatpants Drawstring Cotton Pants NWT",
       "available_sizes": [
@@ -1380,8 +1334,8 @@
       "image_url": "https://i.ebayimg.com/images/g/H5QAAeSwRMlqxnoI/s-l225.jpg",
       "color": "Banana Republic Men's Quarter Zip Pullover Black XL NWT",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -1392,27 +1346,12 @@
       "original_price": 120,
       "discount_percent": 71.1,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/267806292716?_skw=Brooks+Brothers+men%27s+overshirt&hash=item3e5a7fbaec:g:l64AAeSwOCtqh52Z&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nCBzLpa5SJ3fC43XvjHnQU9ESo9Jx1cGCGGpmtn1o1dhLwI5xia%2FYhFlCoAq6ZnrBj47GJ8wPnq54%2FM0Jbpa7ulJz5YiDgIQMWgDUZj%2FXPhNKBqm4r0p42GToEQ4whPRDcYOA5iRYH9BbX%2B3Br9QgTi2kINHErMmlV7dF1BFHgz6CjmdBJe9SuIkplnw8NocuCmvBdCaGlN2lR%2F4pxhAqSpZM7vndBfPqFNdI1K71vBe4CMCph1yVKNBYi%2B9Wnket89Y2DVCLs%2BlpxF0Qu0sk6QP2cSUFQ5AJ%2FCGdwyGb7Rj%2BpHm1dic2H9mDv8BfbDaQ%3D",
+      "url": "https://www.ebay.com/itm/267806292716?_skw=Brooks+Brothers+men%27s+overshirt&hash=item3e5a7fbaec:g:l64AAeSwOCtqh52Z&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7l57QlW8WeF5Pw%2BzCv9maWXUS43G6TcHffx%2FpVs7JYnKpD365xlwN9Gdm4x2dRuEeLwXMH8RlXpHogYZcp61r5rVxXsIqLOSOHygh8%2BKf8hgeunF0%2FSnOVPtImk6OFHiwO4Elfc69xYOLI82PYjrBRPcJcPi%2BpK8J70m6KDcUbk78Q%2B%2BzX45zBGYY90JLdry3dtd7cW8pFW4pxvGehHMCO3kj0iwokNmXpjh4cO5%2FB0%2F4PbMROTHYkrw2fymN3yCwMh4x4F21gkUSZmODB%2FV93QVbH9KyZbpCQW2BBsTZTHYFkl%2F49JMqAUBw6%2BjE5l0V4%3D",
       "image_url": "https://i.ebayimg.com/images/g/l64AAeSwOCtqh52Z/s-l225.jpg",
       "color": "Brooks Brothers Men's Navy Blue Corduroy Bird Embroidered Shirt Sz XXL NWT",
       "available_sizes": [
-        "S",
-        "XXL"
-      ]
-    },
-    {
-      "title": "Peter Millar Quarter Zip Pullover Men M Beige Merino Wool Lyocell Sweater Golf",
-      "brand": "Peter Millar",
-      "tier": "S",
-      "price": 44.97,
-      "original_price": 155,
-      "discount_percent": 71.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/860132824212?_skw=Peter+Millar+men%27s+sweater&hash=itemc843e95494:g:OTsAAeSwaYxq89Zu&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k0rn0iryjSUcjbUSArpHa89mc1JUGmczaVNvAaqmJ3v1oiq2k%2BqQBKGvUiHaE1KOGya4C0HsnK9jzRJsKWFqd1Ya3d5hhMfn%2BGyYXQI5Hl02jSWipBKzfQBanKoe%2Bvg8U%2Fy32ltVhD7N0zodDYo7lxdn2MwrdJcl9YhsHNqBF0kAV3kuCohOjCWD5rbI%2FAWkQpUMz%2BdnDJk9VYH5IUMY1oinhV1ieVFBwgCu4Mj4TwY%2FYM8vIn81fFDohhoZB9fvZPWZPv4UtIDQ%2FNlhrliC44Y9Z8Bd5ED5DWLEvzCCB%2Ft14tbQOqhlr70NMBD911MWo%3D",
-      "image_url": "https://i.ebayimg.com/images/g/OTsAAeSwaYxq89Zu/s-l225.jpg",
-      "color": "Peter Millar Quarter Zip Pullover Men M Beige Merino Wool Lyocell Sweater Golf",
-      "available_sizes": [
-        "M"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -1427,8 +1366,8 @@
       "image_url": "https://i.ebayimg.com/images/g/y8cAAOSwlsdnauhA/s-l225.jpg",
       "color": "Barbour Men's Gray Fair Isle Wool Pullover Sweater Size XXL",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -1443,8 +1382,8 @@
       "image_url": "https://i.ebayimg.com/images/g/Zp0AAeSwfGRq7Whj/s-l225.jpg",
       "color": "Peter Millar Notre Dame Navy Blue Cotton Short Sleeve Polo Shirt Men's XXL NWOT",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -1455,7 +1394,7 @@
       "original_price": 230,
       "discount_percent": 69.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/278247842922?_skw=Barbour+men%27s+jogger&hash=item40c8dd246a:g:t~AAAOSw~lBjLg0O&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kFm1Tg2dooFuOdMJHM3NlPzDb0Gq3bfxKnk7ItX4OQwzEd0SjhKbDT4sFmZsQh%2BndqFfEJSUkUfiH7PL4JUkbzsO30Xr7FDpTFHQEdjKEyuQJ3syBYB%2FAozE1QdkNWY4kRKZwr8%2FrexH6b5uBypd%2FmJTVUxQmOVQpO%2BhuU%2B25XA5We3h8TPnceQT7KyL0BH--6yc34BgrRMdojkCyH2JJo0iVS6M5dGtIl93YE%2BRTf04lC%2Fz%2BUxagmiiYtBNqz4LLPmi0O4M0%2FfZxFfaP0HQ%2F9zQsZ8JH7z%2Ba4mBqEUsvJ1g%3D%3D",
+      "url": "https://www.ebay.com/itm/278247842922?_skw=Barbour+men%27s+jogger&hash=item40c8dd246a:g:t~AAAOSw~lBjLg0O&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kFm1Tg2dooFuOdMJHM3NlPzDb0Gq3bfxKnk7ItX4OQwzEd0SjhKbDT4sFmZsQh%2BndqFfEJSUkUfiH7PL4JUkbzsO30Xr7FDpTFHQEdjKEyuQJ3syBYB%2FAozE1QdkNWY4mFAUufLj053NFj6BNSVVVHzDR55yEpm9SJZRD7ioW1J4kbxN7Q4wWYdqib4KInJSplkXGIef1byx5pngMrUpjKKOdN15AZPTEl6hmtesjIRAQ2RKYovWRiEOIft9W8VUA2bbOGgNM7avDOcBdYobcBlnd5yh%2FRGMulE38%2Bo0cDZw%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/t~AAAOSw~lBjLg0O/s-l225.jpg",
       "color": "BARBOUR Mens Charcoal Gray NICO Drawstring Cotton Jogger Lounge Pants MEDIUM NWT",
       "available_sizes": [
@@ -1494,19 +1433,34 @@
       ]
     },
     {
-      "title": "Polo Ralph Lauren Men's Cargo Jogger Pants XXL Black Drawstring Utility ",
-      "brand": "Polo Ralph Lauren",
+      "title": "Vineyard Vines Men's Khaki Chino Shorts XL 7\" Inseam Drawstring Elastic Waist",
+      "brand": "Vineyard Vines",
       "tier": "S",
-      "price": 40.0,
-      "original_price": 130,
-      "discount_percent": 69.2,
+      "price": 35.0,
+      "original_price": 115,
+      "discount_percent": 69.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/206679865527?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=item301f1478b7:g:8NoAAeSwok1q7cI7",
-      "image_url": "https://i.ebayimg.com/images/g/8NoAAeSwok1q7cI7/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men's Cargo Jogger Pants XXL Black Drawstring Utility ",
+      "url": "https://www.ebay.com/itm/366802734547?_skw=Vineyard+Vines+men%27s+chino&hash=item5567258dd3:g:qusAAeSw5CZq9OeT",
+      "image_url": "https://i.ebayimg.com/images/g/qusAAeSw5CZq9OeT/s-l225.jpg",
+      "color": "Vineyard Vines Men's Khaki Chino Shorts XL 7\" Inseam Drawstring Elastic Waist",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Peter Millar Kitts Twisted Quarter Zip Sweater Mens XL Navy Blue Logo Wool NWT",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 47.35,
+      "original_price": 155,
+      "discount_percent": 69.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/920135987055?_skw=Peter+Millar+men%27s+quarter+zip&hash=itemd63c60ef6f:g:kiMAAeSwWStpjjaa&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mnFCW%2F7BC%2FdcckC5tUX21uRHBdusVkxkl%2Bk5y87pEiYZY2zJrXZnnxQXgRuLzMXotxDitNugzExhD8HvjjuA%2BaBOxkINdi00l0mYV9BK9iNVXXilV2u6VIalapNKZMgwdxc2yQm6T9Aqlw%2BL6njSz7mfQEJTS6X%2BbubAo%2BjcN%2Fs4Kq5nRR%2BmwHDE6LeMuGh63z9jK9%2B4MvCv8owwP0p1GWcX1xlYrBBgkrzqLvYIbw1l3gMNQHT5v2IFq4DC2q%2FEM0aVZ%2BP%2FRb5HN5qA6M0W3gh3jeYfK9WMQ7Cc%2BN1ZuvHOHIuadf2vhSbfLY%2FXZZiso%3D",
+      "image_url": "https://i.ebayimg.com/images/g/kiMAAeSwWStpjjaa/s-l225.jpg",
+      "color": "Peter Millar Kitts Twisted Quarter Zip Sweater Mens XL Navy Blue Logo Wool NWT",
+      "available_sizes": [
+        "XL"
       ]
     },
     {
@@ -1533,7 +1487,7 @@
       "original_price": 230,
       "discount_percent": 68.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/137869526664?_skw=Barbour+men%27s+sweater&hash=item2019aa0688:g:pMgAAeSw-jZqEj5w",
+      "url": "https://www.ebay.com/itm/137869526664?_skw=Barbour+men%27s+sweater&hash=item2019aa0688:g:pMgAAeSw-jZqEj5w&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lLHGY6TfGCcXqZszkpupvtPUCsodcb4hlWpHLLhCfFRo7%2BjNPHjm%2BsGFS5%2Bi1LnxtPuDxNY0SjB81a7gYNcUZ5JneO5FWSi8y3MZrjORiovGeK10NX0xH5fsU9cDYrTLLJL60o3EvFyih77RLMVqjSu1aeqp8%2BTxaF5O9SonLcNBLSNQ7nax7rSER6TsIH%2BYXWRh9zApGA6%2BNckkPiRBaIcHNz4YYDN%2BdZUrjW2X5qzqUAIrcs123LWCL3yCamJRO1peruPN%2FQgLIFcbh79UVlMSrYipG7ySiurUwjSv3Weg%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/pMgAAeSw-jZqEj5w/s-l225.jpg",
       "color": "Barbour Stonebeck Fairisle Lambswool Crew Neck Sweater Navy Knit Men's Large",
       "available_sizes": [
@@ -1568,8 +1522,8 @@
       "image_url": "https://i.ebayimg.com/images/g/lPEAAeSwlYBq5qmU/s-l225.jpg",
       "color": "NEW Lululemon License To Train Patterned Short Sleeve Shirt Men's XL Light Blue",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -1604,21 +1558,6 @@
       ]
     },
     {
-      "title": "Banana Republic Sweater Gray Long Sleeve Pullover Mock Neck Sweatshirt Men L NWT",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 29.99,
-      "original_price": 95,
-      "discount_percent": 68.4,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/377617666292?_skw=Banana+Republic+men%27s+sweatshirt&hash=item57ebc450f4:g:QX8AAeSweBRoFi5n&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nSSJU71Jbkm3KmEsFTpVM8dkOoS8Tfn2wY12tX4hCWR91mbp%2BtUdLjJhs%2FDjZZGmIaa5hDStgg7t2znSWBA21SVnfbZDNX88wDbFMOY4LFtoDFLnSVcMEHOyhgKlYu01onWjZgYmmVDkpVVIRvSx%2BUZIG4zwUdmOHTJgJJT%2BRpNwQ8zNyFthGugGabzDhismaoqOCIFZqxHhXwdn2eberY%2FjDJCR%2Fc2gg6DCBMI7nNqO6aC4%2FQ3fZK6Wuw%2BGxxqKSk9X0MdIwKX1Cr%2B9RcS8bRPYZD%2F4K1O3mVwQFDNSliz8axTMqlRiW4t7uVpCmtyEI%3D",
-      "image_url": "https://i.ebayimg.com/images/g/QX8AAeSweBRoFi5n/s-l225.jpg",
-      "color": "Banana Republic Sweater Gray Long Sleeve Pullover Mock Neck Sweatshirt Men L NWT",
-      "available_sizes": [
-        "L"
-      ]
-    },
-    {
       "title": "NWOT! Brooks Brothers 1818 Supima Navy Blue Joggers Men\u2019s Size XL Sweatpants ",
       "brand": "Brooks Brothers",
       "tier": "A",
@@ -1626,12 +1565,12 @@
       "original_price": 120,
       "discount_percent": 68.3,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/267804555943?_skw=Brooks+Brothers+men%27s+jogger&hash=item3e5a653aa7:g:~QMAAeSwFd5p6gEw&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kv9beKByN3c5bpUmtlpik4wq73SoekBEDwUh0spfVpMcN3ytCdfigVv%2FfTIUGOeO3jv8z2rEzaVLwYgSvduffpa2cxQuiLUh8PczsEr5QSH41bKKWvclPgEKy6wuQEZm4z473fqdF0dGUU36QN%2FyER9BB3%2Bt4V2%2BZYQRZHvBsIbUZV%2BKfWUfKq5U6VaJ%2F2Lbx3MKCwuuQlRK%2FpT%2BK7Gb3bLQJ3SE%2BwP85Hspt1ndywkYqewrRAXNiV0nQ8vcC2LUqko6N%2Bco%2BBynrJk6vHS%2BciefGHgy8LUUotE09KHr76awijpTcyxzIAuhcz71v5gyY%3D",
+      "url": "https://www.ebay.com/itm/267804555943?_skw=Brooks+Brothers+men%27s+jogger&hash=item3e5a653aa7:g:~QMAAeSwFd5p6gEw&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kv9beKByN3c5bpUmtlpik4wq73SoekBEDwUh0spfVpMcN3ytCdfigVv%2FfTIUGOeO3jv8z2rEzaVLwYgSvduffpa2cxQuiLUh8PczsEr5QSH41bKKWvclPgEKy6wuQEZm7UqBnezoWVk8A5D6Se4JuW7iHu0hT%2F9WgG3jnh3HBubpKtYeCTt3WPDCfIjEXXEzA7Lj1Q9c11J%2BW7zYym4iLmC%2BqgjRHHJCaAbgDNgxUBZAXfhJyykXtAqhpTzLr83X3KZ56Ayizovz9B6sBQwdtWS%2F8%2BPbK2JySvmHm36l1YKjflkdPHWrgAbQn44%2B%2Bpq6s%3D",
       "image_url": "https://i.ebayimg.com/images/g/~QMAAeSwFd5p6gEw/s-l225.jpg",
       "color": "NWOT! Brooks Brothers 1818 Supima Navy Blue Joggers Men\u2019s Size XL Sweatpants ",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -1647,8 +1586,8 @@
       "color": "Peter Millar Crown Sweater Full-Zip Fleece Vest Navy Blue Men's XL X-Large, NEW",
       "available_sizes": [
         "L",
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -1667,6 +1606,21 @@
       ]
     },
     {
+      "title": "J Crew The Sporting Life Joggers Pants Men M 31 X 27 Beige Cotton Blend",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 28.95,
+      "original_price": 90,
+      "discount_percent": 67.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/205744059773?_skw=J.Crew+men%27s+jogger&hash=item2fe74d357d:g:pMwAAeSwqBpo1CyA",
+      "image_url": "https://i.ebayimg.com/images/g/pMwAAeSwqBpo1CyA/s-l225.jpg",
+      "color": "J Crew The Sporting Life Joggers Pants Men M 31 X 27 Beige Cotton Blend",
+      "available_sizes": [
+        "M"
+      ]
+    },
+    {
       "title": "Peter Millar Shirt Men's XL Crown Sport Navy Blue Short Sleeve Stretch Polo",
       "brand": "Peter Millar",
       "tier": "S",
@@ -1678,8 +1632,8 @@
       "image_url": "https://i.ebayimg.com/images/g/ytMAAeSwaFdpwEmm/s-l225.jpg",
       "color": "Peter Millar Shirt Men's XL Crown Sport Navy Blue Short Sleeve Stretch Polo",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -1721,7 +1675,7 @@
       "original_price": 120,
       "discount_percent": 66.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/237075190452?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item3732c852b4:g:MGkAAeSwNn5oqEKS&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nshpVBeyLCwAldv5zA%2BA4U5IiFWUtf%2FHcxtJD0E0PdnQjJ20buD8cq6zG%2BVz09NlpIooA2mcW3zD8Td6y1tPVaM2O%2Bwod%2B9%2Benka36OyUz40M3Jg0HkuQlq3RSzfFUabAT1ceUQMWKMgq7ViIlu4khsK4TeeL9i%2B6ywdqWkmz7e4q2NJOOfwJSK7qD%2Bta4Rd8aU3BBxYTBv0WoTfg9ynccSDDA2LP%2F6dTPHe9TayYZXaFbbI8B03PH8nHH%2Fda62dAOom4jXVbmYwyh%2FZFD6Z7vDlKpE%2F3Sp5KgTPo8mHMsV5etMViSQ2CR6kyO852KHf4%3D",
+      "url": "https://www.ebay.com/itm/237075190452?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item3732c852b4:g:MGkAAeSwNn5oqEKS",
       "image_url": "https://i.ebayimg.com/images/g/MGkAAeSwNn5oqEKS/s-l225.jpg",
       "color": "Brooks Brothers Striped Fleece Sweatshirt Medium Navy Red Lamb Logo",
       "available_sizes": [
@@ -1740,8 +1694,39 @@
       "image_url": "https://i.ebayimg.com/images/g/8JQAAeSwJD9q9L1y/s-l225.jpg",
       "color": "Brooks Brothers Men\u2019s XL Extra Fine Italian Merino Wool Mock Neck Sweater Gray",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Saxon Wool V-Neck Sweater Vest Black L Lightweight Knit",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 40.0,
+      "original_price": 120,
+      "discount_percent": 66.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/307278015566?_skw=Brooks+Brothers+men%27s+sweater&hash=item478b326c4e:g:nJEAAeSwN0Bq9MrA",
+      "image_url": "https://i.ebayimg.com/images/g/nJEAAeSwN0Bq9MrA/s-l225.jpg",
+      "color": "Brooks Brothers Saxon Wool V-Neck Sweater Vest Black L Lightweight Knit",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "New Brooks Brothers Seersucker Camp Shirt Men's Large Navy Blue Short Sleeve NWT",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 39.99,
+      "original_price": 120,
+      "discount_percent": 66.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/267841071307?_skw=Brooks+Brothers+men%27s+short&hash=item3e5c9268cb:g:o5QAAeSwj~Zq9OAN&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mszn%2FNgxU6oTVcKeJ7WfHJ4VF%2BeQNApt36olskcCBPx%2BAF5Wnv9siEDCQ3Vf7xvqX%2BXlRQh4h%2Fps2CCIomSh1klOOnnQiAlOw5KFEz%2FtSMHuG2Eg2DMVivkn7KIinVQFQInjaMw3%2FLdS6t1IKTrkB6V1r9Lb2T2NcZPCOz%2FaVnDNv9Oj%2BM0gaG9qHdOUTbOiStKFn90IYb2yoxCyEmNzU5%2FRvS5tE0W9aMj6v8aE2GMzvZjGlawsQKwC%2Fuyabpk3bEdE%2B5DUrpSeBK6n3kX0Bp7kuET%2BYBRumVJX8x8Ru0AxX7Q7tuAYsdqtz9lJiIsBM%3D",
+      "image_url": "https://i.ebayimg.com/images/g/o5QAAeSwj~Zq9OAN/s-l225.jpg",
+      "color": "New Brooks Brothers Seersucker Camp Shirt Men's Large Navy Blue Short Sleeve NWT",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -1772,8 +1757,8 @@
       "image_url": "https://i.ebayimg.com/images/g/wv0AAeSw7LZp9c9j/s-l225.jpg",
       "color": "Men\u2019s J.Crew Gray Sweatpants XXL Tall Jogger Lounge Athletic Pants Cozy Casual",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -1789,6 +1774,38 @@
       "color": "Nwt J. Crew  Mens Jaquard Rib Knit Jogger Pant size XL Tall Black",
       "available_sizes": [
         "XLT"
+      ]
+    },
+    {
+      "title": "J.Crew Garment Dyed Slub Cotton Pocket T-Shirt Men's XL Navy Blue Crewneck NWT",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 29.99,
+      "original_price": 90,
+      "discount_percent": 66.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/920102756711?_skw=J.Crew+men%27s+t-shirt&hash=itemd63a65e167:g:GzcAAeSwiI9q6qnH",
+      "image_url": "https://i.ebayimg.com/images/g/GzcAAeSwiI9q6qnH/s-l225.jpg",
+      "color": "J.Crew Garment Dyed Slub Cotton Pocket T-Shirt Men's XL Navy Blue Crewneck NWT",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Barbour Men's 100% Wool Sweater Size XL Tursdale Fair Isle Crew Neck Navy NEW",
+      "brand": "Barbour",
+      "tier": "S",
+      "price": 78.0,
+      "original_price": 230,
+      "discount_percent": 66.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/298708049286?_skw=Barbour+men%27s+sweater&hash=item458c631d86:g:qGwAAeSwSL1or4t9",
+      "image_url": "https://i.ebayimg.com/images/g/qGwAAeSwSL1or4t9/s-l225.jpg",
+      "color": "Barbour Men's 100% Wool Sweater Size XL Tursdale Fair Isle Crew Neck Navy NEW",
+      "available_sizes": [
+        "XL",
+        "S"
       ]
     },
     {
@@ -1845,7 +1862,7 @@
       "original_price": 115,
       "discount_percent": 65.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/900020636466?_skw=Vineyard+Vines+men%27s+overshirt&hash=itemd18d690b32:g:4wIAAeSwzkRq09Lc&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mPVIgGx%2BOw9eZgR4E678UbkzxnDVSO36C9RHckwOgPCJ%2FhaRKM0M%2B0WuWyt5W%2BlucFFA3J7I8vf4UHKo40v%2Bb8F%2BRNDbjiHC0UpXSkMKLaPe9hKZfY6HmmlYFPp6ZVTtrtZigEH5ufsb7J2pX1enGhgJZufDruFzeRsR3voJaASAssnMIppgEGbmOG0mY2pWFJ2VeriktffAXrrvFhPTH6fW6LFVOmGycVYJs5UOB43objHR5Ju8Gs0WE8gY8gRxcaAFk6uO2b2WEEwWl9ZpqKP%2FIag0SvAftcwdAGImuYPBwmPFxGRNi7H6YhdZo2K7E%3D",
+      "url": "https://www.ebay.com/itm/900020636466?_skw=Vineyard+Vines+men%27s+overshirt&hash=itemd18d690b32:g:4wIAAeSwzkRq09Lc&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mPVIgGx%2BOw9eZgR4E678UbkzxnDVSO36C9RHckwOgPCJ%2FhaRKM0M%2B0WuWyt5W%2BlucFFA3J7I8vf4UHKo40v%2Bb8F%2BRNDbjiHC0UpXSkMKLaPe9hKZfY6HmmlYFPp6ZVTtor51ANrHOXzzBYbl9khRKsixwJlCsieNsp4Id9VTu1nAO37kNhRY8CC9H2JJ%2BdPmG2HZ1JgmUgNCKO3zqEzlAhlVAbNN%2BI3AR0xJdSsllb6GDJW0hTOLmxKYl2Am7%2FaB%2BXWG8PoaQlE1%2BixwEtHgMFq1VOLULZfbiITv1l8ujaMBnJDJ3EUM8oUM1F2ThNYO0%3D",
       "image_url": "https://i.ebayimg.com/images/g/4wIAAeSwzkRq09Lc/s-l225.jpg",
       "color": "Vineyard Vines On The Go Overshirt Photo Ultimate Gray Men's Size Large New",
       "available_sizes": [
@@ -1861,7 +1878,7 @@
       "original_price": 115,
       "discount_percent": 65.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/336337590943?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=item4e4f485a9f:g:~EUAAeSwPOlpOXBJ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kY19M2kjT6Ot9iqzxY5DNMz6PtkAXa5a7IQTcs9iyHas%2BOsAZt5ZV69Xsftp3kaZ9Plp--CRmlY99zpOwyVWs76UP1vAONRLGa6RiL9QVFkQLBja%2FRwnd8q0Lq4AFe0boVSKAoO2onzzxPojYeY1wn3injgUrTMhP85CafuyXO7EaBK4BFOJWyQNTIzwgG%2FwlhYhcAS72qufLQ3tvx0JWMzgZ13RoSgsFf%2B7uV%2FTKvmG%2BKKxZdp8gmCN29g37weACIGhfHGcgeeTyCX1a%2FTB57z1vlc16dV2zpGnBoGtGNfNNbfSoN18XxwaGQJFarhsE%3D",
+      "url": "https://www.ebay.com/itm/336337590943?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=item4e4f485a9f:g:~EUAAeSwPOlpOXBJ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kY19M2kjT6Ot9iqzxY5DNMz6PtkAXa5a7IQTcs9iyHas%2BOsAZt5ZV69Xsftp3kaZ9Plp--CRmlY99zpOwyVWs76UP1vAONRLGa6RiL9QVFkQLBja%2FRwnd8q0Lq4AFe0brhaVCZWo%2BBZH4OqBVEpkpCSzUTzGWAA9m9ZyMzWkpr49f37Z%2BQt%2BknjddxX3sGL%2FC4sTYZIp3Vo15RifTnXvwf%2FtLoVD7OFmIz2dDQsAyYk9ENDzOm6hZ8a44UbrW8K%2FrfWTfCP3wbUJr7h2%2Fr%2BYjIb0mBkRZpnAcgRojo0JPfYUJa4qb1ObeqwQoE6bZZMeI%3D",
       "image_url": "https://i.ebayimg.com/images/g/~EUAAeSwPOlpOXBJ/s-l225.jpg",
       "color": "Vineyard Vines IPSEN Sweatshirt Mens Medium Navy Shep Shirt Long Sleeve 1/4 Zip",
       "available_sizes": [
@@ -1876,7 +1893,7 @@
       "original_price": 155,
       "discount_percent": 64.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/278292567543?_skw=Peter+Millar+men%27s+jogger&hash=item40cb8795f7:g:Lz8AAeSwkuZqAJaD&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ljjSdz2eP9df22BRaiiTudjLL13HUIaSIFPlTUEnd2dBWIW2Afj362s9QCzT2dL0tKS2tlRpLG9uVz289zLYiC%2BLTNtWmAYuPpc8LUqoqTO8ZP71EwnmKOa0EN47JvL0a6LyIoXzpT7O2NJbzgS7D2Jkjyfk670cSEGMEYAarB5N7Q5ilsN7RqGL%2F6vDcuK8SxiFL3cO5ZS1yjd1uBMAaUQtrVFtMeOKtploIjV8q7KY9u%2Bl0oOeGID0crETKxxTFe3CxTT23dTCQIONSsxE7X5IyeUsMfigk3EF15IYTEsg%3D%3D",
+      "url": "https://www.ebay.com/itm/278292567543?_skw=Peter+Millar+men%27s+jogger&hash=item40cb8795f7:g:Lz8AAeSwkuZqAJaD&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ljjSdz2eP9df22BRaiiTudjLL13HUIaSIFPlTUEnd2dBWIW2Afj362s9QCzT2dL0tKS2tlRpLG9uVz289zLYiC%2BLTNtWmAYuPpc8LUqoqTO8ZP71EwnmKOa0EN47JvL0Y8lLzhv1bD1l6td9NxOG6NG5RopuGoDDqQ0fLz%2BQlE0fEpgRkKuvhmn28wdaHS3nq5C%2FTvqelZCp9fBLVvNv96OnXr%2BmUHYqGoxXSLDUM6VhM4CZz%2BmWlq8oRzDz2umoGzOLXBjFF0O1jMOx32Z%2BjxTJnCNYh6o7kwKFdUJV7qEg%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/Lz8AAeSwkuZqAJaD/s-l225.jpg",
       "color": "Peter Millar Pants Joggers Crown Pocket Logo XXL Navy Blue Cotton NWT MSRP $135",
       "available_sizes": [
@@ -1922,7 +1939,7 @@
       "original_price": 120,
       "discount_percent": 64.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/147672040223?_skw=Brooks+Brothers+men%27s+sweater&hash=item2261f0831f:g:whsAAeSwNkdqx8A0&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCL7tUtpxFTg8DBfyuBO%2FRuW0pdiJeuCH3NL5KE2xrWaadTGVfpTG%2BdaMBGUe5vEsyyXT0UY%2FbRnLSP1QYKP5XN4ysjenr73WpQ24Y6ApgSjpTn6TTCnRnKUE0vGdcdod0nyph%2BeNSWjRbLwIeg30mCSlKEvHSws11NyfmHsvpRGHZ4ib93Gd5lAmGFmwyETbEWZJ4rLbpBO42eWNeFGnRpza4IcXAmDgCgADLECAap9FmLoX5DqzgI868ewQDIpaMwkoBdkc9MVmmdyxtakRnBtw0FN4G5d4PkskEDitMsdd%2BesAsG8Op54HOB%2BFvP%2Fs%3D",
+      "url": "https://www.ebay.com/itm/147672040223?_skw=Brooks+Brothers+men%27s+sweater&hash=item2261f0831f:g:whsAAeSwNkdqx8A0&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCL7tUtpxFTg8DBfyuBO%2FRuW0pdiJeuCH3NL5KE2xrWaadTGVfpTG%2BdaMBGUe5vEsyyXT0UY%2FbRnLSP1QYKP5XN4ysjenr73WpQ24Y6ApgSjpTn6TTCnRnKUE0vGdcdoeCo0t96r3sFEnkExy3TOCNb8P7o0x%2FbueM3vm2zY8uz%2F4LLhfkegPequHXyLCainISlWb1N9cZp5s1prniJTVWkajFV0w2Oyw1EwXeZEi%2FjYwAeGwkUwvw86iYZZzUcHyP2qCm06zfEn1ZiekXTuqcXa3zNC2%2BNNi0IymFdS3HxoavNbdal0sbSkR5mmxncVs%3D",
       "image_url": "https://i.ebayimg.com/images/g/whsAAeSwNkdqx8A0/s-l225.jpg",
       "color": "\u200bNWT $60 Brooks Brothers Mens 346 Navy Blue 100% Cotton Crewneck Sweater Size L",
       "available_sizes": [
@@ -1984,12 +2001,12 @@
       "original_price": 120,
       "discount_percent": 64.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/860073209327?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=itemc8405badef:g:c3wAAeSw8sRo--rW&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ldoLwjsQIF6n%2FuWZHDjiAQs3SmgfHaeAj22fTMzKkOayAFU4Zo8GsIa5lEiYQuqzYnna7Z2oN5ot1gRts0inM0n1SQ7aIu9aiPkEtpdjkFeqFcRFlk3bA6cSuWvOO%2BrtGxpQEHVDsRQVLYYK%2Bnkv45ipMBzyJiHKASjywm22B98zLW3%2FBPjC%2FygP6puC93JPyGjd8Lit9DhD8A7bOy%2Fa9YrcmBtuUlGC13oXfL8%2BPbHr4%2Fml%2FsAJ4UlMDUfkAC7ZhyQigNUckKs2WAxmfKstWDTJwzr7cQEXDlonAzzFBu29SMaY4mDJ%2BVsBSMatXi0i4%3D",
+      "url": "https://www.ebay.com/itm/860073209327?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=itemc8405badef:g:c3wAAeSw8sRo--rW&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ldoLwjsQIF6n%2FuWZHDjiAQs3SmgfHaeAj22fTMzKkOayAFU4Zo8GsIa5lEiYQuqzYnna7Z2oN5ot1gRts0inM0n1SQ7aIu9aiPkEtpdjkFeqFcRFlk3bA6cSuWvOO%2BrtFnLFG3uL7mo6YzzGfhQvMQo%2Ba%2FrIX1Al5iPFtR6aaxCLG4iYkQxvEXyfgVoMb0rCnC6e3OCzZmCcmT2HZ1Lcg39UoVCeBFsjoEnXGpPwqn8rBeDgEp1ANNNQYjeHC9UJXn0kR84F%2BYeZeVEacKbcHTgoGVROnrss5zlheWCGNFbVzCrM0ehW%2BTyeBi9u%2FPOoc%3D",
       "image_url": "https://i.ebayimg.com/images/g/c3wAAeSw8sRo--rW/s-l225.jpg",
       "color": "Men's Brooks Brothers Crewneck Sweatshirt Size XL Gray 100% Cotton Preppy",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -2015,26 +2032,11 @@
       "original_price": 95,
       "discount_percent": 63.3,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/287480794577?_skw=Lululemon+men%27s+sweatshirt&hash=item42ef30cdd1:g:ihsAAeSw1fdqN2~y&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kWfmtDzuX9zdZ3Fh3X5Wx5JN3ikTwYSBkZ%2B506AZk1sXH3dDa53Ml3m8Zc6AtnGcqd0%2BO9zwc%2BO2cdVJyjNhP%2Ba7ZjazOU9n6k6NFwuGMbqghvGYbtechsh5J3kpM0LM%2FH05zx%2FvN0jQggbcs4FEz5X%2FJwzYs2m5ack9QsvZInnLqIQGkwNofdrpD9BAi%2Fr4ixGIczqTkw57UT5JzTwt7qaUj7Aa6n%2Bj0vHhaIzIXF44A9y86eOAk0N4VZJTcHFfT5X%2BTfsKpbseKQmWreu550gaU29elLv%2B%2FBHEalBxgxC2795%2FrToaeyTOVL0Kb5W6o%3D",
+      "url": "https://www.ebay.com/itm/287480794577?_skw=Lululemon+men%27s+sweatshirt&hash=item42ef30cdd1:g:ihsAAeSw1fdqN2~y&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kWfmtDzuX9zdZ3Fh3X5Wx5JN3ikTwYSBkZ%2B506AZk1sXH3dDa53Ml3m8Zc6AtnGcqd0%2BO9zwc%2BO2cdVJyjNhP%2Ba7ZjazOU9n6k6NFwuGMbqghvGYbtechsh5J3kpM0LM8bSIcci499KGSYJbOM95fIpYP4d3k%2FdrKQz430jFz2gJp6G16yfQUSb%2Bw4Qy%2B6UJSz4%2FAAOklODUttfMewe28svED4pjJ2F2qAMEBePYpSX5WVYeLLcpeJNophamlhiP60jFluJhKN6NQHVIELWvUdjo0uNnWC3r8d6mLPoFSG5gH3QL%2B3gqj1mOrSkpwuNmg%3D",
       "image_url": "https://i.ebayimg.com/images/g/ihsAAeSw1fdqN2~y/s-l225.jpg",
       "color": "NEW Lululemon City Sweat Hoodie Mens Medium Black Zip Sweatshirt Performance -",
       "available_sizes": [
         "M"
-      ]
-    },
-    {
-      "title": "NWT J.Crew Shirt Jacket Mens Large Grey Speckled Wool Blend Overshirt CO288",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 33.0,
-      "original_price": 90,
-      "discount_percent": 63.3,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/820312304102?_skw=J.Crew+men%27s+overshirt&hash=itembefe6c69e6:g:g38AAeSwvE9q6mJb",
-      "image_url": "https://i.ebayimg.com/images/g/g38AAeSwvE9q6mJb/s-l225.jpg",
-      "color": "NWT J.Crew Shirt Jacket Mens Large Grey Speckled Wool Blend Overshirt CO288",
-      "available_sizes": [
-        "L"
       ]
     },
     {
@@ -2053,6 +2055,36 @@
       ]
     },
     {
+      "title": "Lululemon License to Train Linerless Short 7\" Black XL",
+      "brand": "Lululemon",
+      "tier": "?",
+      "price": 35.0,
+      "original_price": 95,
+      "discount_percent": 63.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/377640044464?_skw=Lululemon+men%27s+short&hash=item57ed19c7b0:g:CCgAAeSw50dq9cOe",
+      "image_url": "https://i.ebayimg.com/images/g/CCgAAeSw50dq9cOe/s-l225.jpg",
+      "color": "Lululemon License to Train Linerless Short 7\" Black XL",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "lululemon Zeroed In Short Sleeve Moisture Wicking Crew Tee Gray Size L",
+      "brand": "Lululemon",
+      "tier": "?",
+      "price": 35.0,
+      "original_price": 95,
+      "discount_percent": 63.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/267841281444?_skw=Lululemon+men%27s+t-shirt&hash=item3e5c959da4:g:ZtwAAeSwhIlq9T1d",
+      "image_url": "https://i.ebayimg.com/images/g/ZtwAAeSwhIlq9T1d/s-l225.jpg",
+      "color": "lululemon Zeroed In Short Sleeve Moisture Wicking Crew Tee Gray Size L",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
       "title": "Banana Republic Pullover Sweater | Men\u2019s Medium | Navy Solid Knit Collared | NWT",
       "brand": "Banana Republic",
       "tier": "?",
@@ -2060,12 +2092,28 @@
       "original_price": 95,
       "discount_percent": 63.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/198678396899?_skw=Banana+Republic+men%27s+sweater&hash=item2e4227bfe3:g:X3IAAeSwn6dqvB4u&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ldU%2F6nG%2BxXr131CHfDb%2FH%2FVXol29hM53IM%2BHDeDrggFWXEcQ5%2BWWMW1LQhe7VU5DQ1NmF3X8A6MIHwgq%2FJx6vfuwV%2BNbdnnNSD78ySOmbnNJIVa7ZV%2FJCno9KQzdgkUw0RmT40rp5Q9xXSFHWKJz7xR%2BnCF2QB957bMHAFFag%2FU4AvQPSkoaO6uYP37gtDPCRcpIz9NgpHrCn8ShnHwLUm8eTYuZeN8sQ7hemvRoGmgqvvbut6tledIeIqaRm8R59cQYWsNzfjgRRIDkPY6aIh2tL4uxlYQqBVLjzVq0jO2%2F5G1eYGptIY6UsWpvBe0Jw%3D",
+      "url": "https://www.ebay.com/itm/198678396899?_skw=Banana+Republic+men%27s+sweater&hash=item2e4227bfe3:g:X3IAAeSwn6dqvB4u&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ldU%2F6nG%2BxXr131CHfDb%2FH%2FVXol29hM53IM%2BHDeDrggFWXEcQ5%2BWWMW1LQhe7VU5DQ1NmF3X8A6MIHwgq%2FJx6vfuwV%2BNbdnnNSD78ySOmbnNJIVa7ZV%2FJCno9KQzdgkUw1h7EqX4Jwmakl3ErVBxvQnt%2FLWPfwUCwB32ivEjSZoHAL1WLVkaL%2F%2BR73uxWsMyLVzQci85Pc3NECZHaBlkZkeT%2F4k%2FG7POWmoqv64N7skqYs8LGjW73g7%2FEh2mwsXiLdLy9AGyE4w5M7%2BcJ7ZxL0djZoagY9Iu%2B6VB2MeB3%2BWNH3vOcxugWcFTddnNe1%2BsEQ%3D",
       "image_url": "https://i.ebayimg.com/images/g/X3IAAeSwn6dqvB4u/s-l225.jpg",
       "color": "Banana Republic Pullover Sweater | Men\u2019s Medium | Navy Solid Knit Collared | NWT",
       "available_sizes": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "NWT Men's Banana Republic (Retail not Outlet) LS Gray Snap Neck Shirt Gray Large",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 35.0,
+      "original_price": 95,
+      "discount_percent": 63.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/198780142308?_skw=Banana+Republic+men%27s+sweater&hash=item2e483842e4:g:fGYAAeSw6ZBq76cB",
+      "image_url": "https://i.ebayimg.com/images/g/fGYAAeSw6ZBq76cB/s-l225.jpg",
+      "color": "NWT Men's Banana Republic (Retail not Outlet) LS Gray Snap Neck Shirt Gray Large",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -2076,7 +2124,7 @@
       "original_price": 95,
       "discount_percent": 63.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/377634424971?_skw=Banana+Republic+men%27s+sweater&hash=item57ecc4088b:g:INMAAeSwRglq8rld&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m2ZbCDfqdc8HdJOHEV05Ux4cUktQai3DEWvnkXvgQPvtL5wh9RBJKvKNGpfox3u425IBYNmGEnF%2FvZrCSmfQ7zn8lXqc9G8LGp1h%2BBioTZOGNeM2qV9UbCwluSf0F761wk34yizmJJWomZUYyHn49vdR%2B0j4aPRmf2ycGg6Qd4MqvcLJ6EbOHO3s7QlDm6iEN0WyDLsz2yzSAOl%2BAD0VVq3aCi4CtQscFrYh7komGGZIPNj%2BNM9KeDCttqNLi9Zyfuc3xMRKDGRAqbtFpId4ZNDvoYD5XC0nJvPT65BQ7T39EtFOhjvYUmE8SNSWw6vWU%3D",
+      "url": "https://www.ebay.com/itm/377634424971?_skw=Banana+Republic+men%27s+quarter+zip&hash=item57ecc4088b:g:INMAAeSwRglq8rld&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m2ZbCDfqdc8HdJOHEV05UxBPzs9P%2F44oqsW8hYBzL%2BrhDB%2FObIPkvqYoRwfizxewW0odVGFfuQ9nFz%2FqPSTEMJUybCz6hdD1WBcaDHNF4dPYGbZF6oFfFamwvIqpL3Q9bI5gKmuYwZUIQnpU93KaDvhL1WKpjCnESGJIaYZ6OiuU%2BgWHwa1wNg0F3DyBxORYhJoB5Pc5UcyTrBxIQrbjn9TOJWse2emcWEzq1hoijlBgrOVk8Z8a%2Fjg5EHHLZefVcbchip7g8bnwLM7mJotQN0qwuawndv1csWZE95sckgx43Q2mYbxaj%2BvyY1k7D7qKw%3D",
       "image_url": "https://i.ebayimg.com/images/g/INMAAeSwRglq8rld/s-l225.jpg",
       "color": "Banana Republic Mens Gray Quarter Zip Cotton Sweater Shoulder Patch 655258 L",
       "available_sizes": [
@@ -2084,48 +2132,18 @@
       ]
     },
     {
-      "title": "Banana Republic Sweater Mens Large Navy Blue Waffle Knit Quarter Zip NEW",
+      "title": "Banana Republic Men's Gray Quarter Zip Pullover Sweater Elbow Patches M NWT",
       "brand": "Banana Republic",
       "tier": "?",
       "price": 34.99,
       "original_price": 95,
       "discount_percent": 63.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/800901140795?_skw=Banana+Republic+men%27s+quarter+zip&hash=itemba796d913b:g:5f0AAeSwb6dq84Ab&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kbRgWqFHiDyPfJZNKj1F2FREefbChdxQUg277upa8tHftfURPA7L21CfnDVKHHGO1yttRJz73RUkQgQvt9a3cWAwpBA%2FGi1dzIn3maWefdWkgyiY9WbuBaLqFx%2B%2F0NZeUT72GJ2Uilif%2FqzxupECryXkeVeyGCdQY6TKqmUvOoBKQbOwjvmCw8icf4nDdoHZMVgrWNRbTjlzAbXBzIBlWsLnp2OmR9zM6jDBZlB7gRWKeTp1Zf9p85SVWWRR%2F8HHoEisFYK9%2BbohcE5oK0FlYlk2Mpjv6xlBVhYl3myCMsrzu2bk8vf0X0e14Xfxa0NHY%3D",
-      "image_url": "https://i.ebayimg.com/images/g/5f0AAeSwb6dq84Ab/s-l225.jpg",
-      "color": "Banana Republic Sweater Mens Large Navy Blue Waffle Knit Quarter Zip NEW",
-      "available_sizes": [
-        "L"
-      ]
-    },
-    {
-      "title": "Polo Ralph Lauren Men\u2019s Beige Cotton Knit Crew Neck Logo Pullover Sweater XL",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 48.0,
-      "original_price": 130,
-      "discount_percent": 63.1,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/227600403076?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item34fe0a8a84:g:py4AAeSw5PBq7UDs",
-      "image_url": "https://i.ebayimg.com/images/g/py4AAeSw5PBq7UDs/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men\u2019s Beige Cotton Knit Crew Neck Logo Pullover Sweater XL",
+      "url": "https://www.ebay.com/itm/940038515217?_skw=Banana+Republic+men%27s+quarter+zip&hash=itemdadea96a11:g:G2EAAeSwGClq1s~t",
+      "image_url": "https://i.ebayimg.com/images/g/G2EAAeSwGClq1s~t/s-l225.jpg",
+      "color": "Banana Republic Men's Gray Quarter Zip Pullover Sweater Elbow Patches M NWT",
       "available_sizes": [
         "S",
-        "XL"
-      ]
-    },
-    {
-      "title": "POLO RALPH LAUREN IVORY SIZE  M PERFORMANCE MENS FULL-ZIP CARDIGAN SWEATER",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 48.0,
-      "original_price": 130,
-      "discount_percent": 63.1,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/287712506604?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item42fd0072ec:g:cbQAAeSw87Bq74zy",
-      "image_url": "https://i.ebayimg.com/images/g/cbQAAeSw87Bq74zy/s-l225.jpg",
-      "color": "POLO RALPH LAUREN IVORY SIZE  M PERFORMANCE MENS FULL-ZIP CARDIGAN SWEATER",
-      "available_sizes": [
         "M"
       ]
     },
@@ -2169,7 +2187,7 @@
       "original_price": 120,
       "discount_percent": 62.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/960154179280?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=itemdf8da616d0:g:PwEAAeSwaYxq62vX&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ny1ECVnD0MBI3CSSL6In62SComjpBnHuiQGO8xbleEG8c2%2FsbsP5YejuXE8XahKvjb0PvQG7R6rIjjQYNESt%2BLFIm8CY9rtCXSZc0gM7Mfw%2BnadgyX6GqM23DiVZPeJAFrWShsqpw6SnNaEoGYVQ%2FZiAz%2Btlwi1xPyMMbbdust9jz1zl5Ofj51mHzXMiinIGlKz5zE7YxANPUcy73SEEGHHd9hQRGzuGYcj7FSnVmot%2F1La6agmQ7jgKiW%2BiFlv9E0dd4dACvFz2UFhmQPdYawKebPf51%2Fp09LzSF76cuMPNZuJYTCrIRi6Q94S5dV1xM%3D",
+      "url": "https://www.ebay.com/itm/960154179280?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=itemdf8da616d0:g:PwEAAeSwaYxq62vX&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ny1ECVnD0MBI3CSSL6In62SComjpBnHuiQGO8xbleEG8c2%2FsbsP5YejuXE8XahKvjb0PvQG7R6rIjjQYNESt%2BLFIm8CY9rtCXSZc0gM7Mfw%2BnadgyX6GqM23DiVZPeJAGPMEpqizy3XMF3VxvVUZJNl2ZDwm%2FbzNnKx5f78tZGy55qLO5U42P406HzR6ZhTHZC0HdB13woo1nOv13u7uTxY7LnMhtad9saxDYg7Jwd0V8hH6wcBtl5w6syQNgPiD4NL2t6xqIzkhhpI0s7jU8OHwpvEJcf94pRTVcZeAo3imxLwofSpxBzAJT%2FaNdgFqQ%3D",
       "image_url": "https://i.ebayimg.com/images/g/PwEAAeSwaYxq62vX/s-l225.jpg",
       "color": "NWT Brooks Brothers Mens XL Supima Cotton Quarter Zip Sweater Light Grey Heather",
       "available_sizes": [
@@ -2200,7 +2218,7 @@
       "original_price": 90,
       "discount_percent": 62.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/407345453476?_skw=J.Crew+men%27s+jogger&hash=item5ed7ae59a4:g:tQcAAeSwmItqxWiE&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mUwqs4XTLBryjcAkWifDFZ4kAFOy7pfQL6JoXqqtTTg3XmvchmJc1DC56MBqcDFMcWBFBXw2%2FtZDCB8nGh7GCFxE0JGfaBj9%2F5TwVfMGk2%2FHOWTMUU7LnVFMW%2FCQYX%2BEhaUHv%2BE8sr5Fz4MzdbSQvxzBloTa8VTFSF1MoxDcynzLRA69oegKS4su6aVv%2BJwXk17b7EewX%2BNzkf4CeirKQMImdW%2Bh7Gu5mkX4AdZtO8smvut1sjHMaE1hsdkZoLRZeOwtC9lgEVjBtwQiOnoJAxYdaYiZR7TCBQVl%2BKQ8wNEg%3D%3D",
+      "url": "https://www.ebay.com/itm/407345453476?_skw=J.Crew+men%27s+jogger&hash=item5ed7ae59a4:g:tQcAAeSwmItqxWiE&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mUwqs4XTLBryjcAkWifDFZ4kAFOy7pfQL6JoXqqtTTg3XmvchmJc1DC56MBqcDFMcWBFBXw2%2FtZDCB8nGh7GCFxE0JGfaBj9%2F5TwVfMGk2%2FHOWTMUU7LnVFMW%2FCQYX%2BEhyS203iEh1SBRkqHKcDwclyFYzkf9XqUzUc7nJvgXMg8vPDvKV8eX0LgEqgLLkvrWpgnb%2BOCEe7bACiQLsYpdmF%2B0jkFz9pSkxo%2B%2FJoGLM2bIMqjvAscLiqCpji4fFSzyB4%2FT%2F0eETX4V6LvXPiwzYmnVAcnoGPQBC5l1aBVPYqQ%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/tQcAAeSwmItqxWiE/s-l225.jpg",
       "color": "J.Crew Mens Gray Textured Knit Drawstring Jogger Sweatpants Size L NEW",
       "available_sizes": [
@@ -2276,21 +2294,6 @@
       ]
     },
     {
-      "title": "Peter Millar Crown Sport Mens Medium Gray Striped Quarter Zip Golf Pullover",
-      "brand": "Peter Millar",
-      "tier": "S",
-      "price": 60.0,
-      "original_price": 155,
-      "discount_percent": 61.3,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/820324780745?_skw=Peter+Millar+men%27s+quarter+zip&hash=itembeff2acac9:g:es0AAeSwyEpq7guk",
-      "image_url": "https://i.ebayimg.com/images/g/es0AAeSwyEpq7guk/s-l225.jpg",
-      "color": "Peter Millar Crown Sport Mens Medium Gray Striped Quarter Zip Golf Pullover",
-      "available_sizes": [
-        "M"
-      ]
-    },
-    {
       "title": "Peter Millar Crown Sport Active Atlas Performance Jogger Pant Black Mens XXL NEW",
       "brand": "Peter Millar",
       "tier": "S",
@@ -2319,6 +2322,21 @@
       "available_sizes": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "PETER MILLAR Mens XL LAVA WASH HOODIE WASHED BLACK PULLOVER SWEATSHIRT",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 59.99,
+      "original_price": 155,
+      "discount_percent": 61.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227608883362?_skw=Peter+Millar+men%27s+sweatshirt&hash=item34fe8bf0a2:g:~REAAeSw21hq8~W0",
+      "image_url": "https://i.ebayimg.com/images/g/~REAAeSw21hq8~W0/s-l225.jpg",
+      "color": "PETER MILLAR Mens XL LAVA WASH HOODIE WASHED BLACK PULLOVER SWEATSHIRT",
+      "available_sizes": [
+        "XL"
       ]
     },
     {
@@ -2375,27 +2393,11 @@
       "original_price": 90,
       "discount_percent": 61.1,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/900040370821?_skw=J.Crew+men%27s+overshirt&hash=itemd18e962a85:g:~9gAAeSwQ~5q3l4o&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ksfZMsPE6dZg0ynl%2FUzOJn8CSJqHzqSAJ2nqW2aeEXKHuLVI1TysaIRI6qL43nEPn86Qx7LuwiyU7YkNiee%2B40guNfx%2BO2Tu%2BmXBxaiK%2FKP7DX7Q5jPCJMOkQ1YPXHFc3mTXIXeXggZLpbczLYHU6ql%2BoV3utAc0UkFHGAAVSnNY8MT36oJNVwg1ymBn1l2uuC5USp13NIO%2F6of4N9HUw3vYvwJcdUNaPrz2%2F1htW81E1cNKabqoZDJH7MtpsB6pucasXzH0QgK4DP0hvoKgXQ5RgFruLWrCDC%2Bc8nvgZSGQ%3D%3D",
+      "url": "https://www.ebay.com/itm/900040370821?_skw=J.Crew+men%27s+overshirt&hash=itemd18e962a85:g:~9gAAeSwQ~5q3l4o&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ksfZMsPE6dZg0ynl%2FUzOJn8CSJqHzqSAJ2nqW2aeEXKHuLVI1TysaIRI6qL43nEPn86Qx7LuwiyU7YkNiee%2B40guNfx%2BO2Tu%2BmXBxaiK%2FKP7DX7Q5jPCJMOkQ1YPXHFc3IkHzqmTuBknSFt%2F2xd2%2BswzuYCHGURuvbIocKkHXFmuRdyvPmBBGo5coHD%2BTbqPMrNM04%2FvX3cOf%2BUxYapFZuw7TeukaUXnEyvj%2F5w7yy4u%2FkHAM1nlVwzTAMiY0Mn%2FB85dnx%2BiO0WdaK69YoPAMzbIw7%2BhwE2c%2BT56tlYecRxw%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/~9gAAeSwQ~5q3l4o/s-l225.jpg",
       "color": "J Crew Mens Large Waffle Knit Shirt Jacket Button Front Beige Overshirt CQ734",
       "available_sizes": [
         "L"
-      ]
-    },
-    {
-      "title": "NWT Banana Republic Men's Navy Blue 1/4 Zip Pullover Sweater Size M",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 36.95,
-      "original_price": 95,
-      "discount_percent": 61.1,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/307271978416?_skw=Banana+Republic+men%27s+quarter+zip&hash=item478ad64db0:g:NEUAAeSw-Udq76kz&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kei94W2Kp4cIcOD0pR%2BbutGUh69yNkztoARk8ocNwSqLmhq2okYAN0Rc2tDdhl7GNr29b%2Fnb9dDytXwrHPaWCS%2FKJW8draBiekLKBEVaJlBlx4if%2BkrNEcZlkbv83LvHtb53hqu67thzFSVFy5Xv1zui%2FugHDbLrSohQkl17BeYVuK2%2FrCBvgvZ26IB9%2Ffv2ZS8YI0bYv1nNgyEv2IBsc8r6y%2B23zPfbZ8otpueO3usabL4CJC4ybCx%2FXJQF7pUcXb2oEQtPbaOiAl86AX1U9fI20wjlXj7hcYSJWZ0T9Vn6U%2F6KZvTmcBtZYCmzmgg1o%3D",
-      "image_url": "https://i.ebayimg.com/images/g/NEUAAeSw-Udq76kz/s-l225.jpg",
-      "color": "NWT Banana Republic Men's Navy Blue 1/4 Zip Pullover Sweater Size M",
-      "available_sizes": [
-        "S",
-        "M"
       ]
     },
     {
@@ -2467,12 +2469,28 @@
       "original_price": 115,
       "discount_percent": 60.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/306908814860?_skw=Vineyard+Vines+men%27s+overshirt&hash=item477530de0c:g:4AEAAeSwwilp8jDo&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lUv3WGF53DAqFjqTn0124ULXzIEuFhjLq0btVO1XoKLpEfaFRYtot4mIFCGcwC8EZ1%2F7tOimMrZdTPO5%2BLGO8UIeZjRmI%2BzMfthY3wj8aAwK9HvyD7NXHmhOnGxddkPfFUvQ%2B13j6btN9QJYalZ1%2BXz1CUrRb%2F1NyEsrRVJJPUQt48XLP6Wst2Kvw%2FNnTt4qv8e5vopc0EhBMKavza05ok4Bu15D7bo3cjgyhelqPOP9M0gYWnuPD%2FWfFJSvNvDjMgSehQZ%2BdobgSzqo62hVMbfSCg3e0OoqoWzrCW0hxzjGgC5rxbUxfkSuU0MoLikP0%3D",
+      "url": "https://www.ebay.com/itm/306908814860?_skw=Vineyard+Vines+men%27s+overshirt&hash=item477530de0c:g:4AEAAeSwwilp8jDo&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lUv3WGF53DAqFjqTn0124ULXzIEuFhjLq0btVO1XoKLpEfaFRYtot4mIFCGcwC8EZ1%2F7tOimMrZdTPO5%2BLGO8UIeZjRmI%2BzMfthY3wj8aAwK9HvyD7NXHmhOnGxddkPfFZ8X2W45QKvgam5ueObGC6FBjt5gXoEo8KPyHzPB7OPxHhkQo8w8RhozR%2BTuoNVW4GBevHVYW8rXdjS1BMpbSgf2PmSXbwMhyxLhTHOl0BAWJcjqbcgqPb919pJcW1D881KM7E0okZlEVdHHY%2B6ag83Ej6Sns96odPbzs5fl3NYvy7FecUzyL%2BbWbIlydyRSo%3D",
       "image_url": "https://i.ebayimg.com/images/g/4AEAAeSwwilp8jDo/s-l225.jpg",
       "color": "Vineyard Vines On The Go Overshirt Photo Ultimate Gray Men's Medium New",
       "available_sizes": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Men's Navy Jogger Pants Size L Drawstring Pockets NWT",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 51.99,
+      "original_price": 130,
+      "discount_percent": 60.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/128189752381?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=item1dd8b4643d:g:yZEAAeSwVoZq9RcR",
+      "image_url": "https://i.ebayimg.com/images/g/yZEAAeSwVoZq9RcR/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men's Navy Jogger Pants Size L Drawstring Pockets NWT",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -2487,24 +2505,23 @@
       "image_url": "https://i.ebayimg.com/images/g/p0UAAeSwHIdpe6Tg/s-l225.jpg",
       "color": "Barbour Men\u2019s Navy Wool Blend Crewneck Sweater Size XL Soft Knitted Classic",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
-      "title": "Brooks Brothers UVA Sweater Men\u2019s L Navy Blue V-Neck Merino Wool Virginia NWT",
-      "brand": "Brooks Brothers",
-      "tier": "A",
-      "price": 47.99,
-      "original_price": 120,
+      "title": "Banana Republic Merino Cashmere Crewneck Sweater Mens XL Ivory Luxury Knit NWT",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 38.0,
+      "original_price": 95,
       "discount_percent": 60.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/880032203361?_skw=Brooks+Brothers+men%27s+sweater&hash=itemcce601c261:g:7M0AAeSwu~Zq1mlc",
-      "image_url": "https://i.ebayimg.com/images/g/7M0AAeSwu~Zq1mlc/s-l225.jpg",
-      "color": "Brooks Brothers UVA Sweater Men\u2019s L Navy Blue V-Neck Merino Wool Virginia NWT",
+      "url": "https://www.ebay.com/itm/860136168267?_skw=Banana+Republic+men%27s+sweater&hash=itemc8441c5b4b:g:-1cAAeSw5xZq9T68",
+      "image_url": "https://i.ebayimg.com/images/g/-1cAAeSw5xZq9T68/s-l225.jpg",
+      "color": "Banana Republic Merino Cashmere Crewneck Sweater Mens XL Ivory Luxury Knit NWT",
       "available_sizes": [
-        "L",
-        "S"
+        "XL"
       ]
     },
     {
@@ -2569,7 +2586,7 @@
       "original_price": 120,
       "discount_percent": 58.3,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/137922408617?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item201cd0f0a9:g:fhgAAeSwxjZq9LWZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kNYp%2BwHJg8lJHIdA2myzQHdHlG9YOKAi63QdTnPCDWAEA%2Bkfl94LDWS78fvwLi%2Fw%2BWffHYidcFgD6JeerS5hc9gNRdaLxQqPsROyAI3BN38LDrgzvnv60deN%2F%2B5r3ONdTc%2BQOYiJhpS1wKWBZXt14--lM8NvhWTINDZALmhFAa12WmrLljAbePf7cKD%2Bla3oysnSDcPfekPLyW29Clcg7UGdibCS7PKBqlG2Fm58bShbAoJd6DzODBsa%2BdDJUleNCqKC4T9w4dhefAhI5Q9VsuvRGw9Lkl%2BskOS7fEcqc8Ha4oKpmXgy%2FrtqHjco3Pbs0%3D",
+      "url": "https://www.ebay.com/itm/137922408617?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item201cd0f0a9:g:fhgAAeSwxjZq9LWZ",
       "image_url": "https://i.ebayimg.com/images/g/fhgAAeSwxjZq9LWZ/s-l225.jpg",
       "color": "Brooks Brothers Mens Quarter Zip Pullover Sweater Gray 100% Cotton L NWT",
       "available_sizes": [
@@ -2592,6 +2609,21 @@
       ]
     },
     {
+      "title": "Brooks Brothers Quarter Zip Sweater XXL Gray Supima Cotton Pullover New NWT",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 49.99,
+      "original_price": 120,
+      "discount_percent": 58.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/128188468329?_skw=Brooks+Brothers+men%27s+quarter+zip&hash=item1dd8a0cc69:g:-hsAAeSwb6dq9Ed7&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kS2nl6VfOolqNUzLT4AalIm%2Fj24uSRHdHjGLgb%2BOnRwLcK2BOQAUGZxGxgT8xJbo7k8qwnAHs09Kuzi1oaQNvA3mQZgcSn22As4nyery4AEKqhtakYzrCsg2QgAfwm%2BRSDJ0TYHYyXPuJCYzUYCYXCQfRMUG6E40umioH9Hg5nGBrYKzgjSPFePd6rS1p%2FIXnBo1xoR99di%2BH83Cf32sNu4K05Lkxlry8GXPJugjldvC%2F2P9ZzXBTckL0fSj3%2F51K6Bv4%2BxP5U9j8W0JrSDr8BQDaMulNgk3chIf5zh8coGPtWjXSjBim09F5UgSJjc0w%3D",
+      "image_url": "https://i.ebayimg.com/images/g/-hsAAeSwb6dq9Ed7/s-l225.jpg",
+      "color": "Brooks Brothers Quarter Zip Sweater XXL Gray Supima Cotton Pullover New NWT",
+      "available_sizes": [
+        "XXL"
+      ]
+    },
+    {
       "title": "$128 Brooks Brothers Gray 1/4 Zip Mock Neck Pullover Sweatshirt / Men\u2019s XL / NWT",
       "brand": "Brooks Brothers",
       "tier": "A",
@@ -2603,8 +2635,24 @@
       "image_url": "https://i.ebayimg.com/images/g/IuwAAeSwhLpqy~HR/s-l225.jpg",
       "color": "$128 Brooks Brothers Gray 1/4 Zip Mock Neck Pullover Sweatshirt / Men\u2019s XL / NWT",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Small Brooks Brothers Navy Blue and BurgundyFleece Quarter-Zip Sweatshirt Mens L",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 49.99,
+      "original_price": 120,
+      "discount_percent": 58.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/327408469517?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item4c3b10c60d:g:7YUAAeSwY5Zq0roE",
+      "image_url": "https://i.ebayimg.com/images/g/7YUAAeSwY5Zq0roE/s-l225.jpg",
+      "color": "Small Brooks Brothers Navy Blue and BurgundyFleece Quarter-Zip Sweatshirt Mens L",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -2631,7 +2679,7 @@
       "original_price": 95,
       "discount_percent": 58.3,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/840063304923?_skw=Lululemon+men%27s+jogger&hash=itemc397acc4db:g:2WkAAeSwD8NpoOYF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mzuxMT9M1n6R2Q1W6JDS5SKgPsoNbX1NTxZvXSm2hu2j6TBVQXcnMxQ8WWHKOluc14mIMFlIvbvPFZcVJnLCJa928dSo8aSd0sVVfgAyzl28h0sqxas70%2BqS1ChsrDJ9ovECn9Bi8nY1j0WXXc5l47obcglenUUo%2F2O0RsDpGDIYXtQdOm3b6kHqS2UYmKnpXjja2T632QmNNGJ1wqyjuV75m%2BxOo5WwvxlkqzzKe5CGHXLqMdP97Bx3DJTEVBl5GvO9QDgsZkLEfvthgrX1%2B7Hv6sVkz5DxSZOlZRKAVaCQ%3D%3D",
+      "url": "https://www.ebay.com/itm/840063304923?_skw=Lululemon+men%27s+jogger&hash=itemc397acc4db:g:2WkAAeSwD8NpoOYF&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mzuxMT9M1n6R2Q1W6JDS5SKgPsoNbX1NTxZvXSm2hu2j6TBVQXcnMxQ8WWHKOluc14mIMFlIvbvPFZcVJnLCJa928dSo8aSd0sVVfgAyzl28h0sqxas70%2BqS1ChsrDJ9onWMnTsO3RopRrEqqe05w%2F%2B3Hv7r52Eu9mKa48ItYk3i2jf1pGROi8GbpkOh35s0%2B7U4G0OsRBTNdSHT%2Fi1WGYpF%2BJar41O6dfpazqB5%2Fj9fkl1VHq17TScLaapGgHjwdbojL596fPDWjcBrvRCse1kJnJQfFH8iNvcuPJEZEyCQ%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/2WkAAeSwD8NpoOYF/s-l225.jpg",
       "color": "Lululemon Men\u2019s Medium Black City Sweat Joggers TCA Trinity Christian Drawstring",
       "available_sizes": [
@@ -2672,18 +2720,33 @@
       ]
     },
     {
-      "title": "Banana Republic Mens Luxe T Shirt Black Medium M Short Sleeve",
+      "title": "Banana Republic Shawl Collar Sweater Mens Large Tall Preppy Navy Cable Knit NWT",
       "brand": "Banana Republic",
       "tier": "?",
-      "price": 40.0,
+      "price": 39.99,
       "original_price": 95,
       "discount_percent": 57.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/227609650853?_skw=Banana+Republic+men%27s+t-shirt&hash=item34fe97a6a5:g:llQAAeSwUxFq9IO2",
-      "image_url": "https://i.ebayimg.com/images/g/llQAAeSwUxFq9IO2/s-l225.jpg",
-      "color": "Banana Republic Mens Luxe T Shirt Black Medium M Short Sleeve",
+      "url": "https://www.ebay.com/itm/366801905357?_skw=Banana+Republic+men%27s+sweater&hash=item556718e6cd:g:X9kAAeSwu-Vq5ClI&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lWFvQhw7zapWjyXKM%2BYSIUdTILp0ijoIDwt59XAj%2BTYOsdq6a%2B%2BZemCyZkqQ8Lu2wY5f1W9ckMR3aMnytGD4C6VvuNnEKcSm6KJlfEtW5FIeolPDXK1aCYstkAFSaIYL3Asm%2Fl%2BGlrEGpEiWu9vKPL6i1rA1D7rBrYvh8zWJJ%2BQEYz9BCQYtqpcW1su9fe1zqt35UEo%2FEncu5O2eGD9agRta2gavKl4lSqtIg7L94XCU0PgEQBRuQwgtbcrKVzWnuBFI3loCRPTLhsuMfNlXgf0a4lItja5vY%2F8jdf5U6Oo%2F1IQWpXYdgo2Kb2jXeSxp4%3D",
+      "image_url": "https://i.ebayimg.com/images/g/X9kAAeSwu-Vq5ClI/s-l225.jpg",
+      "color": "Banana Republic Shawl Collar Sweater Mens Large Tall Preppy Navy Cable Knit NWT",
       "available_sizes": [
-        "M"
+        "LT"
+      ]
+    },
+    {
+      "title": "Banana Republic Relaxed Fit Vegan Suede Overshirt Large Navy Minimalist Utility",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 39.99,
+      "original_price": 95,
+      "discount_percent": 57.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/840118110973?_skw=Banana+Republic+men%27s+overshirt&hash=itemc39af10afd:g:tX8AAeSwEZhq9I7c",
+      "image_url": "https://i.ebayimg.com/images/g/tX8AAeSwEZhq9I7c/s-l225.jpg",
+      "color": "Banana Republic Relaxed Fit Vegan Suede Overshirt Large Navy Minimalist Utility",
+      "available_sizes": [
+        "L"
       ]
     },
     {
@@ -2738,22 +2801,6 @@
       ]
     },
     {
-      "title": "Polo Ralph Lauren Men's Gray 1/4 Zip Mock Neck Cotton Knit Logo Sweater XL",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 55.99,
-      "original_price": 130,
-      "discount_percent": 56.9,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/206690941237?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item301fbd7935:g:iUsAAeSwm9Bq89Fd",
-      "image_url": "https://i.ebayimg.com/images/g/iUsAAeSwm9Bq89Fd/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men's Gray 1/4 Zip Mock Neck Cotton Knit Logo Sweater XL",
-      "available_sizes": [
-        "S",
-        "XL"
-      ]
-    },
-    {
       "title": "Double Knit Crewneck - Oat Navy Stripe",
       "brand": "Faherty",
       "tier": "A",
@@ -2789,22 +2836,6 @@
       ]
     },
     {
-      "title": "J.CREW Men\u2019s Heritage Cotton Crewneck Pullover Sweater Black SZ L NWT",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 39.0,
-      "original_price": 90,
-      "discount_percent": 56.7,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/206692577836?_skw=J.Crew+men%27s+sweater&hash=item301fd6722c:g:4DgAAeSwYI5q9KEM",
-      "image_url": "https://i.ebayimg.com/images/g/4DgAAeSwYI5q9KEM/s-l225.jpg",
-      "color": "J.CREW Men\u2019s Heritage Cotton Crewneck Pullover Sweater Black SZ L NWT",
-      "available_sizes": [
-        "L",
-        "S"
-      ]
-    },
-    {
       "title": "J.Crew Knit Goods Men\u2019s Large Gray Jogger Sweatpants NWT BJ862",
       "brand": "J.Crew",
       "tier": "A",
@@ -2828,7 +2859,7 @@
       "original_price": 90,
       "discount_percent": 56.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/820304248798?_skw=J.Crew+men%27s+jogger&hash=itembefdf17fde:g:aAEAAeSwMcdqlzIP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7miq4271Ln9c8KsM2j4NpugEX3vSM2xtiCAgQEMAvss60LDrJgCanJY7n0gon%2FHF6iECOwwNtLgfeaSnjXkmU8nw6bG1LL%2BakspWYAw6bjhDuVOlpltKmVXRdAUnyEvqISOvWil3WZSZYSmwgQC2WuZMXE%2BKlLm0B%2FYL1DlASov%2BcG4Tsod7VWYZeRZfow6ku%2BFXJX38k4mFNU7IHi6QYmmSwGoIt3jkcBHVC6byp%2Fss3pk1oC2Uww0f3PaxKR4xX2SApnXB0dBiThLk4ap93yXogphUG7vxGOr1bNaYAyoog%3D%3D",
+      "url": "https://www.ebay.com/itm/820304248798?_skw=J.Crew+men%27s+jogger&hash=itembefdf17fde:g:aAEAAeSwMcdqlzIP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7miq4271Ln9c8KsM2j4NpugEX3vSM2xtiCAgQEMAvss60LDrJgCanJY7n0gon%2FHF6iECOwwNtLgfeaSnjXkmU8nw6bG1LL%2BakspWYAw6bjhDuVOlpltKmVXRdAUnyEvqIRBV3H5VefMYEYgyU3JSCcHplr9Dv094ut1LPd1iUNNjbxtYpB0lydd1CDtfXK6BDhzrGPW2ul9MHmumgGUCCSje5fK8kQMvknhxY1GODGuWtnlAM%2BNFHqVrDNJI56AuJonx9%2BhNJ4pzkU0B87kbCzfVSUP8ZaUAjtqnHLSRsGOVA%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/aAEAAeSwMcdqlzIP/s-l225.jpg",
       "color": "J.Crew Mens Size Medium '83 Fleece Sweatpants Navy Blue Joggers CO177 NEW",
       "available_sizes": [
@@ -2899,38 +2930,6 @@
       ]
     },
     {
-      "title": "NWT Vineyard Vines Mens MT Sweater Fleece Quarter-Zip Nautical Navy XL",
-      "brand": "Vineyard Vines",
-      "tier": "S",
-      "price": 49.99,
-      "original_price": 115,
-      "discount_percent": 56.5,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/287714727694?_skw=Vineyard+Vines+men%27s+sweater&hash=item42fd22570e:g:HS4AAeSw5qRq8O-g",
-      "image_url": "https://i.ebayimg.com/images/g/HS4AAeSw5qRq8O-g/s-l225.jpg",
-      "color": "NWT Vineyard Vines Mens MT Sweater Fleece Quarter-Zip Nautical Navy XL",
-      "available_sizes": [
-        "MT",
-        "XL"
-      ]
-    },
-    {
-      "title": "Vineyard Vines Men\u2019s Medium Gray Heather Cotton 1/4 Zip Pullover Sweater NWT",
-      "brand": "Vineyard Vines",
-      "tier": "S",
-      "price": 49.99,
-      "original_price": 115,
-      "discount_percent": 56.5,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/900014142623?_skw=Vineyard+Vines+men%27s+sweater&hash=itemd18d05f49f:g:tfcAAeSwT6Bq0Cs2",
-      "image_url": "https://i.ebayimg.com/images/g/tfcAAeSwT6Bq0Cs2/s-l225.jpg",
-      "color": "Vineyard Vines Men\u2019s Medium Gray Heather Cotton 1/4 Zip Pullover Sweater NWT",
-      "available_sizes": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "Vineyard Vines On The Go Ultimate Gray Button Overshirt Jacket Mens Medium $148",
       "brand": "Vineyard Vines",
       "tier": "S",
@@ -2938,7 +2937,7 @@
       "original_price": 115,
       "discount_percent": 56.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/407343282715?_skw=Vineyard+Vines+men%27s+overshirt&hash=item5ed78d3a1b:g:oXEAAOSwQJFncCFZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lJgPt1SZfkolH6U0zhHqpR4Q%2BE0py0Wf8ouIIF3KZjWChOrd85xOCdR%2F9SIpBOEly67RKbMeXN%2FYinnV1IA8wFE3EEW0qvTp6wI4GhMKGzuOGIjGd2%2FgwRlhDhxAn7YxG2ajOZqp%2BhWUclO1Jwc2Jx9odHTO8%2B5ojN6IIopgmSLp24VOJH0gvgCr2RbiTNs8ny%2BwhpcQyU608Sd8Bcyz5z%2FtUuryC5t2LMBKOuREHqdBHMrsehQfXNfdzkh2nVn3iJM6u8NDYLdM4qJ%2BFzPCzdgwbXWJUlrZ7U%2F6BxHjvYOYcNvan9g8vGW7aVnDAO9Tc%3D",
+      "url": "https://www.ebay.com/itm/407343282715?_skw=Vineyard+Vines+men%27s+overshirt&hash=item5ed78d3a1b:g:oXEAAOSwQJFncCFZ",
       "image_url": "https://i.ebayimg.com/images/g/oXEAAOSwQJFncCFZ/s-l225.jpg",
       "color": "Vineyard Vines On The Go Ultimate Gray Button Overshirt Jacket Mens Medium $148",
       "available_sizes": [
@@ -3050,6 +3049,21 @@
       ]
     },
     {
+      "title": "J.Crew Sweater Mens XL Gray 100% Lambswool Raglan Crewneck Knit Pullover",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 39.99,
+      "original_price": 90,
+      "discount_percent": 55.6,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/900071386153?_skw=J.Crew+men%27s+sweater&hash=itemd1906f6c29:g:ZXgAAeSwZWJq7jCa&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mW8dhp4HUP9VYNKeeQuQAV0tzvCrbIyqcjofDqGedz6Rv52AgtTjLgkRY%2BVoY0N%2BByWHCXg9BlJpGJSX%2FC%2FvohHM2Komh6qDGHNNMqjDvHVlhkbgoohcS6vJS59ZMwkCuz%2BVhb4OY9PV4RY1e%2FKOUa3jbGykmHmHS4puqr1RKdKbV1Zktk4H2EJivWFFF8lugSA%2Fbmpddg3bdvyjhfp40eZsDIrGBItsUNgPf2GnFnLrNR41b1BFs1%2BeQJeaj8RouwfxyiwDuBC2ch8JQEflndn6wphYSrkMs7ijY6sEV7hA%3D%3D",
+      "image_url": "https://i.ebayimg.com/images/g/ZXgAAeSwZWJq7jCa/s-l225.jpg",
+      "color": "J.Crew Sweater Mens XL Gray 100% Lambswool Raglan Crewneck Knit Pullover",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
       "title": "J. Crew Men's Medium Merino Wool Blend Quarter Zip NEW! Sweater Navy Blue CA562",
       "brand": "J.Crew",
       "tier": "A",
@@ -3063,22 +3077,6 @@
       "available_sizes": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "J Crew Quarter Zip Pullover Men\u2019s Size Extra Large Black Performance Active New",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 40.0,
-      "original_price": 90,
-      "discount_percent": 55.6,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/127980903069?_skw=J.Crew+men%27s+quarter+zip&hash=item1dcc419a9d:g:l5oAAeSw8EFqWuyp",
-      "image_url": "https://i.ebayimg.com/images/g/l5oAAeSw8EFqWuyp/s-l225.jpg",
-      "color": "J Crew Quarter Zip Pullover Men\u2019s Size Extra Large Black Performance Active New",
-      "available_sizes": [
-        "L",
-        "S"
       ]
     },
     {
@@ -3108,8 +3106,8 @@
       "image_url": "https://i.ebayimg.com/images/g/f94AAOSwli9m8jxN/s-l225.jpg",
       "color": "NWT $79 J.Crew Men's XXL Fleece Jogger Sweatpants Cotton Deep Navy Loungewear",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -3139,8 +3137,8 @@
       "image_url": "https://i.ebayimg.com/images/g/ir4AAeSwW8NqmCwt/s-l225.jpg",
       "color": "J Crew.. Men\u2019s .. NWOT\u2026Heritage 14 Oz Fleece Light Blue Sweatshirt\u2026 Sz XL",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -3155,8 +3153,8 @@
       "image_url": "https://i.ebayimg.com/images/g/C6MAAeSw4ONq6I5a/s-l225.jpg",
       "color": "J.CREW Men's Gray Quilted 1/4 Zip Mock Neck Pullover Sweatshirt XXL",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -3180,6 +3178,22 @@
       ]
     },
     {
+      "title": "Peter Millar Seaside Men's Size XL Gale Gray Lava Wash Lounge Trouser Pants",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 69.95,
+      "original_price": 155,
+      "discount_percent": 54.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227574987635?_skw=Peter+Millar+men%27s+jogger&hash=item34fc86bb73:g:tpIAAeSwtItpHpcn",
+      "image_url": "https://i.ebayimg.com/images/g/tpIAAeSwtItpHpcn/s-l225.jpg",
+      "color": "Peter Millar Seaside Men's Size XL Gale Gray Lava Wash Lounge Trouser Pants",
+      "available_sizes": [
+        "XL",
+        "S"
+      ]
+    },
+    {
       "title": "PETER MILLAR Men's LARGE Colt Short Sleeve Striped T-Shirt Summer Ivory NEW $160",
       "brand": "Peter Millar",
       "tier": "S",
@@ -3187,7 +3201,7 @@
       "original_price": 155,
       "discount_percent": 54.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/147676224861?_skw=Peter+Millar+men%27s+short&hash=item2262305d5d:g:sd0AAeSwzkRqmhvg&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kXXhXG0WztgXxztFoLUZjMsHVrFebZ1xTZSsPGMm5vy4xU5iVcSt0iqTNj16xr3eiSvBxhZ9xN6iz1vztvJIV78%2FDGqjXa%2BiKVWqxKN3hgddGi2gePom8972GsKnz6fkBgkMZQVYXWATutXnliGxbVUTf2kADWyMwa7xdWWIemwf9aTBrgxisDRjcHSCZgdVgcapwX1CIvOSmLP1dxiyhLtzx80pOBakSR8%2Bw050C7yMDNKvQx76Ad6swwiqmcirZf%2BrHoCaqEclSnqYAJiy4UDyiGfPynWwbvPnu9XYhjAt7vydimJaqRsLp1J%2FJBPdc%3D",
+      "url": "https://www.ebay.com/itm/147676224861?_skw=Peter+Millar+men%27s+t-shirt&hash=item2262305d5d:g:sd0AAeSwzkRqmhvg&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kXXhXG0WztgXxztFoLUZjMsHVrFebZ1xTZSsPGMm5vy4xU5iVcSt0iqTNj16xr3eiSvBxhZ9xN6iz1vztvJIV78%2FDGqjXa%2BiKVWqxKN3hgddGi2gePom8972GsKnz6fkAlRQeIFT%2F7%2FjXW01fCv5bPyPwNjeFSlcGc1lqFVUf4UqAAbzv2mbGeno8dsB2dpZ1eQL2thE7cBRRBAZNSmJ4TDEzbSYddiIcPyIGciM71PMZF381TUwq2fvZMjVXzltZtdtlnthEhyMEsAaCtO8wxSXwuEKk3%2Fqy3OtEQy6FU7JK72Ei9vfRxjGA6UMVqXFg%3D",
       "image_url": "https://i.ebayimg.com/images/g/sd0AAeSwzkRqmhvg/s-l225.jpg",
       "color": "PETER MILLAR Men's LARGE Colt Short Sleeve Striped T-Shirt Summer Ivory NEW $160",
       "available_sizes": [
@@ -3238,7 +3252,22 @@
       "image_url": "https://i.ebayimg.com/images/g/e6MAAeSwJPdq6-sW/s-l225.jpg",
       "color": "NWOT Brooks Brothers Men\u2019s XL Merino Wool Cardigan Sweater Gray",
       "available_sizes": [
-        "S",
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Sweatshirt Mens XL Gray Full Zip Mock Neck Lined Logo Stretch",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 54.99,
+      "original_price": 120,
+      "discount_percent": 54.2,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168135986994?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item2725af8f32:g:wnIAAeSw01Fpgv~m",
+      "image_url": "https://i.ebayimg.com/images/g/wnIAAeSw01Fpgv~m/s-l225.jpg",
+      "color": "Brooks Brothers Sweatshirt Mens XL Gray Full Zip Mock Neck Lined Logo Stretch",
+      "available_sizes": [
         "XL"
       ]
     },
@@ -3290,35 +3319,19 @@
       ]
     },
     {
-      "title": "Polo Ralph Lauren Men's Large Jogger Sweatpants Light Gray 5 Pockets",
+      "title": "Polo Ralph Lauren Men's M V-Neck Pullover Knit Sweater Navy Solid Logo Cotton",
       "brand": "Polo Ralph Lauren",
       "tier": "S",
-      "price": 59.99,
+      "price": 60.0,
       "original_price": 130,
-      "discount_percent": 53.9,
+      "discount_percent": 53.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/128121337669?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=item1dd4a07745:g:ZkcAAeSwwRFqxoLk",
-      "image_url": "https://i.ebayimg.com/images/g/ZkcAAeSwwRFqxoLk/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men's Large Jogger Sweatpants Light Gray 5 Pockets",
+      "url": "https://www.ebay.com/itm/128191154121?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item1dd8c9c7c9:g:bZ8AAeSww6dq9gb2",
+      "image_url": "https://i.ebayimg.com/images/g/bZ8AAeSww6dq9gb2/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men's M V-Neck Pullover Knit Sweater Navy Solid Logo Cotton",
       "available_sizes": [
-        "L",
-        "S"
-      ]
-    },
-    {
-      "title": "NEW Polo Ralph Lauren Short Sleeve Chambray Oxford Men\u2019s Large Slim Light Blue",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 59.99,
-      "original_price": 130,
-      "discount_percent": 53.9,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/366802346861?_skw=Polo+Ralph+Lauren+men%27s+short&hash=item55671fa36d:g:FcAAAeSwwQRqzUGZ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mPnSjQfk796rnoBqAbo1IjOqiJ%2B%2FlXbmRMSAIPfhXnzU31TjOxZZcgpS7kcKWhRXsGOIP9tuQukycHBKI4Az1hBEkz8rcl36yQoC%2FrKvs6yHJ59b96gy1Lj41GwwJXYIEaaKujLO9qUt715gEAXhR%2B5yfXNrnCvTGChBg8IokW4yHcjytsNY%2Fduv7eXWHpgqB7UMLx2W80Zem%2BQJCQSZqnJCuUBQ2z8HbVY0CmezblKcBWA4XM3Z2bOx1Ajp4q9H%2F43bngOOxQ89E%2FMJe4HOriXulSXCNGR7GvP4cfrE1emlUkjcylyvRbs5TsX3Nk5Vk%3D",
-      "image_url": "https://i.ebayimg.com/images/g/FcAAAeSwwQRqzUGZ/s-l225.jpg",
-      "color": "NEW Polo Ralph Lauren Short Sleeve Chambray Oxford Men\u2019s Large Slim Light Blue",
-      "available_sizes": [
-        "L",
-        "S"
+        "S",
+        "M"
       ]
     },
     {
@@ -3329,28 +3342,28 @@
       "original_price": 130,
       "discount_percent": 53.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/147673744538?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item22620a849a:g:g14AAeSwwpVq8k47",
+      "url": "https://www.ebay.com/itm/147673744538?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item22620a849a:g:g14AAeSwwpVq8k47",
       "image_url": "https://i.ebayimg.com/images/g/g14AAeSwwpVq8k47/s-l225.jpg",
       "color": "Polo Ralph Lauren Quarter Zip Cotton Sweater Men's XXL Navy New With Tags",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
-      "title": "Polo Ralph Lauren Polo Bear Double Knit Sweatshirt Gray Men\u2019s Medium NWT",
+      "title": "Polo Ralph Lauren Polo Bear Double Knit Sweatshirt Gray Men\u2019s Large NWT",
       "brand": "Polo Ralph Lauren",
       "tier": "S",
       "price": 60.0,
       "original_price": 130,
       "discount_percent": 53.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/900077840891?_skw=Polo+Ralph+Lauren+men%27s+sweatshirt&hash=itemd190d1e9fb:g:~gwAAeSw1A1q3k2O",
+      "url": "https://www.ebay.com/itm/900085604778?_skw=Polo+Ralph+Lauren+men%27s+sweatshirt&hash=itemd1914861aa:g:~gwAAeSw1A1q3k2O",
       "image_url": "https://i.ebayimg.com/images/g/~gwAAeSw1A1q3k2O/s-l225.jpg",
-      "color": "Polo Ralph Lauren Polo Bear Double Knit Sweatshirt Gray Men\u2019s Medium NWT",
+      "color": "Polo Ralph Lauren Polo Bear Double Knit Sweatshirt Gray Men\u2019s Large NWT",
       "available_sizes": [
-        "S",
-        "M"
+        "L",
+        "S"
       ]
     },
     {
@@ -3361,7 +3374,7 @@
       "original_price": 95,
       "discount_percent": 53.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/840021789597?_skw=Lululemon+men%27s+short&hash=itemc395334b9d:g:SDwAAeSwjiZqz81c&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nE9oySwz4nzNtE7jn6bMepMu4s7QieiB6BrnSTL9iOT9BeHMAUSYwTuaL2UT7%2FVt%2FRu5USksSivpM7X7ecvyadtlOljofOiHZdThzHDmElNA96iKoWzuhZIlIAGfyGrqTw7TRtgRmK5Rdccd8DYs8E5%2B3P342mLT86IEB4Qlkd8NC7JTMw0pIHX0LrBxFnpbQeZ6jILwxLC6S%2BiHc%2BML1F5X3dt8%2Bw%2Bv%2F5XG8ewted0wBFfxY%2BL%2BggpAgKf24g%2BUBkaU%2FR48qRG4P5btyVDLggSPkkfuEqhiD19SOOWmkG8w%3D%3D",
+      "url": "https://www.ebay.com/itm/840021789597?_skw=Lululemon+men%27s+short&hash=itemc395334b9d:g:SDwAAeSwjiZqz81c&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nE9oySwz4nzNtE7jn6bMepMu4s7QieiB6BrnSTL9iOT9BeHMAUSYwTuaL2UT7%2FVt%2FRu5USksSivpM7X7ecvyadtlOljofOiHZdThzHDmElNA96iKoWzuhZIlIAGfyGrqTmTBwbdAoxk5VlVXUMvM3hhzf4XgA0%2FLanznOYlPIK8AgtSu3vQoqsh5UUeS%2BuEqs7eWA0LyGY4%2FhTvUGMmL7tw9xzHw1aYWBKm4i%2FzKA4AJhvlLeErQid7Z0AjDDzWWAL1Zn7o1iCeUZnQRP8MNxDUWMd%2B2wsPkNMY6tn8YTixg%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/SDwAAeSwjiZqz81c/s-l225.jpg",
       "color": "Lululemon Mens Medium Jersey Short 6\"In Heathered Navy Blue",
       "available_sizes": [
@@ -3441,21 +3454,6 @@
       ]
     },
     {
-      "title": "Peter Millar Mens Large Sky Blue 100% Merino Wool V-Neck Pullover Sweater NWOT",
-      "brand": "Peter Millar",
-      "tier": "S",
-      "price": 75.0,
-      "original_price": 155,
-      "discount_percent": 51.6,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/840117933045?_skw=Peter+Millar+men%27s+sweater&hash=itemc39aee53f5:g:cEgAAeSwFN9q9H3k",
-      "image_url": "https://i.ebayimg.com/images/g/cEgAAeSwFN9q9H3k/s-l225.jpg",
-      "color": "Peter Millar Mens Large Sky Blue 100% Merino Wool V-Neck Pullover Sweater NWOT",
-      "available_sizes": [
-        "L"
-      ]
-    },
-    {
       "title": "NWT Vineyard Vines Navy Blue Heathered On-The-Go Jogger Performance Mens Size XL",
       "brand": "Vineyard Vines",
       "tier": "S",
@@ -3463,7 +3461,7 @@
       "original_price": 115,
       "discount_percent": 51.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/137884786067?_skw=Vineyard+Vines+men%27s+jogger&hash=item201a92dd93:g:DPsAAeSwBFtqampv",
+      "url": "https://www.ebay.com/itm/137884786067?_skw=Vineyard+Vines+men%27s+jogger&hash=item201a92dd93:g:DPsAAeSwBFtqampv&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m0tgEl8i%2BzPpMn%2Fn2zCyBAsrToCfJl19stcRCwKjLnAe%2FnQbij7FzzSfThPIXm0MJNKM6KjF2J%2Fyk7TBERZ7eeFeXmTQFYOkWpSEJthu1kmZYouQRnwqqJZIBF0TiHmQC%2BNB0ifnlKpQKVwegH4Yj8NWiLKQcNlqch4QImfqHgaN8ArRTn%2BrXWB2KPMGNSXLn8US4QaJfzT0--Rd06DaRFVCwY22uFnrxm%2FIQDcNKOr%2FkR52tHg7hifrFEzQ2yJIvqWFBrU1uPGOaKJdPU7M39Bx5pC%2B0fd42RVbMHZuK67TZRlwVtX5rCIMX3eGOAzcI%3D",
       "image_url": "https://i.ebayimg.com/images/g/DPsAAeSwBFtqampv/s-l225.jpg",
       "color": "NWT Vineyard Vines Navy Blue Heathered On-The-Go Jogger Performance Mens Size XL",
       "available_sizes": [
@@ -3498,8 +3496,8 @@
       "color": "Barbour Glendale Overshirt Jacket  Stone New U.K  XXX-Large XXXL (U.S XXL)",
       "available_sizes": [
         "L",
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -3510,7 +3508,7 @@
       "original_price": 95,
       "discount_percent": 50.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/307251690539?_skw=Banana+Republic+men%27s+overshirt&hash=item4789a0bc2b:g:D0oAAeSw4y9q4JFL&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m%2Bigv8p5bfBvIR65veD4CGLv8kFY6dxCr1Yay0BJ405JS964U9aEM7UrPxi1WYKby%2Fod5aGxpAvK7k3yUZ4G%2B%2Bxxh8ey9ZNxGkDlvc8WJ4bbb%2BbycoSoOlshIdX3%2BPYPmTik4snHwYSItqvnrvTVgLdKatGALW%2F%2BhU52HszdqJILc%2FIRI2VbmyRkJOey6Asd1hDA6JR3eIS2q303gCjhgwFtMqD%2B5gwEhj4tzv0NaDmnLe0Cgk4mTSL34HHyz4eUOf8te%2BoxgLEhNwsxKd4emLJkxwOKzzgjwAeF4SSJO8%2BR04JteEeHJJwVJLT9ov4LE%3D",
+      "url": "https://www.ebay.com/itm/307251690539?_skw=Banana+Republic+men%27s+overshirt&hash=item4789a0bc2b:g:D0oAAeSw4y9q4JFL&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m%2Bigv8p5bfBvIR65veD4CGLv8kFY6dxCr1Yay0BJ405JS964U9aEM7UrPxi1WYKby%2Fod5aGxpAvK7k3yUZ4G%2B%2Bxxh8ey9ZNxGkDlvc8WJ4bbb%2BbycoSoOlshIdX3%2BPYPnB9E66C%2Byt5ws6uxeJTZbjElikwfJfRi1b%2FBlvNX7FpJ1fHIUPtpWKtIWIq8uhY0IBrOSt%2BRKero9BLBrjZo51w%2F4xCNe8mIM5BVpzZpi%2Bt2eS5KWx2npl6coK%2BcKTr4Zk4%2BxIDV6JihdCwPb5yDeLask5ykWL8oi%2Bl%2BVye4%2FFMfwNsJ7pLMGDEy0Zht70F9k%3D",
       "image_url": "https://i.ebayimg.com/images/g/D0oAAeSw4y9q4JFL/s-l225.jpg",
       "color": "Banana Republic Mens Khaki Stretch Cotton Overshirt Jacket M NWT 746299-01-1",
       "available_sizes": [
@@ -3531,6 +3529,22 @@
       "available_sizes": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "NWT J Crew Sweater Men's XLT Cashmere Knit Crewneck Long Sleeve Gray jumper TALL",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 44.95,
+      "original_price": 90,
+      "discount_percent": 50.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/257846361521?_skw=J.Crew+men%27s+sweater&hash=item3c08d73db1:g:yIQAAeSwtZNq8slH",
+      "image_url": "https://i.ebayimg.com/images/g/yIQAAeSwtZNq8slH/s-l225.jpg",
+      "color": "NWT J Crew Sweater Men's XLT Cashmere Knit Crewneck Long Sleeve Gray jumper TALL",
+      "available_sizes": [
+        "XLT",
+        "S"
       ]
     },
     {
@@ -3623,34 +3637,19 @@
       ]
     },
     {
-      "title": "*NEW - POLO RALPH LAUREN MENS CLASSIC 3 BUTTON COTTON SWEATER - NAVY - S - XXL",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 49.99,
-      "original_price": 99.99,
-      "discount_percent": 50.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/227599831576?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item34fe01d218:g:ENkAAeSw4kxq7K0A",
-      "image_url": "https://i.ebayimg.com/images/g/ENkAAeSw4kxq7K0A/s-l225.jpg",
-      "color": "*NEW - POLO RALPH LAUREN MENS CLASSIC 3 BUTTON COTTON SWEATER - NAVY - S - XXL",
-      "available_sizes": [
-        "S",
-        "XXL"
-      ]
-    },
-    {
-      "title": "Polo Ralph Lauren Zip Hoodie XL Grey Full-Zip Sweatshirt",
+      "title": "Polo Ralph Lauren Men's Cream Wool Alpaca Knit Crewneck Logo Sweater M",
       "brand": "Polo Ralph Lauren",
       "tier": "S",
       "price": 65.0,
       "original_price": 130,
       "discount_percent": 50.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/147676369263?_skw=Polo+Ralph+Lauren+men%27s+sweatshirt&hash=item226232916f:g:fcgAAeSwZsdq9LQU",
-      "image_url": "https://i.ebayimg.com/images/g/fcgAAeSwZsdq9LQU/s-l225.jpg",
-      "color": "Polo Ralph Lauren Zip Hoodie XL Grey Full-Zip Sweatshirt",
+      "url": "https://www.ebay.com/itm/920132068326?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=itemd63c2523e6:g:L2IAAeSwpF9q9Ndf",
+      "image_url": "https://i.ebayimg.com/images/g/L2IAAeSwpF9q9Ndf/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men's Cream Wool Alpaca Knit Crewneck Logo Sweater M",
       "available_sizes": [
-        "XL"
+        "S",
+        "M"
       ]
     },
     {
@@ -3665,8 +3664,8 @@
       "image_url": "https://i.ebayimg.com/images/g/IkkAAeSw4TxpXIw0/s-l225.jpg",
       "color": "NWT Barbour Rhobell Tailored Check Overshirt XL Men\u2019s Fleece Jacket Grey Marl",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -3677,7 +3676,7 @@
       "original_price": 120,
       "discount_percent": 50.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/206685212429?_skw=Brooks+Brothers+men%27s+sweater&hash=item301f660f0d:g:l-MAAeSwhq5qmQUo&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kH67zAaBlQFf1hFPCPrxZywdU%2F9em%2BVlRfBFAPP8J6zrOuYdsm4Dv0ZQXB2LbJjk%2B1s3cqcivEosHXenJxu7wc7N1zySvJR2VOXPWWb9TSzZNaRyzbcAnMkTNWlotqpDAgM7MKzuWhgX4ITY4xPjhgik7EEFbjzeY5nRfHynsG2KO8dOoTfsj9Ypw%2FAs84IXeClzgfL6AMDVkwkSWruKhDTdn--9g1mmM2T0eNVFDNSvh2O0MlDcqDwWXCVQk3jL6YpF5LV9hNi%2BFsg9BrBT%2BFkpzzu%2FWOFdmYu82B4llKTKGMVideaUrDocmQxWkc5jI%3D",
+      "url": "https://www.ebay.com/itm/206685212429?_skw=Brooks+Brothers+men%27s+sweater&hash=item301f660f0d:g:l-MAAeSwhq5qmQUo&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kH67zAaBlQFf1hFPCPrxZywdU%2F9em%2BVlRfBFAPP8J6zrOuYdsm4Dv0ZQXB2LbJjk%2B1s3cqcivEosHXenJxu7wc7N1zySvJR2VOXPWWb9TSzZNaRyzbcAnMkTNWlotqpDD7DdNHWJa%2BhkCvSu2IR10rma8e9ItJY0ZGdEbFxh3bA%2BB10rJx4qVFMpTHKMsZP6ztnfBiWhe9p4J5kX1%2BJGbaDPaFWZ9DQ76g6JEE1OsFq3ei%2F%2BNyoQfCr%2FsHMEc2TcbRODPJQ6ddEbtB6o7YR9iHQJ3Y1lzZDiOSloosAy%2BB0voibuPxjBRo5HqOfsQTULs%3D",
       "image_url": "https://i.ebayimg.com/images/g/l-MAAeSwhq5qmQUo/s-l225.jpg",
       "color": "Brooks Brothers Merino Wool Sweater Men's L Gray Windowpane Houndstooth Vintage",
       "available_sizes": [
@@ -3697,8 +3696,8 @@
       "image_url": "https://i.ebayimg.com/images/g/MQ0AAeSwSS9q62N8/s-l225.jpg",
       "color": "Brooks Brothers Men's Quarter-Zip Sweater Navy Blue XL New Sealed in Package",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -3741,26 +3740,11 @@
       "original_price": 118.0,
       "discount_percent": 50.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/940065714683?_skw=Vineyard+Vines+men%27s+jogger&hash=itemdae04871fb:g:npAAAOSwAmZnoRL9&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nmH6Bg85IQcew1uLjfU2pwN47xi1l5SB2QKLF7Y2BSacUoquiabb4vGETJddrdC7gRh%2FvZd5e%2FJeHosXijmNgrV3p%2FlkGE6XABwxms6UfUDV8RJbHInany%2B5EIsHSjOiUJssmpJC3N28L%2Fn2QnCuIGwLiJ3dMdDtwiGL7AcLD30zxvfkILLrijMmYzMSV16AgV6jHCLpkOF3QWnD5mGDfFPuba1g1hKvgTt1AjPW3qgNxEX0OUrJUbwMGIQYy7SS9eyVMiEHp08rbGdSuqu2VccQp7ZVt%2Fu5EI9ZpTAVQle1E8ol0jZpWt%2Fvswhi%2BtoTs%3D",
+      "url": "https://www.ebay.com/itm/940065714683?_skw=Vineyard+Vines+men%27s+jogger&hash=itemdae04871fb:g:npAAAOSwAmZnoRL9&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nmH6Bg85IQcew1uLjfU2pwN47xi1l5SB2QKLF7Y2BSacUoquiabb4vGETJddrdC7gRh%2FvZd5e%2FJeHosXijmNgrV3p%2FlkGE6XABwxms6UfUDV8RJbHInany%2B5EIsHSjOiXc8mnoPQVq%2BGTusl%2BAQIHY4FcUcwMAhnNMk0uaw%2B%2Fj%2B%2BZhwB%2F5a%2Fam3FXn75AiwlOpOVJNgOIJdaEvyAAhj95%2FHWNvsVa11siCIAkV4uklqSiQ0Fsfi4D5wfsS4a16eZwPxqEytfX8IXL6vxUMjdWcpSxZU9%2FUiY%2FJ2H7%2FSp1T%2FNpuPeK%2B0mPI5wp8%2F7Nyat0%3D",
       "image_url": "https://i.ebayimg.com/images/g/npAAAOSwAmZnoRL9/s-l225.jpg",
       "color": "Vineyard Vines Fleece Jogger Pants  Big & Tall  XLB Harbor Navy Blue NWT",
       "available_sizes": [
         "TALL"
-      ]
-    },
-    {
-      "title": "NEW J.Crew Mens Lambswool Sweater Burgundy Navy Marled Knit Crewneck Pullover L",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 44.99,
-      "original_price": 90,
-      "discount_percent": 50.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/940082584045?_skw=J.Crew+men%27s+sweater&hash=itemdae149d9ed:g:BRQAAeSws9lq8-1E&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nqwdaKPybUYhSdchf4ytyXXuiiLWtEPOHwRN71JiyXK0vnOxWxgBllxxyvlR9Mg3td46rQqmxHdMK5%2BL7CqsMWKuxbCbwSGPXcexnRB41MKq2YucRRCe%2BkXf%2B21sRpBnelJ8eKVE2xnV16rOeE683ngRsCevnkhhEXnN2JKrpi%2BO%2FEpyh%2FS9Kifo%2BQ5b1OYaDifwBxtCe3izxQ1PV%2FipDwVtfgWe3VqYEEANoWoWPddp3DzQWmLHC2iR9Z95ETFUZPy2aqFLHhw%2BV2vx0KeHqQivrfh7fv9BEZ1C6vx1o2Xw%3D%3D",
-      "image_url": "https://i.ebayimg.com/images/g/BRQAAeSws9lq8-1E/s-l225.jpg",
-      "color": "NEW J.Crew Mens Lambswool Sweater Burgundy Navy Marled Knit Crewneck Pullover L",
-      "available_sizes": [
-        "L"
       ]
     },
     {
@@ -3775,8 +3759,8 @@
       "image_url": "https://i.ebayimg.com/images/g/VH8AAeSwqTlq43KE/s-l225.jpg",
       "color": "NEW NWT J.Crew Drawstring Performance Joggers Men's Pants in Navy Blue XL",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -3803,11 +3787,27 @@
       "original_price": 95,
       "discount_percent": 49.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/168338350366?_skw=Lululemon+men%27s+t-shirt&hash=item2731bf611e:g:UL0AAeSw~F1p8N-s&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCMw11bfs6aqykDa3ewixoyiUf1SgdEAg4WzHxdBRIRzY4BtKa43d52MJUIx4sNJXloJ%2FR%2FHq3at978Fp9DjoRGnwS8NyV8yjTBN6nyGGcWKPEjJG3yh%2B%2FNE23pl%2FiA0W2b6DPTkk3hcSvblZUr%2Fe1vYr%2F7rW5%2F50XVU0iGhd739XEwdUzgaYBdmRvh1wbKJck2EElxiABgOPOLj1m7VODFmKbZseUcHji%2BsBl0iC8YA2NIsc4JTOocoBZajzl6YDLtWrL3y3hKCCfpDqmTOQ%2F6Wxr%2Fz2obZY2v8b7Y0x6dxrZ%2Bgkk6jMly6SjRjzzkSw%3D",
+      "url": "https://www.ebay.com/itm/168338350366?_skw=Lululemon+men%27s+t-shirt&hash=item2731bf611e:g:UL0AAeSw~F1p8N-s&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lCMw11bfs6aqykDa3ewixoyiUf1SgdEAg4WzHxdBRIRzY4BtKa43d52MJUIx4sNJXloJ%2FR%2FHq3at978Fp9DjoRGnwS8NyV8yjTBN6nyGGcWKPEjJG3yh%2B%2FNE23pl%2FiA0VWcSekJKcPy7%2B5F3iN%2BXo2yB%2Fau1azoEwS59w5iNf1nMINka2mgZZxKmAijJHhC4QE%2FJamCVzOPjoReo8eeNWtV%2B%2BMfmo2Zwha%2B4%2BnLGXbvttxTGOR3QhqKl07kQJGjFm4WFHdWKYT5eipf7gCzaY5r7SjYbtULRfDziO1%2Fgr85ZHyHCUkDSZmqFMG%2BZvJmTI%3D",
       "image_url": "https://i.ebayimg.com/images/g/UL0AAeSw~F1p8N-s/s-l225.jpg",
       "color": "Lululemon Men's Gray Long Sleeve Athletic T-Shirt Crew Neck Lightweight Size L",
       "available_sizes": [
         "L",
+        "S"
+      ]
+    },
+    {
+      "title": "Peter Millar Men's 1/4 Zip Mock Neck Knit Pullover Sweater Ivory XL MS26K49",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 79.99,
+      "original_price": 155,
+      "discount_percent": 48.4,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227611379901?_skw=Peter+Millar+men%27s+sweater&hash=item34feb208bd:g:bYIAAeSwCCBq9e~h",
+      "image_url": "https://i.ebayimg.com/images/g/bYIAAeSwCCBq9e~h/s-l225.jpg",
+      "color": "Peter Millar Men's 1/4 Zip Mock Neck Knit Pullover Sweater Ivory XL MS26K49",
+      "available_sizes": [
+        "XL",
         "S"
       ]
     },
@@ -3823,8 +3823,8 @@
       "image_url": "https://i.ebayimg.com/images/g/qL0AAOSwqT1l37Xm/s-l225.jpg",
       "color": "Peter Millar NWT Men\u2019s XL Jogger Sweat Pants Gale Gray Grey Pockets MA23B41 NWT",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -3835,7 +3835,7 @@
       "original_price": 95,
       "discount_percent": 48.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/267830624600?_skw=Lululemon+men%27s+overshirt&hash=item3e5bf30158:g:no4AAeSwmVVq5~K8&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mLify8g2WoHD0%2FFwdmLulm%2Bmnd3fTfxFYjyIcqnb5TwxszGEsE%2F97oO4I%2FHw6e6C4qJuy9NNh1B940W9u46qT2xo2fMfTBcC3i%2BCB6bmvgNFmbZtwACuZLIAXHwqZngvVpz1A%2FU4PcAnNqp3TqtrFKo99aHVLRnFN%2BkDzA%2BfOjRpRsAczjzJgFkrmAnDKY31GMQiZojsHHFW5Lqnj5NAe6244zx1CavKP7UYF5BEJFwBnDMY7beO8kZe7n5yYkTwCOkUnbooiyyw58ybTDHQ62QAcfRketJcMyaY8CayFlevemn6V3AccA0KWVTo%2B7kV4%3D",
+      "url": "https://www.ebay.com/itm/267830624600?_skw=Lululemon+men%27s+overshirt&hash=item3e5bf30158:g:no4AAeSwmVVq5~K8&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mLify8g2WoHD0%2FFwdmLulm%2Bmnd3fTfxFYjyIcqnb5TwxszGEsE%2F97oO4I%2FHw6e6C4qJuy9NNh1B940W9u46qT2xo2fMfTBcC3i%2BCB6bmvgNFmbZtwACuZLIAXHwqZngvW2cCak09CoGDN35k3tDIpM7%2Fe9s%2FSY3zb7rKSkn9N7k8J5uMcrJcTA7OGLDrF8%2FGLwA6Pym2i71lbCu3bM%2FiVRCSZffw6fajeIXX580daqrZa3FEqatKiaApOvJa3L36IkCi2Vw740HZY9cgufLO2SS4fzy6mZvjhWTN4BuLmum2Un%2BCkMe26C8TxgKAuxDy4%3D",
       "image_url": "https://i.ebayimg.com/images/g/no4AAeSwmVVq5~K8/s-l225.jpg",
       "color": "Lululemon Brushed Woven Overshirt Mens Large Black Gray Plaid Button Up NWT",
       "available_sizes": [
@@ -3882,7 +3882,7 @@
       "original_price": 95,
       "discount_percent": 48.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/137726554214?_skw=Banana+Republic+men%27s+overshirt&hash=item2011247066:g:mBEAAeSwWhdqnY7b&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k4KUqQXgCF9UDqBEnkbf14wJotJs5o6gtYtbJGwInInbpNpiReq%2BrgGD3hMsL%2BoOLu%2Bdl7PsMmLInsGJT58uLStdvdw%2FSwLbpiWTxhunNAahWIQMiEijiAZZScNnX96KJmttlxSfnEIyYIFygwFW1z2bFMkI%2Fey%2BgdMbiXvtQgpTjAHfsKTg7%2Bbj59iRS5peMwdejuouQ0OMNHuXIVoj55LSimZY7pVqCaUkQsNWebfa3a35WRnauQc201EqjK3Z%2BekmClwGxMcq%2ByNGtNfwiOtN6jB9%2BEIfDQhZ9%2FywijI59nMCd%2Bcp%2F3fdL3OmrVzd0%3D",
+      "url": "https://www.ebay.com/itm/137726554214?_skw=Banana+Republic+men%27s+overshirt&hash=item2011247066:g:mBEAAeSwWhdqnY7b&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k4KUqQXgCF9UDqBEnkbf14wJotJs5o6gtYtbJGwInInbpNpiReq%2BrgGD3hMsL%2BoOLu%2Bdl7PsMmLInsGJT58uLStdvdw%2FSwLbpiWTxhunNAahWIQMiEijiAZZScNnX96KKdXGZWioQPhRVfZ8hF5hUnTDcbQT7mlQuEoxaeJIpO%2BphUaHK98jEGrddpTIWxm%2F4PHRRdbWeI3PYt8QE6HLiEfHx%2FFYGn7yuMMTJSn6OUln4tC887a4jGsrIxt8%2BvGEAr3pEOkaYJp0z%2FYMFdofp9Sc5qmqSmHTU60dGYHaWb1Fgct7iKml6P%2FWY%2BdaHBRjA%3D",
       "image_url": "https://i.ebayimg.com/images/g/mBEAAeSwWhdqnY7b/s-l225.jpg",
       "color": "Banana Republic Men's Herringbone Overshirt Shirt Jacket Charcoal Gray L NWT",
       "available_sizes": [
@@ -3898,7 +3898,7 @@
       "original_price": 230,
       "discount_percent": 47.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/366790786592?_skw=Barbour+men%27s+sweater&hash=item55666f3e20:g:25oAAeSw83dq7hmG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kMt2yq7EXb6cY2uwfSandz5b%2BL1rY2HgoKHH4UC0w%2BW%2FfBOH0rE9iBZi6ggtgy6uEx8R%2FFkaiSTkklElHuRo9%2BaetlH9r1KNddT5Cl8s38AvUh%2Beoe7xFvFI1h0tX21Tn87RFVS4cWhhwsxCoWb6X6YXsBsvQSGQO9TlevdFlywVZJgDfUTfj0GPHyXcf5gNem9uvZG7pvUIJOyKxam9uQ5JHBeFmvCwDVBaexYVDyxOowGHZnQ7OYXxhWtOUImMrzL1Qyz%2B%2BjHBzZcLRN08QVxs8HH00riWoyIhpcNfwaRQ%3D%3D",
+      "url": "https://www.ebay.com/itm/366790786592?_skw=Barbour+men%27s+sweater&hash=item55666f3e20:g:25oAAeSw83dq7hmG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kMt2yq7EXb6cY2uwfSandz5b%2BL1rY2HgoKHH4UC0w%2BW%2FfBOH0rE9iBZi6ggtgy6uEx8R%2FFkaiSTkklElHuRo9%2BaetlH9r1KNddT5Cl8s38AvUh%2Beoe7xFvFI1h0tX21TmwwXeDeqx3Biuw1LXBHrG6VNAWMa0jS4oLLpwl%2F8KBRsfAMd1HioKzRtwfSW5N27thKmZxbK0ULgAADp8bsNFLs7RAPg7gzY8vvIsZtKKUqZkH9L7Rb81utMo9s7HHN4yxlY1DSydhsJKZDIU6rdTZfk%2F8sFGeSfCO50CvLm5tZA%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/25oAAeSw83dq7hmG/s-l225.jpg",
       "color": "Barbour Sweater Mens M Gray Croscombe Knitted Zip Through Wool Cardigan Jacket",
       "available_sizes": [
@@ -3951,6 +3951,38 @@
       ]
     },
     {
+      "title": "Vineyard Vines The Shep Shirt 1/4 Zip Gray Mock Neck Sweatshirt Men's Size L NWT",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 60.0,
+      "original_price": 115,
+      "discount_percent": 47.8,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/920005602772?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=itemd6349b6dd4:g:cyoAAeSwZe5qwam~&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mwBz0tLSbyu1eXxGY9M8AOZ%2FqAS%2FuSeVb27Q3aqh%2Fr8XPGu2P6jWVUQ3alIV1j9I1QURofV6AlhvOdnbC5isw9exGve34aVL4cTlQoGCq47rjkby8nieey4x%2Fcfr9T9QPXN%2FJJ822C3FbXOPRLxoaAhkyYikjzhvVeHjPaKv8YwOiXkAqT7QxZ6rxP0zIkLpyCQhVTciuOlDmxE0y0YvbTHcxce7o8CUbaUadzvypftwtnQQVvfT1fc4URiYSj%2FRlk4T%2FeHvJLgdMDIV98xRJDjV2dSDQo2Eqsro7IFUYeMWowJEoJVh28HZUaCw9KJZI%3D",
+      "image_url": "https://i.ebayimg.com/images/g/cyoAAeSwZe5qwam~/s-l225.jpg",
+      "color": "Vineyard Vines The Shep Shirt 1/4 Zip Gray Mock Neck Sweatshirt Men's Size L NWT",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "lululemon Men\u2019s Beige Hooded Pullover Hoodie Polyester Knit Solid Size M",
+      "brand": "Lululemon",
+      "tier": "?",
+      "price": 50.0,
+      "original_price": 95,
+      "discount_percent": 47.4,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/800905456427?_skw=Lululemon+men%27s+sweater&hash=itemba79af6b2b:g:RVsAAeSwe6Fq9Pc8",
+      "image_url": "https://i.ebayimg.com/images/g/RVsAAeSwe6Fq9Pc8/s-l225.jpg",
+      "color": "lululemon Men\u2019s Beige Hooded Pullover Hoodie Polyester Knit Solid Size M",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Lululemon Soft Knit Overshirt Men XL Gray Black Plaid Snap Front Shirt NWOT",
       "brand": "Lululemon",
       "tier": "?",
@@ -3958,7 +3990,7 @@
       "original_price": 95,
       "discount_percent": 47.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/920106711272?_skw=Lululemon+men%27s+overshirt&hash=itemd63aa238e8:g:BUAAAeSwKnFq6-Y9&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nD2G3d9AriFEdpfbH6wtkdH8oaC1wr3UUcPszsOIlejn7JEDPYwJgBomc1vErcxM%2B6QnCuebHvXnkN8DvAPABMajW--4KrG%2FzBcK03lHqfhlFp1yj849uTFd1FBZdPo1NSLHSyEwWOp%2FhpMrZkVzxUKDcWXdrWq05WWvchJfFYsUN9DCSwaxfBuIPJVu11DaoTljJWR8b7%2BeXuBvY1EU8Hlbc8OPntmvo18KvvTgYNSVqRvDV5Z7sjPHBlgVibqOv5zNU7xy0OsHfHST9gVznwyompqIb0fy5vXVJK%2Bq1%2Btx4QfCbw%2FCMa%2BmyH5hVCC1I%3D",
+      "url": "https://www.ebay.com/itm/920106711272?_skw=Lululemon+men%27s+overshirt&hash=itemd63aa238e8:g:BUAAAeSwKnFq6-Y9&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nD2G3d9AriFEdpfbH6wtkdH8oaC1wr3UUcPszsOIlejn7JEDPYwJgBomc1vErcxM%2B6QnCuebHvXnkN8DvAPABMajW--4KrG%2FzBcK03lHqfhlFp1yj849uTFd1FBZdPo1OhEDmJvswDryiqcQZOAIREQej30R84HGYIOQplG2BtpIfQfgB6u%2FMMLHXa6wpbco3wbC2dX9TfUzABK0bwDwe7r1KGW73mt7zUoBgPh%2F%2B12rsl0IRSTIuH4xfVPZJmFBh4svRzLZPgOR0%2F22Ank9KdSuJXQPut1a1Eb0UlgwXUhQE6Lgw5QGgGdf80zSKhuEU%3D",
       "image_url": "https://i.ebayimg.com/images/g/BUAAAeSwKnFq6-Y9/s-l225.jpg",
       "color": "Lululemon Soft Knit Overshirt Men XL Gray Black Plaid Snap Front Shirt NWOT",
       "available_sizes": [
@@ -3977,8 +4009,24 @@
       "image_url": "https://i.ebayimg.com/images/g/u3UAAeSwe41qb6Km/s-l225.jpg",
       "color": "Lululemon Men's GridLiner Fleece Overshirt Cream White Opal Bone XL",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "NWT Men\u2019s Lululemon XL Mesh Soft Jersey Short 5\u201d  Shorts BLK Black",
+      "brand": "Lululemon",
+      "tier": "?",
+      "price": 49.99,
+      "original_price": 95,
+      "discount_percent": 47.4,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/137898643188?_skw=Lululemon+men%27s+short&hash=item201b664ef4:g:HuIAAeSwDfZq0Boh",
+      "image_url": "https://i.ebayimg.com/images/g/HuIAAeSwDfZq0Boh/s-l225.jpg",
+      "color": "NWT Men\u2019s Lululemon XL Mesh Soft Jersey Short 5\u201d  Shorts BLK Black",
+      "available_sizes": [
+        "XL",
+        "S"
       ]
     },
     {
@@ -3989,27 +4037,12 @@
       "original_price": 95,
       "discount_percent": 47.4,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/358626803391?_skw=Banana+Republic+men%27s+quarter+zip&hash=item537fd2bebf:g:jZEAAeSwyF9qHfA3&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lZG17bVBGfRcOLp1hFJqVEK2uj2aAPtg9%2FAc1R65OoGAPX69nKc0KLkeECVgEgv5cecxUK5K%2FXbwPAP1LvWAX3epYf3Q8Yfo08SIptDvYCnyEDgG8DlNlCWd%2FdMgeT3yhFQ52M4sIbfVm%2B%2Fuwg8OYcJKiUFScDxcX5IPCBm5w8EtPAfCjRxhatEjknV0qUAXiaKcLXrywOpsf6dOyOn0e8FgijRI5Ox3MSnhbB2Y5Djt%2F0%2BGJSsEwrKtL7NdgKhE1X7zOqfixQ%2BNlb4bFpH%2FouUcoX3o7Au6AvrT8zuEox6LWD2gDoykHM9noziy7b2F4%3D",
+      "url": "https://www.ebay.com/itm/358626803391?_skw=Banana+Republic+men%27s+quarter+zip&hash=item537fd2bebf:g:jZEAAeSwyF9qHfA3&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lZG17bVBGfRcOLp1hFJqVEK2uj2aAPtg9%2FAc1R65OoGAPX69nKc0KLkeECVgEgv5cecxUK5K%2FXbwPAP1LvWAX3epYf3Q8Yfo08SIptDvYCnyEDgG8DlNlCWd%2FdMgeT3yh9a26kMb3nKqxv%2FSLTaW0333caITdBDhTNif7klgTLruK%2FEarToueGbb109uaKX477bA%2BIqq2VxlzwKfdClti4INiBD4f98pUyT9buV2U%2Fg8Wzuj3sF0%2FhUcYy7rY1I%2Fku1qRjTroWrtJ8EMhh28s9ONSLbxen4h2%2B1a5Wi6%2FJBKDZDcsqYH3lEt1Z03LfV%2B8%3D",
       "image_url": "https://i.ebayimg.com/images/g/jZEAAeSwyF9qHfA3/s-l225.jpg",
       "color": "Banana Republic Men's Navy Quarter-Zip Sweater Size L",
       "available_sizes": [
         "L",
         "S"
-      ]
-    },
-    {
-      "title": "Polo Ralph Lauren Mens Quarter Zip Pullover Sweatshirt Heather Gray Pony M",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 69.0,
-      "original_price": 130,
-      "discount_percent": 46.9,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/128179517448?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item1dd8183808:g:VloAAeSwd-Nq7hFX",
-      "image_url": "https://i.ebayimg.com/images/g/VloAAeSwd-Nq7hFX/s-l225.jpg",
-      "color": "Polo Ralph Lauren Mens Quarter Zip Pullover Sweatshirt Heather Gray Pony M",
-      "available_sizes": [
-        "M"
       ]
     },
     {
@@ -4040,8 +4073,8 @@
       "image_url": "https://i.ebayimg.com/images/g/q64AAeSw2rlqzH~l/s-l225.jpg",
       "color": "Polo Ralph Lauren Black Heather/Men\u2019s XL ,Double Knit Jogger Pants #710883332063",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -4104,7 +4137,7 @@
       "original_price": 155,
       "discount_percent": 45.2,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/147657220904?_skw=Peter+Millar+men%27s+jogger&hash=item22610e6328:g:RZIAAeSw2HBqGh3x&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m22--YmfRV2MHLQ9jVq34pTUdmH4Qqh4HmhbBlNris2Ztjh0KAAF5Ek2Eu79kXzuEkf%2B2yUWwBn1Qq0uCDAdqBGxCgWKdPtEoTha7NUCIiwwsSkm3BiHQICFfnqAB07I7e7eufOv3%2BWG7918%2BvEHrJtZ3N4LdyxtFTXjm6NCskERbsQVIGPeiIl%2Bu7VKejnqH4GcsUpARdu3aAW7Fj4qCSUgORiWEcis%2FjT2ivn5uRPsD0c87yxpe7lwNksuvU%2BGNz5UgPieZ8Xk6iqIHEf0vapUTJiyliiUN71BvK70OX2w%3D%3D",
+      "url": "https://www.ebay.com/itm/147657220904?_skw=Peter+Millar+men%27s+jogger&hash=item22610e6328:g:RZIAAeSw2HBqGh3x&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m22--YmfRV2MHLQ9jVq34pTUdmH4Qqh4HmhbBlNris2Ztjh0KAAF5Ek2Eu79kXzuEkf%2B2yUWwBn1Qq0uCDAdqBGxCgWKdPtEoTha7NUCIiwwsSkm3BiHQICFfnqAB07I4%2B3g38oOYCyx47BChjeBwRTvsbDc%2BE6UFiICbTypLf87Ns46kLfN2ogA8yDomyFxRUqpl%2B5Au4fyqopVYi3vOQgQdwkx12wdc0150tEZpKCNcFghQo8qKoIuEprn0E%2BF0ynyGFcYJfWtEHprXMuQmDuR1eDhS3DYu0BW2RdAG7cg%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/RZIAAeSw2HBqGh3x/s-l225.jpg",
       "color": "Peter Millar Jogger Pants Mens XL Navy New Seersucker Crown Crafted MS24XB80",
       "available_sizes": [
@@ -4125,21 +4158,6 @@
       "available_sizes": [
         "L",
         "S"
-      ]
-    },
-    {
-      "title": "J Crew Mens Large Gray Donegal Fleck Shirt Jacket Overshirt Shacket NWT",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 49.99,
-      "original_price": 90,
-      "discount_percent": 44.5,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/227588980409?_skw=J.Crew+men%27s+overshirt&hash=item34fd5c3eb9:g:R3IAAeSwsp9q44~h&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6cScOPBOfPDmI%2BcG8l4AhNwmVWZXMCE%2FkBHBqklcZSCPQYQHEOaJPewjAMAwCo4RnBvPw63BKQC42t0yQcU9mtlgAeYehdWc%2Fj7ltD%2B2HGgy%2Fi2cDR5sjBMFpEAmeXPx%2BD7G4ZSnvuv7%2Beqv%2BQEBBAjmvQTK05Qj8MgBjogit0NmAb7tbZs%2BfIdM15%2BgfO2PSPxhmGPXXPaFNgrk43iG%2FTtQHzcQ2O6UOvzbQ30HJUIFBco1YpLkjmjCQTUI2%2BBjv6rtDGFKjFZab6CNWQgaeIwGd%2BXdEbFsgthnbq1IQcw%3D%3D",
-      "image_url": "https://i.ebayimg.com/images/g/R3IAAeSwsp9q44~h/s-l225.jpg",
-      "color": "J Crew Mens Large Gray Donegal Fleck Shirt Jacket Overshirt Shacket NWT",
-      "available_sizes": [
-        "L"
       ]
     },
     {
@@ -4200,8 +4218,8 @@
       "image_url": "https://i.ebayimg.com/images/g/WAoAAeSwdU1pyLHl/s-l225.jpg",
       "color": "Lululemon Bowline Pant Men's XXL Black Athletic Jogger Casual NWOT",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -4278,11 +4296,43 @@
       "original_price": 155,
       "discount_percent": 42.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/327450140052?_skw=Peter+Millar+men%27s+sweatshirt&hash=item4c3d8c9d94:g:EXAAAeSw6l9q85C-&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mLlyzlk0gdMOqppQFTRLq4z9YI%2BWwlT%2FzjX5f5thwXJ77JnozftKh6dQAUinsJpPxC76uvak8CHUOBtP26Z6YJh6YG2tEymy78uObIfV7mi%2BB1XXDpw1a%2FZFzWwDnQElbKcL6Juou6jFCyYPyrGCw5LiFmz8akN08MxoS%2BH3TatO%2BnsFnxIuvE%2FP3voA5tjgHI9vVBsp3Fx55lv683WR9Ne%2FQPHD75UmpXUTEv%2Bd6GRGGW4udCz8QU9oqBlePexWf3YoiQNZyAz0xL9jSZdL4T1kpDPSRKOsr2tLj382KBldn%2Bpd4ruHV4W04llwtirhY%3D",
+      "url": "https://www.ebay.com/itm/327450140052?_skw=Peter+Millar+men%27s+sweatshirt&hash=item4c3d8c9d94:g:EXAAAeSw6l9q85C-&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mLlyzlk0gdMOqppQFTRLq4z9YI%2BWwlT%2FzjX5f5thwXJ77JnozftKh6dQAUinsJpPxC76uvak8CHUOBtP26Z6YJh6YG2tEymy78uObIfV7mi%2BB1XXDpw1a%2FZFzWwDnQElbSb%2F5c6i2ITnUuKAYvC88axx4TY9zPYFMy4yO7MtJP7LmPJRB%2FGK32YQ56sUXAZNhNfP%2FZAKJHEwmP9Sqcx41DiaIhV5APY84DP5Rtb16d4ArxCn2SZVOu5fW3xPkpfCdSe7LVTqDzkZXIgzCIjQA3KMEnxdC2Xl9lmw4hHt5c3seWqvYHsNfV9P8RyTwKqxs%3D",
       "image_url": "https://i.ebayimg.com/images/g/EXAAAeSw6l9q85C-/s-l225.jpg",
       "color": "PETER MILLAR Mens L Gray HOODIE  PULLOVER SWEATSHIRT",
       "available_sizes": [
         "L"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Men's Black Polo Shirt M Short Sleeve Collared Logo Button Solid",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 69.0,
+      "original_price": 120,
+      "discount_percent": 42.5,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/178433733219?_skw=Brooks+Brothers+men%27s+short&hash=item298b7ab263:g:EYAAAeSwUjRqiurM&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7ngi1kHgszHXySSSCN9fPIz7c9XZOgfwMXHcB3DFdsyLT4mCDIp2aXb2lvbQVKIgzb0prA%2B%2FEUghjnwvMuH0e2AexnpaZF1HtazdHx5YXx6WswlptZ55RS3OdL6EEEjNo6HExbV5ts%2FbwpFi7sl6xaLgkhHrBbiXZvGvgqy3wabHRXdTlu3IOjNYYxUCkiNsM0VirLRH8KAazsbvOcWsPluBjgHPXup4uRluUBXxGlDTQObwIw93NFGOGLCduVBmLWMnZdFWr8tNmOUFDwaA%2BHpuU4rFG4W5Tx2DujYVTIqR1pRn5Hly33YwT%2FWrjNWi7I%3D",
+      "image_url": "https://i.ebayimg.com/images/g/EYAAAeSwUjRqiurM/s-l225.jpg",
+      "color": "Brooks Brothers Men's Black Polo Shirt M Short Sleeve Collared Logo Button Solid",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Polo Ralph Lauren Mountain Logo Hoodie Men\u2019s Large Black Pullover Sweatshirt NWT",
+      "brand": "Polo Ralph Lauren",
+      "tier": "S",
+      "price": 75.0,
+      "original_price": 130,
+      "discount_percent": 42.3,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/307236571995?_skw=Polo+Ralph+Lauren+men%27s+sweatshirt&hash=item4788ba0b5b:g:1P0AAeSwuZtq09nr",
+      "image_url": "https://i.ebayimg.com/images/g/1P0AAeSwuZtq09nr/s-l225.jpg",
+      "color": "Polo Ralph Lauren Mountain Logo Hoodie Men\u2019s Large Black Pullover Sweatshirt NWT",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -4308,12 +4358,27 @@
       "original_price": 95,
       "discount_percent": 42.1,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/407355959248?_skw=Banana+Republic+men%27s+overshirt&hash=item5ed84ea7d0:g:LskAAeSwKkpq8pCP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lS23jfUkczqc7PSo0VNljqCVhiTlD0GFOwQ55kxWqarOcjcMu19HQotyyS3hV4TTfzcRQ7DIGN623r59tEYy87%2BgIXFAphekTlEua0g%2BeR00g52nMIumjpuH3Lsbe1SfrDmv04cIwqgl%2FVDaFuZR5mvbZbDVKSdVF9KaKirnv91w1W5b81FuHoKFUQqNtkHM3CmiNBJUjKAzhN9p3Mmw1eNNI6tj%2BozzuBZYhcBRDASr8R8ETdzJ6pze4nrxKawFYDxWid9NTzO389ZYDCIiAEjRiCw9VncUiTWSqfkySeTYeLYNPA3DZzqOfOscqhuKQ%3D",
+      "url": "https://www.ebay.com/itm/407355959248?_skw=Banana+Republic+men%27s+overshirt&hash=item5ed84ea7d0:g:LskAAeSwKkpq8pCP&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lS23jfUkczqc7PSo0VNljqCVhiTlD0GFOwQ55kxWqarOcjcMu19HQotyyS3hV4TTfzcRQ7DIGN623r59tEYy87%2BgIXFAphekTlEua0g%2BeR00g52nMIumjpuH3Lsbe1SfrwRj4%2BUnd7mk0TYzY%2B4r3ShdcYHm3wzvIORC5xLS0wZaoW8Z0R5mH11wkGV0iPT23B1NrANeawPTkNVp7LoRoqQ4UBcqosyYn%2BJD7G10Dw0lEPCk82jdsLJVRbvXIADPpJSrts4hlZIqibZmskh0vrtDwU8%2FDUkni82PrKkSI0J3uzmv3WRDsJjhM45XAMGwg%3D",
       "image_url": "https://i.ebayimg.com/images/g/LskAAeSwKkpq8pCP/s-l225.jpg",
       "color": "Banana Republic Men's Soft Knit Sweatshirt Jacket Navy NWT Medium Scuba Jacket",
       "available_sizes": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "Peter Millar Crown Crafted Quarter Zip Pullover Mens XXL Beige Presidents NWT",
+      "brand": "Peter Millar",
+      "tier": "S",
+      "price": 89.99,
+      "original_price": 155,
+      "discount_percent": 41.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/137923438989?_skw=Peter+Millar+men%27s+quarter+zip&hash=item201ce0a98d:g:Yu0AAeSw-bFq87sT",
+      "image_url": "https://i.ebayimg.com/images/g/Yu0AAeSw-bFq87sT/s-l225.jpg",
+      "color": "Peter Millar Crown Crafted Quarter Zip Pullover Mens XXL Beige Presidents NWT",
+      "available_sizes": [
+        "XXL"
       ]
     },
     {
@@ -4328,7 +4393,6 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0159/3242/4246/files/LSSHBLACK.jpg?v=1768254621",
       "color": "Black",
       "available_sizes": [
-        "L",
         "XL"
       ]
     },
@@ -4340,9 +4404,24 @@
       "original_price": 120,
       "discount_percent": 41.7,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/366752969919?_skw=Brooks+Brothers+men%27s+sweater&hash=item55642e34bf:g:OyoAAeSwLpRqOaG1&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7llJx3BfwyD%2ByIJrgLUG%2FMVDGft9br8EEiSzxd9KcmD8vmrGHKku2fyKTObZxU3jf9Dh6p2xHD1F1p62HLBE9if3bTsgWCW7NBu%2BluG3iViz4qJ8kyfV09xmDdRHBYDv956a0JJjcNWBQzlKuqPSYmFKtc1k%2FokSBFb%2FzXRlit6zcShSHGZeoyC6lF0KYn5KNQd7PS7E%2FBK%2BX2tyQcshF8E4DgpAUu15ZIPRTdfEPDaHYwWUkK7qXXLqgDyN7WufXd%2FMofc0hry3DJyOW5HLka56R6r7wrxaSx7RnnuN4qYmJ%2BWDmnTMrhLRlH45swlrJ8%3D",
+      "url": "https://www.ebay.com/itm/366752969919?_skw=Brooks+Brothers+men%27s+sweater&hash=item55642e34bf:g:OyoAAeSwLpRqOaG1&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7llJx3BfwyD%2ByIJrgLUG%2FMVDGft9br8EEiSzxd9KcmD8vmrGHKku2fyKTObZxU3jf9Dh6p2xHD1F1p62HLBE9if3bTsgWCW7NBu%2BluG3iViz4qJ8kyfV09xmDdRHBYDv96XG09zLbOV5vW6gstHcETbUw6Nm47h%2BS4H9ZRpINZXJELjl9ZUlZXbPi9vQXR7IZNnfs0Vo0kRMcgC1dli303d032lEUc6DM6znsIRDb40fg%2FWwyhv1kYt91%2Bj4tHgvs2v7qSyExI3HioeCHav9glu1t8snNjYq5INJPno2miZMnVeFdvhg4F6CCT%2BooIFtaM%3D",
       "image_url": "https://i.ebayimg.com/images/g/OyoAAeSwLpRqOaG1/s-l225.jpg",
       "color": "Brooks Brothers Tennis V-Neck Sweater Mens XL Navy Blue Cotton $128 New NWT",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Saxxon Wool V Neck Sweater Mens XL Beige Quiet Luxury Gift NEW",
+      "brand": "Brooks Brothers",
+      "tier": "A",
+      "price": 69.99,
+      "original_price": 120,
+      "discount_percent": 41.7,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/117516590116?_skw=Brooks+Brothers+men%27s+sweater&hash=item1b5c88dc24:g:Py0AAeSwEVRq9OdD",
+      "image_url": "https://i.ebayimg.com/images/g/Py0AAeSwEVRq9OdD/s-l225.jpg",
+      "color": "Brooks Brothers Saxxon Wool V Neck Sweater Mens XL Beige Quiet Luxury Gift NEW",
       "available_sizes": [
         "XL"
       ]
@@ -4364,20 +4443,27 @@
       ]
     },
     {
-      "title": "CottonTek\u2122 Brachetto Shirt",
+      "title": "Performance Flannel Barker Shirt",
       "brand": "UNTUCKit",
       "tier": "A",
       "price": 69.0,
       "original_price": 115.0,
       "discount_percent": 40.0,
       "source": "UNTUCKit",
-      "url": "https://untuckit.com/products/kilpatrick-wf-perf-light-blue",
-      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/KILPATRICK-UNTUCKIT-COTTON-TEK-PLAID-BLUE-4.jpg?v=1776277953",
-      "color": "Light Blue",
+      "url": "https://untuckit.com/products/barker",
+      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/BARKER-UNTUCKIT-42220Nav-PERF-FLANNEL-PLAID-BLUE-1.jpg?v=1761054892",
+      "color": "Navy",
       "available_sizes": [
+        "L",
+        "LT",
+        "M",
         "S",
+        "XL",
+        "XLT",
         "XXL",
-        "XXXL"
+        "XXLT",
+        "XXXL",
+        "XXXLT"
       ]
     },
     {
@@ -4388,27 +4474,12 @@
       "original_price": 55.0,
       "discount_percent": 40.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/168524072940?_skw=Polo+Ralph+Lauren+men%27s+t-shirt&hash=item273cd147ec:g:wkIAAeSwbSBp0wBL&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nyQsveM9SUtlZ4IppvbQ0bE93xIgkkwStGSfsZ1vLLQkR%2BJ9uIkioUD4KHJ9pren16tdyLShgbPO4XvqWW%2BXksyK5BeQ59Ubhr8JdIFIeVhlgyBZA0HLKWn13yDm3DTvwUht8XJphosaQeViv7DRCeYKwXdvJJDJTHvhhmkLpfeGTKjbO4NJS8%2FemRQaYaZy6mC2Yg6UJ2EiC5E1inM7zNz4UrTPMVEY9hTh955UBS6kTOD7T2B%2BiyJVo1w6kdLARztZp7qImKIq3Eq4jb%2F7RYlCbF1frqPvh4%2Bi7KhBqwK2IWFRYc3Rs4Sma3iuN34M8%3D",
+      "url": "https://www.ebay.com/itm/168524072940?_skw=Polo+Ralph+Lauren+men%27s+t-shirt&hash=item273cd147ec:g:wkIAAeSwbSBp0wBL&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nyQsveM9SUtlZ4IppvbQ0bE93xIgkkwStGSfsZ1vLLQkR%2BJ9uIkioUD4KHJ9pren16tdyLShgbPO4XvqWW%2BXksyK5BeQ59Ubhr8JdIFIeVhlgyBZA0HLKWn13yDm3DTvy9vthxbjKeddfEUA4f6QyM5Ci2ELRplwuytQ5JVAAyz7sZQtS8OcsFCIRjGCUU4ZGSbHzZO8M5cpiMsBKSu3YayKmHbfZZDQit%2FBlHK5%2BJRP2SKuNeeBNlwo1GRgr844tdRXS9mXal0dfdwLwJqEoxbWH7S5exHluz0N4R%2BmN2gtHv2pcovMC%2BdQ7n0P4F7fI%3D",
       "image_url": "https://i.ebayimg.com/images/g/wkIAAeSwbSBp0wBL/s-l225.jpg",
       "color": "Polo Ralph Lauren Men's Custom Slim Fit  Crewneck T-Shirt Black & White -S-XXL",
       "available_sizes": [
-        "S",
-        "XXL"
-      ]
-    },
-    {
-      "title": "NWOT Brooks Brothers XL Acuren Logo 1/4 Zip Pullover Sweatshirt Black Cotton Bld",
-      "brand": "Brooks Brothers",
-      "tier": "A",
-      "price": 25.91,
-      "original_price": 43.19,
-      "discount_percent": 40.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/198416380963?_skw=Brooks+Brothers+men%27s+sweatshirt&hash=item2e3289b423:g:HmgAAeSwIAdqKZMw",
-      "image_url": "https://i.ebayimg.com/images/g/HmgAAeSwIAdqKZMw/s-l225.jpg",
-      "color": "NWOT Brooks Brothers XL Acuren Logo 1/4 Zip Pullover Sweatshirt Black Cotton Bld",
-      "available_sizes": [
-        "XL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -4443,19 +4514,43 @@
       ]
     },
     {
-      "title": "J.Crew Men's Black Crewneck Sweatshirt Cotton Blend Pullover Long Sleeve Size L",
-      "brand": "J.Crew",
+      "title": "Vintage Wash Short-Sleeve Normand Shirt",
+      "brand": "UNTUCKit",
       "tier": "A",
-      "price": 29.99,
-      "original_price": 49.99,
-      "discount_percent": 40.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/860073856214?_skw=J.Crew+men%27s+sweatshirt&hash=itemc840658cd6:g:Rf4AAeSwJMFq18Lk",
-      "image_url": "https://i.ebayimg.com/images/g/Rf4AAeSwJMFq18Lk/s-l225.jpg",
-      "color": "J.Crew Men's Black Crewneck Sweatshirt Cotton Blend Pullover Long Sleeve Size L",
+      "price": 60.0,
+      "original_price": 99.5,
+      "discount_percent": 39.7,
+      "source": "UNTUCKit",
+      "url": "https://untuckit.com/products/normand",
+      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/NORMAND-UNTUCKIT-42282Nav-VINTAGE-WASH-BLUE-1_3a88b39d-ace2-4253-a50a-594ff23eab0b.jpg?v=1789487426",
+      "color": "Navy",
       "available_sizes": [
         "L",
-        "S"
+        "M",
+        "S",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
+    },
+    {
+      "title": "Chunky Knit Cardigan",
+      "brand": "UNTUCKit",
+      "tier": "A",
+      "price": 90.0,
+      "original_price": 148.0,
+      "discount_percent": 39.2,
+      "source": "UNTUCKit",
+      "url": "https://untuckit.com/products/cordilac-cardigan-grey",
+      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/CORDILAC-UNTUCKIT-42243Gry-CARDIGAN-SOLID-GREY-1.jpg?v=1761059507",
+      "color": "Grey",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL",
+        "XXXL"
       ]
     },
     {
@@ -4466,11 +4561,41 @@
       "original_price": 230,
       "discount_percent": 39.1,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/366795284357?_skw=Barbour+men%27s+sweater&hash=item5566b3df85:g:rRcAAeSw76dq8NIN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nWn4XIw05RKqP4PWcMvsbFM7GjK3G2Yi4Vmowhn6wwdwie8wpj2xUODqUSrS5KfIERoG6uoycGMRmwmwBp1DufX7QUu8%2B93QYJXtx%2FVjUd9zugjswtpl4tQ%2FuDYyTmHyNsNcJcDmC%2FWAOZrZtrBc0X18kt04vcrZlXGVmmS%2BqJbAf0s2pZBif7V0xWtCMAwAG6GrxRO%2BPTkggB%2FeIENPJSjCKAilvp5%2BUefKaNQAQWj8MvoA3w%2FKD8cI8KXAfTvofB863pKe4kowlHKPNNa%2BPgKehMXyjp31URGEnC3Sm3sw%3D%3D",
+      "url": "https://www.ebay.com/itm/366795284357?_skw=Barbour+men%27s+sweater&hash=item5566b3df85:g:rRcAAeSw76dq8NIN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nWn4XIw05RKqP4PWcMvsbFM7GjK3G2Yi4Vmowhn6wwdwie8wpj2xUODqUSrS5KfIERoG6uoycGMRmwmwBp1DufX7QUu8%2B93QYJXtx%2FVjUd9zugjswtpl4tQ%2FuDYyTmHyOSEiV6SO0OV%2F9zkyloLQg9%2FBH3epKpYMHEyuEJ0rR9WZrbGuZoChtHdOX8eMbAgghuu92tthOYWMvYVHzevXQ0jRj2VxJSVSSHpMUOhDigeTbFvl7mur1iP28z0Z%2BzeI0NiFzugn%2B99tjb34ZKFR5Q9Iiy2%2Bcfr%2BgOZMUvkPI2rw%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/rRcAAeSw76dq8NIN/s-l225.jpg",
       "color": "Barbour Cardigan Sweater Mens M Gray Check Falton Knitted Button Up Long Sleeve",
       "available_sizes": [
         "M"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Clubhouse Performance Hoodie Mens XL- Gray",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 69.99,
+      "original_price": 115,
+      "discount_percent": 39.1,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/880102776680?_skw=Vineyard+Vines+men%27s+sweatshirt&hash=itemccea369f68:g:IWAAAeSwMllq805I",
+      "image_url": "https://i.ebayimg.com/images/g/IWAAAeSwMllq805I/s-l225.jpg",
+      "color": "Vineyard Vines Clubhouse Performance Hoodie Mens XL- Gray",
+      "available_sizes": [
+        "XL"
+      ]
+    },
+    {
+      "title": "J Crew Mens Side-panel crewneck sweatshirt Crewneck Navy Blue Large NWT",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 55.0,
+      "original_price": 90,
+      "discount_percent": 38.9,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/237017047047?_skw=J.Crew+men%27s+sweatshirt&hash=item372f512007:g:qCcAAeSw1nRqhd0A",
+      "image_url": "https://i.ebayimg.com/images/g/qCcAAeSw1nRqhd0A/s-l225.jpg",
+      "color": "J Crew Mens Side-panel crewneck sweatshirt Crewneck Navy Blue Large NWT",
+      "available_sizes": [
+        "L"
       ]
     },
     {
@@ -4485,8 +4610,7 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MWS2616-NPC-HuntingIslandShirt-NavyPalmCheck_OM_FULL_BODY_1_Web.jpg?v=1769444831",
       "color": "Navy Palm Check",
       "available_sizes": [
-        "L",
-        "S"
+        "L"
       ]
     },
     {
@@ -4501,38 +4625,82 @@
       "image_url": "https://i.ebayimg.com/images/g/5BsAAeSwbF5q8PcE/s-l225.jpg",
       "color": "Polo Ralph Lauren Men's Black Fleece Jogger Pants XXL Drawstring Tapered",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
-      "title": "Polo Ralph Lauren Embroidered Logo Fleece Jogger Pants Mens Medium Navy",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 79.99,
-      "original_price": 130,
-      "discount_percent": 38.5,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/860128478508?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=itemc843a7052c:g:FGIAAeSw83dq8gMG&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mQ8otUn50OCLcx1dKtpnBi92OBvZtgxsXJri%2B%2BIF5fFdTN%2Fg1p0AkGNiINkFzVKoaIvnG1ap9MSqgR35rIXoDzDRd3muEWyiHAfLfEs%2B9M1UeoS3AYk2ipy8tmIjqZM9y4gy5%2BiR1tUFMFpr6qBwmFY6zvf9iNUa60vkUEF3m23jWkIOcuF42jQli%2BI2ixjZYam3yZPNzedu1rani7EufILHwUd88qjw8Itz%2BcWGbZpUzp%2FvBg93tVfIvTa90Prw8710dLDRuZv6%2Bg4Z1WDtixvVnb6Y5TXJfmWXyIFAr2YNHP9TEw%2FxqbFRran3CZCPk%3D",
-      "image_url": "https://i.ebayimg.com/images/g/FGIAAeSw83dq8gMG/s-l225.jpg",
-      "color": "Polo Ralph Lauren Embroidered Logo Fleece Jogger Pants Mens Medium Navy",
+      "title": "Textured Merino Wool Quarter-Zip Sweater",
+      "brand": "UNTUCKit",
+      "tier": "A",
+      "price": 85.0,
+      "original_price": 138.0,
+      "discount_percent": 38.4,
+      "source": "UNTUCKit",
+      "url": "https://untuckit.com/products/marvall-sleet-heather",
+      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/MARVALL-UNTUCKIT-42245Gry-QUARTER-ZIP-HEATHERED-SLEET-HEATHER-1.jpg?v=1761065387",
+      "color": "Grey",
       "available_sizes": [
-        "M"
+        "S",
+        "XL",
+        "XXL",
+        "XXXL"
       ]
     },
     {
-      "title": "Brooks Brothers Sweater Mens Large Beige Merino Wool Crewneck Lightweight Knit",
+      "title": "Vintage Wash Northwell Shirt",
+      "brand": "UNTUCKit",
+      "tier": "A",
+      "price": 65.0,
+      "original_price": 105.0,
+      "discount_percent": 38.1,
+      "source": "UNTUCKit",
+      "url": "https://untuckit.com/products/northwell",
+      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/NORTHWELL-UNTUCKIT-42337Nav-VINTAGE-WASH-PINK-1.jpg?v=1771535074",
+      "color": "Navy",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
+    },
+    {
+      "title": "Ultrasoft Henley",
+      "brand": "UNTUCKit",
+      "tier": "A",
+      "price": 43.0,
+      "original_price": 69.5,
+      "discount_percent": 38.1,
+      "source": "UNTUCKit",
+      "url": "https://untuckit.com/products/albarino-1",
+      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/ALBARINO-UNTUCKIT-02078SGY-HENLEY-SOLID-SLATE-GREY-1_f76a6097-5a8d-4dd7-9279-b1a6056566d2.jpg?v=1756306632",
+      "color": "Slate Grey",
+      "available_sizes": [
+        "L",
+        "M",
+        "S",
+        "XL",
+        "XXL",
+        "XXXL"
+      ]
+    },
+    {
+      "title": "Brooks Brothers Men's Black Cable-Knit Crew Neck Sleeveless Sweater Vest L",
       "brand": "Brooks Brothers",
       "tier": "A",
-      "price": 74.99,
+      "price": 75.0,
       "original_price": 120,
       "discount_percent": 37.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/880077073141?_skw=Brooks+Brothers+men%27s+sweater&hash=itemcce8ae6af5:g:gpoAAeSwp6Vq44b3",
-      "image_url": "https://i.ebayimg.com/images/g/gpoAAeSwp6Vq44b3/s-l225.jpg",
-      "color": "Brooks Brothers Sweater Mens Large Beige Merino Wool Crewneck Lightweight Knit",
+      "url": "https://www.ebay.com/itm/900085882793?_skw=Brooks+Brothers+men%27s+sweater&hash=itemd1914c9fa9:g:DoYAAeSwnIRq9ePM",
+      "image_url": "https://i.ebayimg.com/images/g/DoYAAeSwnIRq9ePM/s-l225.jpg",
+      "color": "Brooks Brothers Men's Black Cable-Knit Crew Neck Sleeveless Sweater Vest L",
       "available_sizes": [
-        "L"
+        "L",
+        "S"
       ]
     },
     {
@@ -4566,8 +4734,8 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0359/8357/files/SP26-Faherty-Mens-MOS2607-NAR-HighlandKnitCpo-NavyRidgeMelange_OM_EDITORIAL_1_Web.jpg?v=1771341423",
       "color": "Navy Ridge Melange",
       "available_sizes": [
-        "XL",
-        "XS"
+        "S",
+        "XL"
       ]
     },
     {
@@ -4633,7 +4801,7 @@
       "original_price": 295.0,
       "discount_percent": 37.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/198609471674?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item2e3e0c08ba:g:S3IAAeSw0yNqlk99&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lmzeOAT2xaIit0OmQ%2Fd5KiLgmDoZnQSVVyJrxpKFgdRhGj7ctxeads4j5vyxdWBGAwTr4ILLihaWjLX57c24LjyoPB6SxRXNnwoXt1JtHuCvE2VNcHNtOI8fXUBusoWlKWsXXANV39TyjUpjbBqJAFIyaVSsKNIb98hGzh9qGq3kmcTM4yAZHkuUpuOUukffn6lrvad%2Bq8ojyOKl6yuMMB3%2Bo%2FEdHW9NokLrNS1fmDa%2FWrBp66HqUFwD%2FUb7NacfKZgnTG5qeCIQdaZmmJnPljAKM8NZohYFUKAzAgyuAvRh9Y4hCtdFoUDM5dUVDglIM%3D",
+      "url": "https://www.ebay.com/itm/198609471674?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item2e3e0c08ba:g:S3IAAeSw0yNqlk99&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lmzeOAT2xaIit0OmQ%2Fd5KiLgmDoZnQSVVyJrxpKFgdRhGj7ctxeads4j5vyxdWBGAwTr4ILLihaWjLX57c24LjyoPB6SxRXNnwoXt1JtHuCvE2VNcHNtOI8fXUBusoWlJ6vO%2FGsOzmFGCWP32zd2Vy4hDqN6NR%2BeN%2BpG6BPS5BVDaEvWtXGcEbhtQoEsZuZKTPO91oDmcnObDm%2B9VVqF%2Fh9UVFpz5vL%2BRIpu5x9tOSb9Nn4yFDVNczFxYT6JtzYRhH3dmRyOKPTxPKy62PDYQltdGCCXXei5YLNwBoWHKflz3o2SkYvJIB1rxvHzed3XA%3D",
       "image_url": "https://i.ebayimg.com/images/g/S3IAAeSw0yNqlk99/s-l225.jpg",
       "color": "POLO RALPH LAUREN Polo Duffle Wool Navy Polo Bear Sweater Men Size - L",
       "available_sizes": [
@@ -4648,7 +4816,7 @@
       "original_price": 95,
       "discount_percent": 36.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/860086554828?_skw=Lululemon+men%27s+quarter+zip&hash=itemc8412750cc:g:YeUAAeSwxORqx~Sn&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n5ZH25PabLoxGcX6zPUlF3%2B6RFVWm%2BJl0zkEkDakxryV1MMDWTPjl6SfowXDSb30YesTf28sAhAozh%2Fccl0QEQmrxt3DUJihsMKZIt2LSlFEA6FkNJjqZhXex13TIppNJooPTD9tymYjDeAMotWmPrVi8fxE8UuSe%2F2qBUFks%2BI5o%2Bhu6IkVER3CEB5T5%2Fgij3048SPFEpzRkq2a2yax97Jee2yiVCD9NI3u8TEycEDovMHR6cesr5AGKGCooZ8SuDy7d3PlAPbt0TdGs6WyDEWRmASMiAxOjrZ1tQijjE1zZzRcyQ86dtwC6V3EKU1Mw%3D",
+      "url": "https://www.ebay.com/itm/860086554828?_skw=Lululemon+men%27s+quarter+zip&hash=itemc8412750cc:g:YeUAAeSwxORqx~Sn&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n5ZH25PabLoxGcX6zPUlF3%2B6RFVWm%2BJl0zkEkDakxryV1MMDWTPjl6SfowXDSb30YesTf28sAhAozh%2Fccl0QEQmrxt3DUJihsMKZIt2LSlFEA6FkNJjqZhXex13TIppNIDhEARMws8snuQ51IOqIEpAuWviSttoUKb%2Fwowyl8oifEeFpGMUtBnJRal7Nhld06cih8ATR1Z8uKPvnNsDXbOJPg2Ve%2ByPRnuBurn6cS7ahOoAnEHKuEKz%2FC4gNwUWp0sWnvedokw%2Bl915f5sOcr%2Bmr6%2F1%2FoHitn50BzNi%2BGNmSnuzYDZFBmPJuY62cG6wy8%3D",
       "image_url": "https://i.ebayimg.com/images/g/YeUAAeSwxORqx~Sn/s-l225.jpg",
       "color": "Lululemon Surge Warm Half-Zip Pullover Mens Large Grey Performance New W/ Tags",
       "available_sizes": [
@@ -4663,7 +4831,7 @@
       "original_price": 95,
       "discount_percent": 36.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/137905952323?_skw=Lululemon+men%27s+short&hash=item201bd5d643:g:3mkAAeSw-rZq7QpX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKP3kdEF6gtXJUxf%2BBvk1ODak2Osns1sPq4Mn6rSAt0GvtwStv1eQuW3Sn%2FK2uj1RRPYXdJGVT5uN7pPldGCr5aK1H103gPuIbDVoEN7ulyYBWp1fryMdDScphIOEmdbcVWw8%2B6Dpu8E2b6ILnwIEfhWQ4nC2XJ4Vh%2FTN040nT2PYJLRoWKrmr20%2BRfLnr4qK%2FE2asTc62QkUYx38tAz76Pl5KYG%2BpWu3%2BLDS6ZhzjfsbT7NIZHSk5zLBldCu072fqyRuCrYmQsXYibzwzjMHxvdQN0XlmmDWh0jl0UIgGew%3D%3D",
+      "url": "https://www.ebay.com/itm/137905952323?_skw=Lululemon+men%27s+short&hash=item201bd5d643:g:3mkAAeSw-rZq7QpX&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lKP3kdEF6gtXJUxf%2BBvk1ODak2Osns1sPq4Mn6rSAt0GvtwStv1eQuW3Sn%2FK2uj1RRPYXdJGVT5uN7pPldGCr5aK1H103gPuIbDVoEN7ulyYBWp1fryMdDScphIOEmdbf9N1Oo0xolBDWOUOU8IS0VFkiclaj2eo8iyfbUb2TbtWUAGfylreg%2FRc9yC7yUxlfrRV9q2r6831hPoLttY0wWjriKf5Lqo2tNp0cWsxZ%2B4Oll5ku9k%2FeQPtlqpW%2FIQ5AFMYXjGFmOIoEmW7Oix1TgnEdeZpWJTzDwyBitDfZd%2BA%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/3mkAAeSw-rZq7QpX/s-l225.jpg",
       "color": "NWT LULULEMON Pace Breaker Shorts 5\" Men's L Beige Quick Dry Stretch",
       "available_sizes": [
@@ -4679,25 +4847,9 @@
       "original_price": 95,
       "discount_percent": 36.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/880101049040?_skw=Lululemon+men%27s+t-shirt&hash=itemccea1c42d0:g:5qsAAeSwNTdq8pyE&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfGl2%2BYUCJQJzMZVCAjtW%2BhRmMZOxynsOyqbCE22lTZu13gkxIwwzQYzdnTeDPkEdKewK3TFtJZP%2B%2B4imVIqogwI9GkHOaRGpForH1Pp53rFwSvGlKoSMy4b3jDBnl9124yk4mZUc0ZwrUyBjQaUdFca1sCAkKIvN4118Zexm3BUkt71%2BU%2BMg%2BQlAakKKl0j8Jesde39T%2BriWbKFAKQ51Y1BeHC79XffCWcqkE7vlhFBGzlbY0uIoikz5zYX7vGOIovX1dmmcai5g5%2Fv65Pe2oXSBOEHcC4narOxBdhskvaQ%3D%3D",
+      "url": "https://www.ebay.com/itm/880101049040?_skw=Lululemon+men%27s+t-shirt&hash=itemccea1c42d0:g:5qsAAeSwNTdq8pyE&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lfGl2%2BYUCJQJzMZVCAjtW%2BhRmMZOxynsOyqbCE22lTZu13gkxIwwzQYzdnTeDPkEdKewK3TFtJZP%2B%2B4imVIqogwI9GkHOaRGpForH1Pp53rFwSvGlKoSMy4b3jDBnl912nXgiVieY%2FeSmEqNkrGaCun9OrCtF05dd9lQzwvDG9PRwW1s1xAEnxIcfawwCTLiFb67Z0vTmJeWSMu8SK2XvTEImYTvsVoa7KJKa70KjqUDpaBzXPqX6D7HoYPWkH50UUqKzNiRJfUeQht%2FqnbWjEObs4S9ZPZcY1%2FMQ39rW8%2Bg%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/5qsAAeSwNTdq8pyE/s-l225.jpg",
       "color": "Men\u2019s Lululemon Drysense T-shirt medium New With Tags Grey Blue",
-      "available_sizes": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "NWT LULULEMON  Navy Blue Metal Vent Tech SS 2.0 Shirt Men's Size M",
-      "brand": "Lululemon",
-      "tier": "?",
-      "price": 59.99,
-      "original_price": 95,
-      "discount_percent": 36.9,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/158237464463?_skw=Lululemon+men%27s+t-shirt&hash=item24d7b0178f:g:QFQAAeSw2DJqk1Sh&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7mtmfYuCKMFbK%2BtBtW5RCOF3lZJH3c%2BGQ22Y9wc%2BcizNxRKFUu%2FIoXzZX%2B4V4wSstm2isJZNkbcdGCNRwpcjR0QN5CucQ0KN%2BwCbkD5U9fpV7OysMdJOF7THeDB2PwkFTQWkAVGJ53UEGXcZS0u2Afrk1ygvznk7%2FFcj6uP7LH8voq%2BHVbWtbWJm7ok%2B8irHyWvw59LJHVSf10xXbiVTV0jNIUHBRxoNzCf4IN1PLhKLB4Ji5DQo0y2Q2Hy9iZqd059nOICJaHr1hgcct%2FBJ5FUoEElyrRLDW8tTzq3mRgCa28SJaRKhD4LY9NGLhpFJzI%3D",
-      "image_url": "https://i.ebayimg.com/images/g/QFQAAeSw2DJqk1Sh/s-l225.jpg",
-      "color": "NWT LULULEMON  Navy Blue Metal Vent Tech SS 2.0 Shirt Men's Size M",
       "available_sizes": [
         "S",
         "M"
@@ -4711,7 +4863,7 @@
       "original_price": 95,
       "discount_percent": 36.9,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/398431374821?_skw=Banana+Republic+men%27s+overshirt&hash=item5cc45c4de5:g:g5gAAeSw8sxqtqiU&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n%2FOyj2M21jMzQdC8UPo6UFB1JrHJMGp78IZw7XeSBYAyCelB6%2Fjay5%2BPK1u4NiTignYuzHM44d114ekVR5F2Qs6DyTwWlurlg6jmMHDvA1Y92M5fq%2BiWXug5EXvEZsEC2wV%2BoBU%2FOG6UfKChDsQOfxuHdYzPByJdbXUSc6aASBPJgnytN%2BtTRTG3ST7EsiNIJl%2BeKmlME%2B8hvKGCyfmsBNasjqC%2FjHHsJGUfhxawNDMOdTFolliNcIuYfYxphQZagXNaQ4Vp3%2FIa2rVcPFdOJbawknM20P04uRcrMv3jx4oqV6OfuKXcWaVqb2ud7vkUw%3D",
+      "url": "https://www.ebay.com/itm/398431374821?_skw=Banana+Republic+men%27s+overshirt&hash=item5cc45c4de5:g:g5gAAeSw8sxqtqiU&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n%2FOyj2M21jMzQdC8UPo6UFB1JrHJMGp78IZw7XeSBYAyCelB6%2Fjay5%2BPK1u4NiTignYuzHM44d114ekVR5F2Qs6DyTwWlurlg6jmMHDvA1Y92M5fq%2BiWXug5EXvEZsEC1sMvN8uTL99X%2FqG7BaylN6RjzeIQV3PMfk8zzHB3q6yso3jpqSVQZ1vlYWtG%2FP%2B5sZxn%2FBxUiPBZYYrjIG6mek%2B7H7sMWEw%2FbpL1iJMmXn9l%2B88aHm%2BCj%2B9Kev6J0c6O2y%2FpU0e91JawTGO8qsfTMYcbjn8choPqxxIoepSsy0kKTbBcOi35Cga3SZYe2tZ1w%3D",
       "image_url": "https://i.ebayimg.com/images/g/g5gAAeSw8sxqtqiU/s-l225.jpg",
       "color": "Banana Republic Men\u2019s L Buffalo Plaid Shirt Jacket Shacket Gray Black Overshirt",
       "available_sizes": [
@@ -4720,18 +4872,19 @@
       ]
     },
     {
-      "title": "lululemon Engineered Warmth Gray Knit Crewneck Mens L Thermal Athleisure",
+      "title": "Lululemon Men\u2019s XL 'ABC Jogger' Black Drawstring Warpstreme Tapered Pants NWT",
       "brand": "Lululemon",
       "tier": "?",
       "price": 60.0,
       "original_price": 95,
       "discount_percent": 36.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/960155940441?_skw=Lululemon+men%27s+sweater&hash=itemdf8dc0f659:g:EzQAAeSwpU9qSJ2A&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kUO1MQaMrek1qeR%2Fy17CCHyZLnLE0VOcvXZ%2BNNWXLk8Ssj%2BKTdl8h%2BE0hQ926OtOcsrCrvMtZdo%2Fh6DBXBbwaLy9xGv3ZRUhfJpBfK449bX3MERyCuCpduqThDgqy9uHOCD723TJXyxKKJyvQAe9RI6yF7fyDjD160jGARAREYijFqWNzxuIA8C%2B%2FdMyS%2BJ5ZXb5aYfF5D%2FxNSzPvocQcvtOr4sdKMiIVqlKAwV13yL%2Bynx5AiflG44sXSWXLUyI71TBVXKZwyBSiHqYFEmYZk4m0SGMOmDH7PkKs7MEP9tQ%3D%3D",
-      "image_url": "https://i.ebayimg.com/images/g/EzQAAeSwpU9qSJ2A/s-l225.jpg",
-      "color": "lululemon Engineered Warmth Gray Knit Crewneck Mens L Thermal Athleisure",
+      "url": "https://www.ebay.com/itm/800902148192?_skw=Lululemon+men%27s+jogger&hash=itemba797cf060:g:mhsAAeSwFClq7pTS",
+      "image_url": "https://i.ebayimg.com/images/g/mhsAAeSwFClq7pTS/s-l225.jpg",
+      "color": "Lululemon Men\u2019s XL 'ABC Jogger' Black Drawstring Warpstreme Tapered Pants NWT",
       "available_sizes": [
-        "L"
+        "XL",
+        "S"
       ]
     },
     {
@@ -4750,26 +4903,6 @@
         "M",
         "S",
         "XL"
-      ]
-    },
-    {
-      "title": "Performance Seersucker Short-Sleeve Shirt",
-      "brand": "UNTUCKit",
-      "tier": "A",
-      "price": 69.0,
-      "original_price": 109.0,
-      "discount_percent": 36.7,
-      "source": "UNTUCKit",
-      "url": "https://untuckit.com/products/forbes-perf-seersucker-ss-1",
-      "image_url": "https://cdn.shopify.com/s/files/1/0129/1072/files/FORBES-UNTUCKIT-42086Lbl-PERF-SEERSUCKER-LIGHT-BLUE-1.jpg?v=1776273060",
-      "color": "Light Blue",
-      "available_sizes": [
-        "L",
-        "M",
-        "S",
-        "XL",
-        "XXL",
-        "XXXL"
       ]
     },
     {
@@ -4816,7 +4949,7 @@
       "original_price": 48.99,
       "discount_percent": 36.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/287319500725?_skw=Vineyard+Vines+men%27s+short&hash=item42e593a7b5:g:IawAAeSwdsVoAumb",
+      "url": "https://www.ebay.com/itm/287319500725?_skw=Vineyard+Vines+men%27s+t-shirt&hash=item42e593a7b5:g:IawAAeSwdsVoAumb",
       "image_url": "https://i.ebayimg.com/images/g/IawAAeSwdsVoAumb/s-l225.jpg",
       "color": "(3-Pack) Vineyard Vines Men's LARGE T-Shirt Solid Black, Short-Sleeve Pocket Tee",
       "available_sizes": [
@@ -4848,11 +4981,27 @@
       "original_price": 155,
       "discount_percent": 35.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/147673236207?_skw=Peter+Millar+men%27s+jogger&hash=item226202c2ef:g:1swAAeSwOa9qmNUk&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nDoA9jAXQNgetgYjhyprkT0Mj9E%2BS1BvtELB2eCc9bVbx1sUuJLaZqHqpAtVzP5bjTnxuxAg0mRDi%2FSsHKIk7dsPonAVmzrtJa1BXf4bg31MSVq4WxXlCGi%2B3muKhqvIh4h7ZPtyLXwR1doQ%2BLzg3e8TeviwMGk9%2FauVFXy3ub%2ByAQBK4nwxzcdKK34FkQmT491NGIrG7dliH7fvdBUs9DZPU1CIakowZw1e%2BG7jyA71qPIXYNtncu4xDggzwpLXnpem8V6Pz%2BMr41Y2f7QgSw1NXoKNpHir5UngtkSrpFZxtAv%2FPzohsYx5ojt6TWmDE%3D",
+      "url": "https://www.ebay.com/itm/147673236207?_skw=Peter+Millar+men%27s+jogger&hash=item226202c2ef:g:1swAAeSwOa9qmNUk&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nDoA9jAXQNgetgYjhyprkT0Mj9E%2BS1BvtELB2eCc9bVbx1sUuJLaZqHqpAtVzP5bjTnxuxAg0mRDi%2FSsHKIk7dsPonAVmzrtJa1BXf4bg31MSVq4WxXlCGi%2B3muKhqvIjS8VzbwbSs0QtrqM7mxw%2Bt2Rug2CWvIf%2FHPHOMpkc0SEqwsWTbhcXTwxBu61N9urO2uJ0Zh48QY%2BYDkFq8KvzNtR6fWob%2FSv80QO2dT%2BVExzh0xmfDd96fqQcEkMCQE%2FMFqiArb1uvZ3JtbFjFZiho5QfRAqkmHQJnzUHndR2EN5wSAJI8w777L%2BEQv8D%2FfTk%3D",
       "image_url": "https://i.ebayimg.com/images/g/1swAAeSwOa9qmNUk/s-l225.jpg",
       "color": "PETER MILLAR Mens LARGE Atlas Marble Performance Jogger Golf Pants Navy Blue NEW",
       "available_sizes": [
         "L"
+      ]
+    },
+    {
+      "title": "Vineyard Vines Men's Short Sleeve Pocket T-Shirt Heather Gray Size L - NEW",
+      "brand": "Vineyard Vines",
+      "tier": "S",
+      "price": 9.62,
+      "original_price": 14.8,
+      "discount_percent": 35.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/820218457231?_skw=Vineyard+Vines+men%27s+t-shirt&hash=itembef8d46c8f:g:czMAAeSwe2lqyAqR&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kukePSsEmk7qbmQtyC886sixP7hLAGlhRr86wpomMcdZYn6sfS%2Bgo%2BOmemttrHVLmLk8NcHm0woKyJUhyNsyiFsz%2FIVczaRIo7K6H6NbvZeYelQ2RYg61nf8sgfIeIabcwyjggCqmVSiZen4ITAfSCwBowNMzOhiZOBO5HGlN7YScGDOCWztnKRqxDw4h%2BezTJBM5Jpk37QL2cu83u89KqjaQQtN14e731ZKQv9HclnUYQAN2OTRzH5rcQC2lw2tiEvsj9qcdttigFSJ%2BvU4y82afC2rDETHNDUVPQ%2BosT3zGDGGZdLIYPokmyerUzteo%3D",
+      "image_url": "https://i.ebayimg.com/images/g/czMAAeSwe2lqyAqR/s-l225.jpg",
+      "color": "Vineyard Vines Men's Short Sleeve Pocket T-Shirt Heather Gray Size L - NEW",
+      "available_sizes": [
+        "L",
+        "S"
       ]
     },
     {
@@ -4863,7 +5012,7 @@
       "original_price": 230,
       "discount_percent": 34.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/136918738607?_skw=Barbour+men%27s+overshirt&hash=item1fe0fe26af:g:wqsAAeSwKe1o4b58&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7l8Bo1aSx3jdg1PIVMXLNqNk9r4x21FP%2Ba4E1KEIAnOcySUqAyR2a0JD2liqJt7jZ%2BjQ0xRw8goBOXHr1iiZKEVQ5qqI%2BW4QVdKxQv3vZgXWn21H8dt8Aw5Jr9ni5UU2Kd5jM3onWBoJjJ96a3aztLq7ur3wAK6fkkee1FkUN5F%2BxYQLn6AgYjZ71mYkVbsr9gMjbtEXlxT6Ca%2Bs5sPxH%2FbEP0IQnlajWTPjSNzpmp5m8D9oEhD2dg89ITtuOqpIys5QkPXB%2FpD8PajVfH58M4ceOg969skFA7YpnoIza%2FmVhs9MgMy10RCC1V9IaD4C6U%3D",
+      "url": "https://www.ebay.com/itm/136918738607?_skw=Barbour+men%27s+overshirt&hash=item1fe0fe26af:g:wqsAAeSwKe1o4b58&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7l8Bo1aSx3jdg1PIVMXLNqNk9r4x21FP%2Ba4E1KEIAnOcySUqAyR2a0JD2liqJt7jZ%2BjQ0xRw8goBOXHr1iiZKEVQ5qqI%2BW4QVdKxQv3vZgXWn21H8dt8Aw5Jr9ni5UU2KfkPj4qB%2BHNx%2FP4nfeL3uqtp0%2F%2BCnWQ6%2BMIJ0tixSTEbUG9FOpfnD0XDEkzg9PrN6uc4BAS6KCTz990PesWMoUTOtCHjt4sq%2BmwLS45mE3Z%2B67Y6AbGSQsfLQXfE18ccRVClstFV24UqIYHVqWrKZeALalN6g39w%2FJjpjDq8YtSbwBGipZcq3xLUq6AV6eFNGw%3D",
       "image_url": "https://i.ebayimg.com/images/g/wqsAAeSwKe1o4b58/s-l225.jpg",
       "color": "Barbour x Maison Kitsune Overshirt Jacket Men's Size L Khaki, NEW NWOT",
       "available_sizes": [
@@ -4916,7 +5065,6 @@
       "color": "Stone",
       "available_sizes": [
         "L",
-        "S",
         "XL",
         "XS",
         "XXL"
@@ -4938,22 +5086,6 @@
       ]
     },
     {
-      "title": "Polo Ralph Lauren Spring Navy Quarter Zip Pullover Sweater Men's Size Medium New",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 85.0,
-      "original_price": 130,
-      "discount_percent": 34.6,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/800837773320?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=itemba75a6a808:g:528AAeSwu-1q3k5r",
-      "image_url": "https://i.ebayimg.com/images/g/528AAeSwu-1q3k5r/s-l225.jpg",
-      "color": "Polo Ralph Lauren Spring Navy Quarter Zip Pullover Sweater Men's Size Medium New",
-      "available_sizes": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "J.Crew Quilted Quarter-Zip Pullover Men Size M Grey Diamond Texture BS847 NWT",
       "brand": "J.Crew",
       "tier": "A",
@@ -4961,7 +5093,7 @@
       "original_price": 90,
       "discount_percent": 34.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/920080338733?_skw=J.Crew+men%27s+quarter+zip&hash=itemd6390fcf2d:g:UqYAAeSw2P1q4RFm&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n73H6nEEi5%2BJC99sQLuw5RxeG3ZRgqRdfOFgIPMZ8LrtjEjhvLpJtBAOvhhLIpSFWeAW4Eh%2BkYngqSQJklZLV9%2FXYsOrws4D%2B%2BPDpq6m1NRyjc2UxAl3O1xTjQJLGwSvlQA40CSX3oCxZ0v8XP84njFDraI%2FR9ZaVV3fS7ACn%2FVrhx4KcTKqAYOYUM7N7cMWWyr06326MDzVe%2FWhvDjd8gS%2FXOrH7BVXDf2B7jMfv35Vb5vFKq2Ix1PuSwMAGrll%2FWJtY5ggMcLjebP%2FFz2IsNZm6HlEyTtZr6ODjnVFd8YYtSjxflvFZDB7%2BmlMVlLHg%3D",
+      "url": "https://www.ebay.com/itm/920080338733?_skw=J.Crew+men%27s+quarter+zip&hash=itemd6390fcf2d:g:UqYAAeSw2P1q4RFm&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7n73H6nEEi5%2BJC99sQLuw5RxeG3ZRgqRdfOFgIPMZ8LrtjEjhvLpJtBAOvhhLIpSFWeAW4Eh%2BkYngqSQJklZLV9%2FXYsOrws4D%2B%2BPDpq6m1NRyjc2UxAl3O1xTjQJLGwSvlBCTArPys68e4nBVWiHR1QkMDYYCVlIA12qLMVdYR2ozkO2Yd4RC9Kio%2BRMHCYgodLyt%2BO6e52G5LA9Iw17l8HOeSxkgRHeMItIEpjDuxn1nraGDfZCi6gG1dowJuMcnXIV%2FG1dY%2BBkVyccp3M5C%2F0IYSvGiJxJiRRERfrutXX4%2FpYJ8kGX2AE5CkqFdebkOI%3D",
       "image_url": "https://i.ebayimg.com/images/g/UqYAAeSw2P1q4RFm/s-l225.jpg",
       "color": "J.Crew Quilted Quarter-Zip Pullover Men Size M Grey Diamond Texture BS847 NWT",
       "available_sizes": [
@@ -5053,24 +5185,8 @@
       "available_sizes": [
         "L",
         "M",
-        "S",
         "XL",
         "XXL"
-      ]
-    },
-    {
-      "title": "POLO RALPH LAUREN Mens Double Knit Tech Jogger Pants - Beige - Size M",
-      "brand": "Polo Ralph Lauren",
-      "tier": "S",
-      "price": 86.99,
-      "original_price": 130,
-      "discount_percent": 33.1,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/198636959333?_skw=Polo+Ralph+Lauren+men%27s+jogger&hash=item2e3faf7665:g:lVoAAeSwSyBqpY9q",
-      "image_url": "https://i.ebayimg.com/images/g/lVoAAeSwSyBqpY9q/s-l225.jpg",
-      "color": "POLO RALPH LAUREN Mens Double Knit Tech Jogger Pants - Beige - Size M",
-      "available_sizes": [
-        "M"
       ]
     },
     {
@@ -5081,7 +5197,7 @@
       "original_price": 90,
       "discount_percent": 32.6,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/307250364626?_skw=J.Crew+men%27s+overshirt&hash=item47898c80d2:g:-zkAAeSw5B5qjw7D&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mbMhLcAPSUSYpZNqixxJ2ZBo%2BdabPkU8W5KbLOZxNSjExPGyjAuEyPGPOJ7Wfzw4%2Frbiu%2FQogQc7nAJlPhOS8riqwdEs7iivla9QPjVhKZTm%2FX6RhdJptRyxy3jeesQeOnW4uioer%2BVihrMaSxPB4800%2BT4mTYyK8HAP5gobHajnSccVDWebZG7vCVCEj9g%2FLF%2F2yfn2rXY2D5YSlPGTWot0T1%2FHGBstrJRFXIAT9yx3ytcBreJONp8bN%2FzMaeQTyjxayiv3cogedPBhHfnXP3f7shrnuBBrWfl7RoTU8Gow%3D%3D",
+      "url": "https://www.ebay.com/itm/307250364626?_skw=J.Crew+men%27s+overshirt&hash=item47898c80d2:g:-zkAAeSw5B5qjw7D&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mbMhLcAPSUSYpZNqixxJ2ZBo%2BdabPkU8W5KbLOZxNSjExPGyjAuEyPGPOJ7Wfzw4%2Frbiu%2FQogQc7nAJlPhOS8riqwdEs7iivla9QPjVhKZTm%2FX6RhdJptRyxy3jeesQeN3g2jCf6lkfBgFodd9c3jz%2Fk9xhCt960S7RhkFzntWp2L0Kaj%2BVUKeiZB8t7WSHlQMVTJSnMoXdOBzl6LlL9BopxAEmuGGzDnYA%2B0TVDQn50WUZsJsWHr9qnXGy7eNqTfZ6taWTjCy%2BKMSc6Gn%2B6JtaA1fHcZyYz2BgkOD04hQpw%3D%3D",
       "image_url": "https://i.ebayimg.com/images/g/-zkAAeSw5B5qjw7D/s-l225.jpg",
       "color": "J Crew Mens Gray Wool Blend Speckled Shacket Overshirt Jacket XL NWT",
       "available_sizes": [
@@ -5185,24 +5301,8 @@
       "image_url": "https://i.ebayimg.com/images/g/pWoAAeSwcJxq54qF/s-l225.jpg",
       "color": "Lululemon Surge Jogger Black 29\u201d Men\u2019s Size XL W/ Black Compression  Tshirt XL",
       "available_sizes": [
-        "S",
-        "XL"
-      ]
-    },
-    {
-      "title": "Lululemon Men\u2019s XL 'ABC Jogger' Black Drawstring Warpstreme Tapered Pants NWT",
-      "brand": "Lululemon",
-      "tier": "?",
-      "price": 65.0,
-      "original_price": 95,
-      "discount_percent": 31.6,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/800902148192?_skw=Lululemon+men%27s+jogger&hash=itemba797cf060:g:mhsAAeSwFClq7pTS",
-      "image_url": "https://i.ebayimg.com/images/g/mhsAAeSwFClq7pTS/s-l225.jpg",
-      "color": "Lululemon Men\u2019s XL 'ABC Jogger' Black Drawstring Warpstreme Tapered Pants NWT",
-      "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -5236,16 +5336,16 @@
       ]
     },
     {
-      "title": "Polo Ralph Lauren Men\u2019s Cotton Crew Neck Cable Knit Sweater Black Size M NWT",
+      "title": "Polo Ralph Lauren Men\u2019s Cotton Crew Neck Cable Knit Sweater Grey Size M NWT",
       "brand": "Polo Ralph Lauren",
       "tier": "S",
       "price": 89.0,
       "original_price": 130,
       "discount_percent": 31.5,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/920005127047?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=itemd634942b87:g:bSYAAeSwOJdqwXda&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lt%2FNwlBtxzY1wQ%2FYRgbugB5nERXfnwNumZ2OYRjTxBIiKKC3uGfVtfn0i513SiceTP053felznKVmoiLRqHLyws97ohr7rDPq1Apx8O3AsnNkLyCBwoJ13gZQ%2B2VA4cvc%2FxLgAMt1ljE%2BaHKE%2B%2FPKZgfUszMsSvJ0KcD7dN%2BX%2Ba3TyYw%2BXSaq6VB4OJ4xpJ3EV39f21Y9DAdF5bYNrIh0UJikd581XuexRrQ1Xb6Dieqi2UA%2FbAr5fsZ3Ju2W%2BKqb2xPerdcNaHRQeT16tFvXKT7MuchsUPjcCUoRk8yvqx03KRdwGBSHXZQHfqYrgMqQ%3D",
-      "image_url": "https://i.ebayimg.com/images/g/bSYAAeSwOJdqwXda/s-l225.jpg",
-      "color": "Polo Ralph Lauren Men\u2019s Cotton Crew Neck Cable Knit Sweater Black Size M NWT",
+      "url": "https://www.ebay.com/itm/398452028062?_skw=Polo+Ralph+Lauren+men%27s+sweater&hash=item5cc597729e:g:L80AAeSw8VZqvuDQ&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lG9nwZLcunx60Rdoo2vNvAM4uUXx6joRlCuvV6KEDUf3I3lLqjm%2B7PWwslKM1QNg3Q8n%2F2a0cRiE9SFYdo5i8J5OQSsevGpUYV99GvQYMQWmhCeHsW4B6ATLEtTrfDBlyNrkVYJ2t6JYTambA6eEz%2F3Vhc7UN0HPbq8N0fn2u9s0gJJ%2Fdm2S%2Bk0AqV3QxUnByDnmbVAVveFTzSahtZtJ32gJMDL98HXGweOz%2Fm9uy8KqgIO%2BKou16n%2FAjevm2P6sKzY0Ovxrro0JD6O5HSZ3vr%2FHFaf%2BJj5aWsq%2BmR3mTFqL2zbYfjKY3rGF%2Ff8yHjn50%3D",
+      "image_url": "https://i.ebayimg.com/images/g/L80AAeSw8VZqvuDQ/s-l225.jpg",
+      "color": "Polo Ralph Lauren Men\u2019s Cotton Crew Neck Cable Knit Sweater Grey Size M NWT",
       "available_sizes": [
         "S",
         "M"
@@ -5259,7 +5359,7 @@
       "original_price": 130,
       "discount_percent": 30.8,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/407353037397?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item5ed8221255:g:2OgAAeSwwQxq8yEk&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k5yzcZWcWZO%2BURIy4%2BXzHuWlQukG3YpAIvPicw3FSHbUiWz6KQrdfO%2Biq2lMGH%2F0rrMmjMidE4fUu0eu5Hxopad1S%2BKf6abpuFkibJQaX%2FlhA2bnIVFgNpEpDFXM6Au06vM9OlqpFyD3d0pPQJpAIM2FrvEL%2B7VI8LoEqQhPrtsX3tkCWRU8AlMCBKHFkGdY3PnEIQ4l2VVi1tq7enVDOY5GjepbO%2BL1pOcKYPEDKriXe%2Fyhr9GkPsgd06edSAh4yMABkkiDoJtcrKPIBphAuDXxG3qcd%2FylBRdF%2BNX%2FMOdzya4h7WnDLOPDFMfT0Fyg0%3D",
+      "url": "https://www.ebay.com/itm/407353037397?_skw=Polo+Ralph+Lauren+men%27s+quarter+zip&hash=item5ed8221255:g:2OgAAeSwwQxq8yEk&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7k5yzcZWcWZO%2BURIy4%2BXzHuWlQukG3YpAIvPicw3FSHbUiWz6KQrdfO%2Biq2lMGH%2F0rrMmjMidE4fUu0eu5Hxopad1S%2BKf6abpuFkibJQaX%2FlhA2bnIVFgNpEpDFXM6Au06AgRYpcpq4F1ONeV3d9LMaTXy6VB2ukE35DhWbTMfIV%2FAx5Sultd4lWFttakAvrXWYm7hBl%2Fy3WeS3a%2Bp98H7W5QQtCRanwVSauaOmKazMkO0L9W0QQBSFQwlDOI0q7NicoGRtiljy6%2FobgCiykve1xiDS9XpGKL31y%2BKcj3e94SWIAAL9Hqig20OaeakR3Bc%3D",
       "image_url": "https://i.ebayimg.com/images/g/2OgAAeSwwQxq8yEk/s-l225.jpg",
       "color": "Polo Ralph Lauren Quarter Zip Pullover Men XL Cream Estate Rib Preppy $135 NWT",
       "available_sizes": [
@@ -5332,9 +5432,25 @@
       "original_price": 37.8,
       "discount_percent": 30.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/880099918025?_skw=Brooks+Brothers+men%27s+sweater&hash=itemccea0b00c9:g:v8AAAOSwDJdmfGPW&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nErc%2B9f0JsFUTMg0R90ZrHTOQDXtpcipiICBAKF8bPF1%2Bvhog1qeY907lhzdWnDa%2FQNr6ETRMkiqulaWtUO1P5LnYaR4s3hWPmTyao%2FKD8aekr8LxAuRVXcAqfe4VuRKmzyNFTg30tukbf1iQT9TW6a5d5km%2FNos8JjbvGjx%2FB8IG%2BLjFntVdixmgjRd9h50LPb89AYYuwJNeVaRuAwcbUHptQ03a0gUsJwTJgSx%2FND0jqWBPtSowyLr2Q22bCv1yLISvZGisZ0EtvYA7xY3dMdE0%2FXJmCGJrAqvC5dOAHLKvgbW%2Fc2VaDSIvNO4y3LIA%3D",
+      "url": "https://www.ebay.com/itm/880099918025?_skw=Brooks+Brothers+men%27s+sweater&hash=itemccea0b00c9:g:v8AAAOSwDJdmfGPW&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nErc%2B9f0JsFUTMg0R90ZrHTOQDXtpcipiICBAKF8bPF1%2Bvhog1qeY907lhzdWnDa%2FQNr6ETRMkiqulaWtUO1P5LnYaR4s3hWPmTyao%2FKD8aekr8LxAuRVXcAqfe4VuRKlYpXSQs15NgDWHHzo384y7sdw5dWmn8UnyYwumEY7zPTpZ77rA%2BHVAgkHWLMQa1buZH6xy6QV%2FQtYqVFCcDeGhTFE4vzHM%2Fpvz7djWxTyT8%2FrvVv92Qr0uRpMkZSm7Jdu1vJDXH2qCHyvuAQ7LTWcRtHl4svJ2Fa%2FZL%2BFmXXIi7EggichF6yUHJINcA%2BoV9qw%3D",
       "image_url": "https://i.ebayimg.com/images/g/v8AAAOSwDJdmfGPW/s-l225.jpg",
       "color": "NEW Brooks Brothers Men\u2019s 1/4 Zip Knit Sweater Gray/Burgundy Stripe \u2022 Large",
+      "available_sizes": [
+        "L",
+        "S"
+      ]
+    },
+    {
+      "title": "J Crew Quarter Zip Pullover Men\u2019s Size Extra Large Black Performance Active New",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 28.0,
+      "original_price": 40.0,
+      "discount_percent": 30.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/127980903069?_skw=J.Crew+men%27s+quarter+zip&hash=item1dcc419a9d:g:l5oAAeSw8EFqWuyp",
+      "image_url": "https://i.ebayimg.com/images/g/l5oAAeSw8EFqWuyp/s-l225.jpg",
+      "color": "J Crew Quarter Zip Pullover Men\u2019s Size Extra Large Black Performance Active New",
       "available_sizes": [
         "L",
         "S"
@@ -5352,24 +5468,8 @@
       "image_url": "https://i.ebayimg.com/images/g/M7sAAeSwXMlqKZAJ/s-l225.jpg",
       "color": "Banana Republic Men's Relaxed-Fit Poplin Overshirt JL3 Tapestry Navy Size XL NWT",
       "available_sizes": [
-        "S",
-        "XL"
-      ]
-    },
-    {
-      "title": "New Banana Republic Jogger Men\u2019s XL Loose Beige Pants Gym Polyester 26.5\u201d Inseam",
-      "brand": "Banana Republic",
-      "tier": "?",
-      "price": 35.0,
-      "original_price": 50.0,
-      "discount_percent": 30.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/940067910637?_skw=Banana+Republic+men%27s+jogger&hash=itemdae069f3ed:g:jo8AAeSw0pRqSS~z&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7kjTIrUMxFwcP3SKaCGAd8Nn3Z0s%2FWjBC0t%2BqKuSxGvJuDKxOG%2Fb%2BJcwU2KJJRSV2kuQeCI2uiXS5nsjKb69jn59c5f2BbfaR9n0IQznSfubIGmpcfWx5TYHDOKlDOq5JtxPrKDuV%2FaVkyegQhCBMF%2B6NfV2l80eDFV8jv6zmcIKf5KoSKCtVqm3kAxq1G%2FPZGd%2BDQPQDp%2BRavH3ji6yDlWqxCerfLSaXL4yuTWAMepKENbrZ8fmXZPhbRMGQhVlgtjbJm4%2FfRD8Jt2nF0pe20fWrhrV7BhzTuoFoXLsSVT8B8yjuoAhMpdmYpX%2FMMVzGg%3D",
-      "image_url": "https://i.ebayimg.com/images/g/jo8AAeSw0pRqSS~z/s-l225.jpg",
-      "color": "New Banana Republic Jogger Men\u2019s XL Loose Beige Pants Gym Polyester 26.5\u201d Inseam",
-      "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
       ]
     },
     {
@@ -5377,31 +5477,15 @@
       "brand": "Banana Republic",
       "tier": "?",
       "price": 14.99,
-      "original_price": 20.41,
-      "discount_percent": 26.6,
+      "original_price": 20.25,
+      "discount_percent": 26.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/227481552584?_skw=Banana+Republic+men%27s+quarter+zip&hash=item34f6f506c8:g:6bQAAeSwSUlqhMaf&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nxQk4TTFuAIWN3TfM2ZBfDqB1ZxmA4CPk3QDF87NuWTBJYQzrrUbhdSNf8MQTQIGFCAhEdtB%2BsZamgX4lgl18X43QbPgAuC3rUooeAj9zt0Aj9fYY%2B65ZmlPy2ge4Ux4TCF%2BDFgtFtzLaxugcKAZV4Zd2wVnRyGKWEfAIrlZK2hN7f8KV%2BBVGU%2Fc1VYJY%2BbdHpF0J01iee9Ss%2FCJcj0GtIy9mY%2FmeydKZOUGVGQgB7QXtzWJ6tiSSIJjhGzowJQqTXjYMSILWakLKpePcXb1SmfoUIWkdRMLdjEL8urdWH7YKZwnPRGv3JtqfVJC5Kpnc%3D",
+      "url": "https://www.ebay.com/itm/227481552584?_skw=Banana+Republic+men%27s+quarter+zip&hash=item34f6f506c8:g:6bQAAeSwSUlqhMaf&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nxQk4TTFuAIWN3TfM2ZBfDqB1ZxmA4CPk3QDF87NuWTBJYQzrrUbhdSNf8MQTQIGFCAhEdtB%2BsZamgX4lgl18X43QbPgAuC3rUooeAj9zt0Aj9fYY%2B65ZmlPy2ge4Ux4R%2BeLzVM4NF6%2FTpm3zyCPrssZdnMx6QHDYdu7%2BSV7yUd%2BPf4w27spfZBeb76iK5nKCCv8cmOcfnKgH831fsKusVrFiknlwzEU31MMowrPZllHj0UoIYBJnKbgUHL3R28kw%2FutxMkgxcWa6V4j0NvIhEdJ91NJqY3lzm0o0uU5EzFOM66E1BfnoAwHNfSuZkNcY%3D",
       "image_url": "https://i.ebayimg.com/images/g/6bQAAeSwSUlqhMaf/s-l225.jpg",
       "color": "Banana Republic Men's Quarter Zip Pullover Black Size Xl New With Tags",
       "available_sizes": [
-        "S",
-        "XL"
-      ]
-    },
-    {
-      "title": "NEW J Crew Lambswool Shawl Neck Gray Sweater Men\u2019s M",
-      "brand": "J.Crew",
-      "tier": "A",
-      "price": 18.0,
-      "original_price": 24.0,
-      "discount_percent": 25.0,
-      "source": "eBay",
-      "url": "https://www.ebay.com/itm/820265674855?_skw=J.Crew+men%27s+sweater&hash=itembefba4e867:g:NPYAAeSwl6Zp45UH",
-      "image_url": "https://i.ebayimg.com/images/g/NPYAAeSwl6Zp45UH/s-l225.jpg",
-      "color": "NEW J Crew Lambswool Shawl Neck Gray Sweater Men\u2019s M",
-      "available_sizes": [
-        "S",
-        "M"
+        "XL",
+        "S"
       ]
     },
     {
@@ -5412,7 +5496,7 @@
       "original_price": 28.98,
       "discount_percent": 25.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/237008402059?_skw=Banana+Republic+men%27s+jogger&hash=item372ecd368b:g:w5gAAeSwhyNqgNqS&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7m668iuv%2B9Bv%2BJBHXK185VOO1ecvyGaXE59j0aZDRG6VP%2BBaF%2BhWv80bzY5Z0%2BcQc7xlrKryhgrb%2Bo03g0uLYtDU3JbQLuyWzeFI30VhiyIMu3RvRexfpCXiY2MOnO7hWYCTfm0mq2X26JhbVMuiq0nGDvcBCBv0UVXgB89G7VfTEN9XuutEWYFa9GwtubiKSxtvgNzH9KcSFDW6hBkPht0rSxfo6Vnm%2FOQHCGq32H0ERfshaZ9Twnf%2BZ1b2q1irQAcuVsFXBeLI%2BYm7oXA4fhpwwL0ZrEdT7aZGyhOw5I7wKCpvcYSkrw5Et3jTxlGHP0%3D",
+      "url": "https://www.ebay.com/itm/237008402059?_skw=Banana+Republic+men%27s+jogger&hash=item372ecd368b:g:w5gAAeSwhyNqgNqS",
       "image_url": "https://i.ebayimg.com/images/g/w5gAAeSwhyNqgNqS/s-l225.jpg",
       "color": "Banana Republic Sweatpants Mens Medium Gray Terry Joggers Elastic Waist Pockets",
       "available_sizes": [
@@ -5430,6 +5514,37 @@
       "url": "https://www.ebay.com/itm/317705446174?_skw=J.Crew+men%27s+quarter+zip&hash=item49f8b8631e:g:V-QAAeSw0FZql92P",
       "image_url": "https://i.ebayimg.com/images/g/V-QAAeSw0FZql92P/s-l225.jpg",
       "color": "J. Crew Men\u2019S Navy Blue Textured Quarter Zip Pullover Sweater Size M Nwt",
+      "available_sizes": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "J Crew Mens Large Gray Donegal Fleck Shirt Jacket Overshirt Shacket NWT",
+      "brand": "J.Crew",
+      "tier": "A",
+      "price": 39.99,
+      "original_price": 49.99,
+      "discount_percent": 20.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/227588980409?_skw=J.Crew+men%27s+overshirt&hash=item34fd5c3eb9:g:R3IAAeSwsp9q44~h&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n6cScOPBOfPDmI%2BcG8l4AhNwmVWZXMCE%2FkBHBqklcZSCPQYQHEOaJPewjAMAwCo4RnBvPw63BKQC42t0yQcU9mtlgAeYehdWc%2Fj7ltD%2B2HGgy%2Fi2cDR5sjBMFpEAmeXPxA3WS%2BjmdvUDAViI50gFlF8uPwy2Pj5ldOjo5JTSOY29vS626Rs8QpTKOd%2FbBeUBXqN2RdAsnv64Yqb7KqIGoy6PxOfzS7SAH8IbQv%2Br5RVl6e1EeQyZ6tlMuVe5Xxl%2FuEA7xhA9y0zmpqQSJbGW466P811fwLoApkjMJ0IZhMYw%3D%3D",
+      "image_url": "https://i.ebayimg.com/images/g/R3IAAeSwsp9q44~h/s-l225.jpg",
+      "color": "J Crew Mens Large Gray Donegal Fleck Shirt Jacket Overshirt Shacket NWT",
+      "available_sizes": [
+        "L"
+      ]
+    },
+    {
+      "title": "Banana Republic Men's Pull On Short, M, Gray, NWOT",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 18.39,
+      "original_price": 22.99,
+      "discount_percent": 20.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/820268109061?_skw=Banana+Republic+men%27s+short&hash=itembefbca0d05:g:xgEAAeSww8FqvFlB",
+      "image_url": "https://i.ebayimg.com/images/g/xgEAAeSww8FqvFlB/s-l225.jpg",
+      "color": "Banana Republic Men's Pull On Short, M, Gray, NWOT",
       "available_sizes": [
         "S",
         "M"
@@ -5459,12 +5574,12 @@
       "original_price": 16.99,
       "discount_percent": 15.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/257787621865?_skw=Banana+Republic+men%27s+sweatshirt&hash=item3c0556f1e9:g:KMcAAeSwmmZqin5P&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7my%2F7i5EfTIZW5iwyKCV1elc8AdV8U%2BeeJ8Q%2Bp9B%2BUcI7prMPncSCgtDAqQN2iUlgQZLdNG7eRQxcD620LuaTie%2F7Qes%2F6rZK8%2FOkKHTtSb6h5ciDCgEmmsesinllsSS3yjsasrV6XGvvIZYw%2FfPgGh0amQ89gaSV0X7Gn0zU3b7ioYed%2FR4RFPbSPUg1gUWz2YycU5uIJmpRkS42y9YF9EoGTWlbU33tIuQjvoP7qM5ekffsE8XGwYG4WfC7Wfd8WtVFwygIeoG%2FQgZPboOoSA4BXaJc3JIix0z%2B4Wa8clORWeXURv1q3ixEn6T6dTck4%3D",
+      "url": "https://www.ebay.com/itm/257787621865?_skw=Banana+Republic+men%27s+sweatshirt&hash=item3c0556f1e9:g:KMcAAeSwmmZqin5P",
       "image_url": "https://i.ebayimg.com/images/g/KMcAAeSwmmZqin5P/s-l225.jpg",
       "color": "Banana Republic Men\u2019s Long Sleeve Waffle Crew Sweatshirt Grey XXL / 2XL",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -5479,8 +5594,8 @@
       "image_url": "https://i.ebayimg.com/images/g/ZDUAAeSwBrlqu~sz/s-l225.jpg",
       "color": "Banana Republic Men\u2019s Waffle Crew Long Sleeve Sweatshirt Grey XXL / 2XL",
       "available_sizes": [
-        "S",
-        "XXL"
+        "XXL",
+        "S"
       ]
     },
     {
@@ -5491,7 +5606,7 @@
       "original_price": 37.99,
       "discount_percent": 12.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/188416113481?_skw=Vineyard+Vines+men%27s+quarter+zip&hash=item2bde79bb49:g:84AAAeSwPL5qD69i",
+      "url": "https://www.ebay.com/itm/188416113481?_skw=Vineyard+Vines+men%27s+sweater&hash=item2bde79bb49:g:84AAAeSwPL5qD69i",
       "image_url": "https://i.ebayimg.com/images/g/84AAAeSwPL5qD69i/s-l225.jpg",
       "color": "Vineyard Vines Men's Performance Blank Sankaty Quarter Zip Pullover Size M Navy",
       "available_sizes": [
@@ -5507,7 +5622,7 @@
       "original_price": 39.97,
       "discount_percent": 10.0,
       "source": "eBay",
-      "url": "https://www.ebay.com/itm/880039118746?_skw=Banana+Republic+men%27s+sweater&hash=itemcce66b479a:g:UI0AAeSwTTFq2VJa&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nU7NIhbgOxTHM08HdbojNo%2FbUVOcjf%2BRor73N1P5U4%2FuyU14x2MaSzLPBp4tl1dlmXxHuu5FW0gTvRDE18%2Fd2rBIwEn5%2FKEd51PBXGwnmR6XvpYtGP5UQBF4aAhVjq%2FYbG5%2F7ThXefL%2BXTr5%2FMdu4pQ7WL1L8bFtslaEFa9PmzDB8zkjqSUd2%2BIqHGiUu52Be2at48EFEbsCidARFkWvPmrnD9GmEXIOVc6EIfLeD15A%2BH7YXsEWE1pI%2FTk7hmEoBSt1ljg%2FD8SMcIIGFMOVvaekgdrXlw9YSErtfb2TDAplpnsQE8F04CW5qzRPIUFdg%3D",
+      "url": "https://www.ebay.com/itm/880039118746?_skw=Banana+Republic+men%27s+sweater&hash=itemcce66b479a:g:UI0AAeSwTTFq2VJa&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7nU7NIhbgOxTHM08HdbojNo%2FbUVOcjf%2BRor73N1P5U4%2FuyU14x2MaSzLPBp4tl1dlmXxHuu5FW0gTvRDE18%2Fd2rBIwEn5%2FKEd51PBXGwnmR6XvpYtGP5UQBF4aAhVjq%2FYYICbj6YczNjzYKdGOxioOkRWXDQfURyEBJA5fIqSPlSgDNvzGDjUCzaEdeAcSoPi7wHDDfOrvI5P8f6POatIttiZ7LNHGonAlXSHnHYrzp6VzKkNMAfMZdPozgtfVmhV8XRFwC1ACTYp3N68kzSVSOe%2Fr%2Bx875IK2iS8qpsSwjqx8vnrSnbxHNFh7kyWkT2ro%3D",
       "image_url": "https://i.ebayimg.com/images/g/UI0AAeSwTTFq2VJa/s-l225.jpg",
       "color": "Banana Republic Sweater Mens XL Black Cozy Textured Crew Neck 444177-00 NEW",
       "available_sizes": [
@@ -5542,8 +5657,8 @@
       "image_url": "https://i.ebayimg.com/images/g/NAEAAeSwEu1qqs35/s-l225.jpg",
       "color": "Banana Republic Men's NEW Travel Jogger Black Mid Rise Tapered Leg LT Tall",
       "available_sizes": [
-        "S",
-        "LT"
+        "LT",
+        "S"
       ]
     },
     {
@@ -5558,8 +5673,23 @@
       "image_url": "https://i.ebayimg.com/images/g/BmsAAeSwyeNq6eIW/s-l225.jpg",
       "color": "J.Crew Seaboard Soft Knit Shirt Men's XL Cream Heathered Fleece Overshirt BV899",
       "available_sizes": [
-        "S",
-        "XL"
+        "XL",
+        "S"
+      ]
+    },
+    {
+      "title": "Banana Republic Men Waffle Quarter Zip Pullover Sweater Charcoal Gray Size L NWT",
+      "brand": "Banana Republic",
+      "tier": "?",
+      "price": 28.5,
+      "original_price": 30.0,
+      "discount_percent": 5.0,
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/168664181826?_skw=Banana+Republic+men%27s+quarter+zip&hash=item27452b2c42:g:HqIAAeSwsoRqmwzm&amdata=enc%3AAQALAAABAOf5zIIojhOf%2BkQK%2Bxzjn7lzjaOLMn5vUBMl5wpSSgs13y1N5ECHdVTGWXxim8ZUn3YufraiJfAGFEtSk8T%2BdL%2FQpnh%2Fq5XUp0z8BXJqIXnhWEyNMy5rCnO0%2BtPn%2B%2FfPcVb3eMvuLqLGu8w5A5fuyMeriuyjiijiCNM6dxKV4yBOfRrC0mPPjdJNaZn4k%2Bu2CDVXXhnkISx4t10uFHuHdti2lbPvbkFmG6BP%2FAdZzt6nWdNAqZZGg5krYQO72gwSQT0Tzw1%2BrEG3PTqTjDLKaJEOsMjD%2BJMjuOf3ZDIOD3bw%2FDRI64Q5Idy0uPTzWbMqqcZlbm%2BbwjYuoXpLWNcObrQ%3D",
+      "image_url": "https://i.ebayimg.com/images/g/HqIAAeSwsoRqmwzm/s-l225.jpg",
+      "color": "Banana Republic Men Waffle Quarter Zip Pullover Sweater Charcoal Gray Size L NWT",
+      "available_sizes": [
+        "L"
       ]
     },
     {
